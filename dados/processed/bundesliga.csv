@@ -1,0 +1,131 @@
+player_id,name,date_of_birth,idade,position,sub_position,foot,height_in_cm,country_of_citizenship,current_club_name,market_value_in_eur,highest_market_value_in_eur,partidas_jogadas,minutos_jogados,gols,assistencias,posicao_projeto
+472243,Lilian Egloff,2002-08-20,23.0,Midfield,Attacking Midfield,right,182.0,Germany,Verein für Bewegungsspiele Stuttgart 1893,800000.0,1500000.0,21,380,0,0,Meia
+503160,Paul Nebel,2002-10-10,23.0,Midfield,Attacking Midfield,both,169.0,Germany,1. Fußball- und Sportverein Mainz 05,18000000.0,24000000.0,75,4697,15,9,Meia
+504153,Joe Scally,2002-12-31,23.0,Defender,Right-Back,right,184.0,United States,Borussia Verein für Leibesübungen 1900 Mönchengladbach,7000000.0,12000000.0,153,11556,4,9,Lateral
+504215,Giovanni Reyna,2002-11-13,23.0,Midfield,Attacking Midfield,right,187.0,United States,Borussia Verein für Leibesübungen 1900 Mönchengladbach,4000000.0,42000000.0,125,4496,16,13,Meia
+505653,Fábio Silva,2002-07-19,23.0,Attack,Centre-Forward,right,185.0,Portugal,Borussia Dortmund,22000000.0,28000000.0,28,805,2,6,Centroavante
+519872,Livan Burcu,2004-09-28,21.0,Attack,Left Winger,right,180.0,Türkiye,1. Fußballclub Union Berlin,4000000.0,4000000.0,18,645,1,1,Ponta
+524290,Fisnik Asllani,2002-08-08,23.0,Attack,Centre-Forward,both,191.0,Kosovo,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,35000000.0,35000000.0,43,2525,10,9,Centroavante
+539798,Luca Jaquez,2003-06-02,23.0,Defender,Centre-Back,right,187.0,Switzerland,Verein für Bewegungsspiele Stuttgart 1893,10000000.0,10000000.0,19,1152,0,1,Zagueiro
+552057,Adam Hlozek,2002-07-25,23.0,Attack,Centre-Forward,right,188.0,Czech Republic,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,10000000.0,20000000.0,84,3651,15,10,Centroavante
+565424,Johan Bakayoko,2003-04-20,23.0,Attack,Right Winger,left,179.0,Belgium,RasenBallsport Leipzig,20000000.0,45000000.0,20,774,2,0,Ponta
+569031,Umut Tohumcu,2004-08-11,21.0,Midfield,Central Midfield,right,175.0,Germany,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,5000000.0,7000000.0,40,1649,0,3,Meia
+569033,Armindo Sieb,2003-02-17,23.0,Attack,Second Striker,both,175.0,Germany,1. Fußball- und Sportverein Mainz 05,2500000.0,4000000.0,49,1286,4,3,Centroavante
+578392,Maximilian Beier,2002-10-17,23.0,Attack,Centre-Forward,right,185.0,Germany,Borussia Dortmund,40000000.0,40000000.0,103,6175,33,18,Centroavante
+579459,Albian Hajdari,2003-05-18,23.0,Defender,Centre-Back,left,189.0,Kosovo,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,25000000.0,25000000.0,30,2440,1,2,Zagueiro
+579565,Ísak Jóhannesson,2003-03-23,23.0,Midfield,Central Midfield,left,184.0,Iceland,1. Fußball-Club Köln,8000000.0,10000000.0,31,1812,1,3,Meia
+580195,Jamal Musiala,2003-02-26,23.0,Midfield,Attacking Midfield,right,184.0,Germany,FC Bayern München,100000000.0,140000000.0,154,8790,48,33,Meia
+597432,Leopold Querfeld,2003-12-20,22.0,Defender,Centre-Back,right,190.0,Austria,1. Fußballclub Union Berlin,20000000.0,20000000.0,58,4446,5,2,Zagueiro
+599419,Max Rosenfelder,2003-02-10,23.0,Defender,Centre-Back,right,186.0,Germany,Sport-Club Freiburg,6000000.0,8000000.0,37,1734,1,0,Zagueiro
+599733,Arkadiusz Pyrka,2002-09-20,23.0,Defender,Right-Back,right,177.0,Poland,Fußball-Club St. Pauli von 1910,3500000.0,3500000.0,31,2581,0,1,Lateral
+601143,Nikolas Veratschnig,2003-01-24,23.0,Midfield,Right Midfield,right,180.0,Austria,1. Fußball- und Sportverein Mainz 05,2500000.0,2500000.0,36,1010,0,1,Meia
+605268,Igor Matanovic,2003-03-31,23.0,Attack,Centre-Forward,right,194.0,Croatia,Sport-Club Freiburg,22000000.0,22000000.0,47,1863,12,2,Centroavante
+607720,Jonas Urbig,2003-08-08,22.0,Goalkeeper,Goalkeeper,both,189.0,Germany,FC Bayern München,18000000.0,18000000.0,22,1830,0,0,Goleiro
+610400,William Bøving,2003-03-01,23.0,Attack,Centre-Forward,both,176.0,Denmark,1. Fußball- und Sportverein Mainz 05,3500000.0,8000000.0,9,219,0,1,Centroavante
+613192,Jens Castrop,2003-07-29,22.0,Midfield,Central Midfield,right,178.0,"Korea, South",Borussia Verein für Leibesübungen 1900 Mönchengladbach,10000000.0,10000000.0,26,1594,3,1,Meia
+617755,Jenson Seelt,2003-05-23,23.0,Defender,Centre-Back,right,195.0,Netherlands,Verein für Leibesübungen Wolfsburg,5000000.0,5000000.0,9,680,0,0,Zagueiro
+618472,Castello Lukeba,2002-12-17,23.0,Defender,Centre-Back,left,184.0,France,RasenBallsport Leipzig,50000000.0,50000000.0,81,5940,2,0,Zagueiro
+620295,Mio Backhaus,2004-04-16,22.0,Goalkeeper,Goalkeeper,right,194.0,Germany,Sportverein Werder Bremen von 1899,15000000.0,15000000.0,32,2880,0,0,Goleiro
+632349,Jarell Quansah,2003-01-29,23.0,Defender,Centre-Back,right,190.0,England,Bayer 04 Leverkusen Fußball,45000000.0,45000000.0,28,2302,4,0,Zagueiro
+635645,Aurèle Amenda,2003-07-31,22.0,Defender,Centre-Back,right,194.0,Switzerland,Eintracht Frankfurt Fußball AG,10000000.0,10000000.0,32,1765,0,0,Zagueiro
+640556,Rav van den Berg,2004-07-07,22.0,Defender,Centre-Back,right,191.0,Netherlands,1. Fußball-Club Köln,7000000.0,8000000.0,14,1132,0,1,Zagueiro
+654234,Anton Kade,2004-01-17,22.0,Midfield,Right Midfield,right,185.0,Germany,Fußball-Club Augsburg 1907,10000000.0,10000000.0,32,1820,6,1,Meia
+654982,Bilal El Khannouss,2004-05-10,22.0,Midfield,Attacking Midfield,right,180.0,Morocco,Verein für Bewegungsspiele Stuttgart 1893,35000000.0,35000000.0,25,1635,4,5,Meia
+654991,Samuel Mbangula,2004-01-16,22.0,Attack,Left Winger,right,179.0,Belgium,Sportverein Werder Bremen von 1899,8000000.0,14000000.0,26,1169,3,4,Ponta
+659459,Carney Chukwuemeka,2003-10-20,22.0,Midfield,Central Midfield,right,187.0,Austria,Borussia Dortmund,20000000.0,25000000.0,38,1152,3,0,Meia
+664708,Equi Fernández,2002-07-25,23.0,Midfield,Defensive Midfield,left,178.0,Argentina,Bayer 04 Leverkusen Fußball,20000000.0,25000000.0,20,987,0,1,Volante
+667251,Hugo Bolin,2003-07-24,22.0,Attack,Left Winger,right,179.0,Sweden,Borussia Verein für Leibesübungen 1900 Mönchengladbach,6000000.0,6000000.0,13,547,1,2,Ponta
+667457,Leon Avdullahu,2004-02-23,22.0,Midfield,Defensive Midfield,right,185.0,Kosovo,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,30000000.0,30000000.0,33,2838,0,1,Volante
+669380,Konstantinos Koulierakis,2003-11-28,22.0,Defender,Centre-Back,left,188.0,Greece,Verein für Leibesübungen Wolfsburg,25000000.0,25000000.0,59,4951,4,3,Zagueiro
+671108,Kota Takai,2004-09-04,21.0,Defender,Centre-Back,right,192.0,Japan,Borussia Verein für Leibesübungen 1900 Mönchengladbach,5000000.0,5000000.0,8,339,0,0,Zagueiro
+673071,Oscar Vilhelmsson,2003-10-02,22.0,Attack,Centre-Forward,left,188.0,Sweden,SV Darmstadt 98,2000000.0,2000000.0,26,1375,4,1,Centroavante
+677935,Ricky-Jade Jones,2002-11-08,23.0,Attack,Centre-Forward,right,183.0,England,Fußball-Club St. Pauli von 1910,1200000.0,1200000.0,9,350,2,0,Centroavante
+683812,John Tolkin,2002-07-31,23.0,Defender,Left-Back,left,170.0,United States,Holstein Kiel,2500000.0,4000000.0,11,739,0,2,Lateral
+684315,Nnamdi Collins,2004-01-10,22.0,Defender,Centre-Back,right,188.0,Germany,Eintracht Frankfurt Fußball AG,20000000.0,20000000.0,49,3072,2,3,Zagueiro
+690429,Robert Wagner,2003-07-14,22.0,Midfield,Central Midfield,right,181.0,Germany,Fußball-Club St. Pauli von 1910,1400000.0,1400000.0,16,437,0,0,Meia
+691892,Nathaniel Brown,2003-06-16,23.0,Defender,Left-Back,left,176.0,Germany,Eintracht Frankfurt Fußball AG,40000000.0,40000000.0,59,4610,7,11,Lateral
+692734,Linus Gechter,2004-02-27,22.0,Defender,Centre-Back,right,190.0,Germany,Hertha BSC,1800000.0,4500000.0,13,714,1,0,Zagueiro
+692737,Aljoscha Kemlein,2004-08-02,21.0,Midfield,Defensive Midfield,right,188.0,Germany,1. Fußballclub Union Berlin,12000000.0,12000000.0,47,2919,1,2,Volante
+696164,Tim Oermann,2003-10-06,22.0,Defender,Centre-Back,right,189.0,Germany,Bayer 04 Leverkusen Fußball,4000000.0,5000000.0,51,3134,0,2,Zagueiro
+700106,Brajan Gruda,2004-05-31,22.0,Midfield,Attacking Midfield,left,178.0,Germany,RasenBallsport Leipzig,28000000.0,28000000.0,43,2407,7,6,Meia
+701757,Keke Topp,2004-03-25,22.0,Attack,Centre-Forward,right,192.0,Germany,Sportverein Werder Bremen von 1899,3000000.0,5000000.0,40,886,3,3,Centroavante
+704155,Andréas Hountondji,2002-07-11,23.0,Attack,Centre-Forward,right,190.0,Benin,Fußball-Club St. Pauli von 1910,3000000.0,5000000.0,21,1075,4,0,Centroavante
+707242,Badredine Bouanani,2004-12-08,21.0,Attack,Right Winger,left,177.0,Algeria,Verein für Bewegungsspiele Stuttgart 1893,10000000.0,12000000.0,14,458,0,0,Ponta
+711517,Kevin Paredes,2003-05-07,23.0,Midfield,Left Midfield,left,175.0,United States,Verein für Leibesübungen Wolfsburg,2000000.0,7500000.0,60,2238,4,4,Meia
+718303,Ernest Poku,2004-01-28,22.0,Attack,Right Winger,right,176.0,Netherlands,Bayer 04 Leverkusen Fußball,25000000.0,25000000.0,29,1485,5,5,Ponta
+719694,Andu Kelati,2002-08-13,23.0,Attack,Left Winger,right,181.0,Germany,Holstein Kiel,,,8,286,1,1,Ponta
+720162,Justin Diehl,2004-11-27,21.0,Attack,Left Winger,right,174.0,Germany,Verein für Bewegungsspiele Stuttgart 1893,1200000.0,3500000.0,15,277,1,0,Ponta
+724104,Fabio Chiarodia,2005-06-05,21.0,Defender,Centre-Back,left,186.0,Italy,Borussia Verein für Leibesübungen 1900 Mönchengladbach,3000000.0,3000000.0,40,1203,1,1,Zagueiro
+726701,Rodrigo Ribeiro,2005-04-28,21.0,Attack,Centre-Forward,right,186.0,Portugal,Fußball-Club Augsburg 1907,4000000.0,4000000.0,14,633,2,0,Centroavante
+730484,Aaron Zehnter,2004-10-31,21.0,Defender,Left-Back,left,180.0,Germany,Verein für Leibesübungen Wolfsburg,5000000.0,6000000.0,21,1462,2,0,Lateral
+743500,William Mikelbrencis,2004-02-25,22.0,Defender,Right-Back,right,179.0,France,Hamburger Sport Verein,3000000.0,3000000.0,26,1372,0,4,Lateral
+744728,Arijon Ibrahimovic,2005-12-11,20.0,Midfield,Attacking Midfield,right,178.0,Germany,1. Fußballclub Heidenheim 1846,10000000.0,10000000.0,34,2195,2,4,Meia
+777005,Mert Kömür,2005-07-17,20.0,Midfield,Attacking Midfield,both,184.0,Germany,Fußball-Club Augsburg 1907,12000000.0,12000000.0,52,2225,5,5,Meia
+787151,Lukas Ullrich,2004-03-16,22.0,Defender,Left-Back,left,180.0,Germany,Borussia Verein für Leibesübungen 1900 Mönchengladbach,6000000.0,8000000.0,51,3133,1,2,Lateral
+787912,El Chadaille Bitshiabu,2005-05-16,21.0,Defender,Centre-Back,left,196.0,France,RasenBallsport Leipzig,18000000.0,18000000.0,38,1810,0,0,Zagueiro
+789252,Bence Dárdai,2006-01-24,20.0,Midfield,Attacking Midfield,right,189.0,Hungary,Verein für Leibesübungen Wolfsburg,5000000.0,12000000.0,22,1346,1,3,Meia
+789898,Muhammed Damar,2004-04-09,22.0,Midfield,Attacking Midfield,both,185.0,Germany,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,5000000.0,7000000.0,21,423,0,0,Meia
+792380,Aleksandar Pavlovic,2004-05-03,22.0,Midfield,Defensive Midfield,both,188.0,Germany,FC Bayern München,90000000.0,90000000.0,64,4148,6,3,Volante
+796213,Nelson Weiper,2005-03-17,21.0,Attack,Centre-Forward,right,192.0,Germany,1. Fußball- und Sportverein Mainz 05,7000000.0,15000000.0,61,1452,5,2,Centroavante
+796221,Mats Pannewig,2004-10-28,21.0,Midfield,Central Midfield,,195.0,Germany,VfL Bochum,2500000.0,2500000.0,14,257,0,0,Meia
+796297,Jobe Bellingham,2005-09-23,20.0,Midfield,Central Midfield,right,191.0,England,Borussia Dortmund,40000000.0,40000000.0,32,1785,0,2,Meia
+798043,Tom Rothe,2004-10-29,21.0,Defender,Left-Back,left,193.0,Germany,1. Fußballclub Union Berlin,10000000.0,12000000.0,51,2814,6,5,Lateral
+799993,Ayoube Amaimouni-Echghouyab,2004-11-30,21.0,Attack,Right Winger,left,179.0,Morocco,Eintracht Frankfurt Fußball AG,10000000.0,10000000.0,17,580,2,3,Ponta
+806948,Frank Feller,2004-01-07,22.0,Goalkeeper,Goalkeeper,right,183.0,Germany,1. Fußballclub Heidenheim 1846,800000.0,800000.0,5,390,0,0,Goleiro
+807386,Conrad Harder,2005-04-07,21.0,Attack,Centre-Forward,left,185.0,Denmark,RasenBallsport Leipzig,17000000.0,24000000.0,29,919,3,3,Centroavante
+810649,Max Finkgräfe,2004-03-27,22.0,Defender,Left-Back,left,183.0,Germany,RasenBallsport Leipzig,5000000.0,6000000.0,37,2259,2,1,Lateral
+810895,Eliesse Ben Seghir,2005-02-16,21.0,Attack,Left Winger,right,178.0,Morocco,Bayer 04 Leverkusen Fußball,20000000.0,30000000.0,10,246,0,0,Ponta
+816585,Can Uzun,2005-11-11,20.0,Midfield,Attacking Midfield,right,186.0,Türkiye,Eintracht Frankfurt Fußball AG,45000000.0,45000000.0,41,1832,12,7,Meia
+819636,Dzenan Pejcinovic,2005-02-15,21.0,Attack,Centre-Forward,left,190.0,Germany,Verein für Leibesübungen Wolfsburg,15000000.0,15000000.0,35,1499,8,0,Centroavante
+820241,Damion Downs,2004-07-06,22.0,Attack,Centre-Forward,right,192.0,United States,Hamburger Sport Verein,4000000.0,8000000.0,22,710,2,0,Centroavante
+820957,Derry Scherhant,2002-11-10,23.0,Attack,Left Winger,right,185.0,Germany,Sport-Club Freiburg,7500000.0,7500000.0,41,1571,6,2,Ponta
+822959,Tom Bischof,2005-06-28,21.0,Midfield,Central Midfield,left,176.0,Germany,FC Bayern München,40000000.0,40000000.0,82,4355,8,7,Meia
+829838,Hennes Behrens,2005-01-19,21.0,Defender,Left-Back,right,175.0,Germany,1. Fußballclub Heidenheim 1846,5000000.0,5000000.0,17,1347,1,2,Lateral
+846310,Oscar Højlund,2005-01-04,21.0,Midfield,Central Midfield,right,184.0,Denmark,Eintracht Frankfurt Fußball AG,15000000.0,15000000.0,44,1804,2,2,Meia
+848682,Kosta Nedeljkovic,2005-12-16,20.0,Defender,Right-Back,right,184.0,Serbia,RasenBallsport Leipzig,6000000.0,10000000.0,15,730,0,0,Lateral
+855015,Farès Chaïbi,2002-11-28,23.0,Midfield,Attacking Midfield,right,183.0,Algeria,Eintracht Frankfurt Fußball AG,15000000.0,18000000.0,82,4728,5,18,Meia
+863759,Bruno Ogbus,2005-12-17,20.0,Defender,Centre-Back,right,188.0,Switzerland,Sport-Club Freiburg,15000000.0,15000000.0,20,1192,0,0,Zagueiro
+865682,Ezechiel Banzuzi,2005-02-16,21.0,Midfield,Central Midfield,right,191.0,Netherlands,RasenBallsport Leipzig,16000000.0,18000000.0,24,578,0,1,Meia
+881297,Adam Daghim,2005-09-28,20.0,Attack,Right Winger,left,189.0,Denmark,Verein für Leibesübungen Wolfsburg,7500000.0,7500000.0,27,1358,2,3,Ponta
+892160,Luka Vuskovic,2007-02-24,19.0,Defender,Centre-Back,right,193.0,Croatia,Hamburger Sport Verein,60000000.0,60000000.0,28,2442,6,1,Zagueiro
+894914,Antonio Nusa,2005-04-17,21.0,Attack,Left Winger,right,183.0,Norway,RasenBallsport Leipzig,32000000.0,32000000.0,56,3596,7,7,Ponta
+897424,Assan Ouédraogo,2006-05-09,20.0,Midfield,Central Midfield,right,191.0,Germany,RasenBallsport Leipzig,28000000.0,28000000.0,22,1002,4,3,Meia
+905011,Ibrahim Maza,2005-11-24,20.0,Midfield,Attacking Midfield,right,180.0,Algeria,Bayer 04 Leverkusen Fußball,45000000.0,45000000.0,30,1924,4,5,Meia
+910541,Fábio Baldé,2005-07-20,20.0,Attack,Left Winger,right,182.0,Portugal,Hamburger Sport Verein,5000000.0,5000000.0,16,440,1,1,Ponta
+919515,Jeanuël Belocian,2005-02-17,21.0,Defender,Centre-Back,left,186.0,France,Verein für Leibesübungen Wolfsburg,12000000.0,20000000.0,27,1609,0,1,Zagueiro
+923595,Max Moerstedt,2006-01-15,20.0,Attack,Centre-Forward,right,194.0,Germany,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,7000000.0,7000000.0,35,861,2,1,Centroavante
+923945,Noahkai Banks,2006-12-01,19.0,Defender,Centre-Back,right,193.0,United States,Fußball-Club Augsburg 1907,20000000.0,22000000.0,31,2001,1,1,Zagueiro
+924117,Finn Jeltsch,2006-07-17,19.0,Defender,Centre-Back,right,188.0,Germany,Verein für Bewegungsspiele Stuttgart 1893,35000000.0,35000000.0,35,2284,0,1,Zagueiro
+926301,Tiago Pereira Cardoso,2006-04-07,20.0,Goalkeeper,Goalkeeper,right,190.0,Luxembourg,Borussia Verein für Leibesübungen 1900 Mönchengladbach,1500000.0,1500000.0,5,379,0,0,Goleiro
+927353,Johan Manzambi,2005-10-14,20.0,Midfield,Central Midfield,right,182.0,Switzerland,Sport-Club Freiburg,50000000.0,50000000.0,38,2429,7,7,Meia
+931838,Hugo Larsson,2004-06-27,22.0,Midfield,Central Midfield,right,187.0,Sweden,Eintracht Frankfurt Fußball AG,28000000.0,40000000.0,87,6110,7,4,Meia
+939964,Jean-Mattéo Bahoya,2005-05-07,21.0,Attack,Left Winger,right,180.0,France,Eintracht Frankfurt Fußball AG,25000000.0,25000000.0,57,2370,5,7,Ponta
+942497,Jahmai Simpson-Pusey,2005-11-04,20.0,Defender,Centre-Back,right,187.0,England,1. Fußball-Club Köln,9000000.0,9000000.0,11,864,0,0,Zagueiro
+943795,Jovan Milosevic,2005-07-31,20.0,Attack,Centre-Forward,right,190.0,Serbia,Sportverein Werder Bremen von 1899,7000000.0,7000000.0,18,509,3,1,Centroavante
+944331,Youssoupha Niang,2006-03-25,20.0,Attack,Right Winger,right,185.0,Germany,1. Fußball-Club Köln,2000000.0,2000000.0,10,187,0,0,Ponta
+948279,Chema Andrés,2005-04-25,21.0,Midfield,Defensive Midfield,right,190.0,Spain,Verein für Bewegungsspiele Stuttgart 1893,20000000.0,20000000.0,25,1306,3,1,Volante
+951579,Saël Kumbedi,2005-03-26,21.0,Defender,Right-Back,right,175.0,France,Verein für Leibesübungen Wolfsburg,12000000.0,12000000.0,24,1807,0,5,Lateral
+955448,Tidiam Gomis,2006-08-08,19.0,Attack,Left Winger,right,183.0,France,RasenBallsport Leipzig,5000000.0,5000000.0,26,485,1,1,Ponta
+977464,Arthur,2003-03-17,23.0,Defender,Right-Back,right,174.0,Brazil,Bayer 04 Leverkusen Fußball,8000000.0,8000000.0,42,2006,1,6,Lateral
+997861,Kauã Santos,2003-04-11,23.0,Goalkeeper,Goalkeeper,right,196.0,Brazil,Eintracht Frankfurt Fußball AG,7000000.0,10000000.0,22,1850,0,0,Goleiro
+1009440,Jan Bürger,2007-03-10,19.0,Defender,Right-Back,right,180.0,Germany,Verein für Leibesübungen Wolfsburg,3000000.0,3000000.0,7,246,0,0,Lateral
+1035765,Ilyas Ansah,2004-11-08,21.0,Attack,Centre-Forward,right,197.0,Germany,1. Fußballclub Union Berlin,12000000.0,12000000.0,33,1903,5,3,Centroavante
+1042472,Salim Musah,2006-02-22,20.0,Attack,Centre-Forward,right,198.0,Germany,Sportverein Werder Bremen von 1899,2000000.0,2000000.0,8,197,1,0,Centroavante
+1058359,Samuele Inácio,2008-04-02,18.0,Attack,Second Striker,right,176.0,Italy,Borussia Dortmund,15000000.0,15000000.0,7,383,1,0,Centroavante
+1058514,Montrell Culbreath,2007-08-29,18.0,Attack,Right Winger,right,172.0,Germany,Bayer 04 Leverkusen Fußball,15000000.0,15000000.0,12,740,1,0,Ponta
+1058520,Otto Stange,2007-02-09,19.0,Attack,Centre-Forward,right,187.0,Germany,Hamburger Sport Verein,4000000.0,4000000.0,10,288,0,0,Centroavante
+1067904,Bazoumana Touré,2006-03-02,20.0,Attack,Left Winger,left,178.0,Cote d'Ivoire,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,40000000.0,40000000.0,43,2935,5,15,Ponta
+1070979,Wael Mohya,2008-12-31,17.0,Midfield,Attacking Midfield,both,179.0,Germany,Borussia Verein für Leibesübungen 1900 Mönchengladbach,17000000.0,17000000.0,15,549,2,1,Meia
+1073748,Kacper Potulski,2007-10-19,18.0,Defender,Centre-Back,right,195.0,Poland,1. Fußball- und Sportverein Mainz 05,18000000.0,18000000.0,15,1060,1,1,Zagueiro
+1074990,Luca Reggiani,2008-01-09,18.0,Defender,Centre-Back,right,194.0,Italy,Borussia Dortmund,10000000.0,10000000.0,8,513,1,0,Zagueiro
+1075147,Lennart Karl,2008-02-22,18.0,Midfield,Attacking Midfield,left,168.0,Germany,FC Bayern München,60000000.0,60000000.0,26,1282,5,6,Meia
+1077670,Axel Tape,2007-08-10,18.0,Defender,Centre-Back,right,180.0,France,Bayer 04 Leverkusen Fußball,8000000.0,8000000.0,6,221,0,0,Zagueiro
+1084638,Karim Coulibaly,2007-05-23,19.0,Defender,Centre-Back,left,191.0,Germany,Sportverein Werder Bremen von 1899,28000000.0,28000000.0,27,2122,1,0,Zagueiro
+1114155,Patrice Covic,2007-06-25,19.0,Midfield,Attacking Midfield,right,182.0,Croatia,Sportverein Werder Bremen von 1899,4000000.0,4000000.0,15,341,1,0,Meia
+1144627,Kento Shiogai,2005-03-26,21.0,Attack,Centre-Forward,right,180.0,Japan,Verein für Leibesübungen Wolfsburg,8000000.0,8000000.0,12,313,1,0,Centroavante
+1145064,Cyriaque Irié,2005-06-20,21.0,Attack,Right Winger,left,185.0,Burkina Faso,Sport-Club Freiburg,8000000.0,8000000.0,10,343,0,0,Ponta
+1168219,Said El Mala,2006-08-26,19.0,Attack,Left Winger,both,187.0,Germany,1. Fußball-Club Köln,45000000.0,45000000.0,34,1958,13,5,Ponta
+1213681,Alexander Røssing-Lelesiit,2007-01-20,19.0,Attack,Left Winger,right,184.0,Norway,Hamburger Sport Verein,5000000.0,5000000.0,11,320,0,1,Ponta
+1280281,Abdoulie Ceesay,2004-01-05,22.0,Attack,Centre-Forward,,185.0,The Gambia,Fußball-Club St. Pauli von 1910,1000000.0,1000000.0,27,373,3,1,Centroavante
+1364454,Christian Kofane,2006-07-26,19.0,Attack,Centre-Forward,right,189.0,Cameroon,Bayer 04 Leverkusen Fußball,40000000.0,40000000.0,28,1157,5,4,Centroavante
+1390649,Yan Diomande,2006-11-14,19.0,Attack,Left Winger,right,180.0,Cote d'Ivoire,RasenBallsport Leipzig,90000000.0,90000000.0,33,2483,12,9,Ponta

@@ -1,0 +1,119 @@
+player_id,name,date_of_birth,idade,position,sub_position,foot,height_in_cm,country_of_citizenship,current_club_name,market_value_in_eur,highest_market_value_in_eur,partidas_jogadas,minutos_jogados,gols,assistencias,posicao_projeto
+503743,Morgan Rogers,2002-07-26,23.0,Midfield,Attacking Midfield,right,187.0,England,Aston Villa Football Club,90000000.0,90000000.0,85,7057,21,19,Meia
+503981,Tino Livramento,2002-11-12,23.0,Defender,Right-Back,right,182.0,England,Newcastle United Football Club,45000000.0,45000000.0,110,7706,2,4,Lateral
+524285,Luca Netz,2003-05-15,23.0,Defender,Left-Back,left,184.0,Germany,Nottingham Forest Football Club,8000000.0,10000000.0,7,355,0,0,Lateral
+536835,Amad Diallo,2002-07-11,23.0,Attack,Right Winger,left,173.0,Cote d'Ivoire,Manchester United Football Club,45000000.0,50000000.0,70,4804,11,14,Ponta
+540664,Dilane Bakwa,2002-08-26,23.0,Attack,Right Winger,left,180.0,France,Nottingham Forest Football Club,28000000.0,35000000.0,14,552,0,2,Ponta
+556385,Destiny Udogie,2002-11-28,23.0,Defender,Left-Back,left,188.0,Italy,Tottenham Hotspur Football Club,30000000.0,45000000.0,73,5672,2,5,Lateral
+559263,Fábio Carvalho,2002-08-30,23.0,Midfield,Attacking Midfield,right,170.0,Portugal,Brentford Football Club,8000000.0,20000000.0,42,1141,6,1,Meia
+564529,Victor Kristiansen,2002-12-16,23.0,Defender,Left-Back,left,181.0,Denmark,Leicester City,9000000.0,16000000.0,42,3383,0,2,Lateral
+565093,Bart Verbruggen,2002-08-18,23.0,Goalkeeper,Goalkeeper,right,193.0,Netherlands,Brighton and Hove Albion Football Club,40000000.0,40000000.0,95,8550,0,1,Goleiro
+565822,Harvey Elliott,2003-04-04,23.0,Midfield,Attacking Midfield,left,170.0,England,Aston Villa Football Club,20000000.0,35000000.0,97,3768,5,10,Meia
+566799,James Trafford,2002-10-10,23.0,Goalkeeper,Goalkeeper,right,192.0,England,Manchester City Football Club,25000000.0,30000000.0,32,2880,0,0,Goleiro
+566931,Xavi Simons,2003-04-21,23.0,Midfield,Attacking Midfield,right,179.0,Netherlands,Tottenham Hotspur Football Club,40000000.0,80000000.0,28,1757,2,5,Meia
+567576,Elliot Anderson,2002-11-06,23.0,Midfield,Central Midfield,right,179.0,England,Nottingham Forest Football Club,75000000.0,75000000.0,119,7503,6,13,Meia
+568157,Yéremy Pino,2002-10-20,23.0,Attack,Right Winger,right,174.0,Spain,Crystal Palace Football Club,30000000.0,40000000.0,34,2092,2,2,Ponta
+568693,Pape Matar Sarr,2002-09-14,23.0,Midfield,Central Midfield,right,185.0,Senegal,Tottenham Hotspur Football Club,30000000.0,45000000.0,107,5601,8,10,Meia
+583199,James McAtee,2002-10-18,23.0,Midfield,Attacking Midfield,left,180.0,England,Nottingham Forest Football Club,18000000.0,25000000.0,60,2459,6,4,Meia
+598577,Florian Wirtz,2003-05-03,23.0,Midfield,Attacking Midfield,right,177.0,Germany,Liverpool Football Club,100000000.0,140000000.0,33,2390,5,4,Meia
+605426,Melker Ellborg,2003-05-22,23.0,Goalkeeper,Goalkeeper,right,191.0,Sweden,Sunderland Association Football Club,3000000.0,3000000.0,3,270,0,0,Goleiro
+607223,Rayan Cherki,2003-08-17,22.0,Midfield,Attacking Midfield,both,177.0,France,Manchester City Football Club,90000000.0,90000000.0,33,1786,4,12,Meia
+607224,Hannibal,2003-01-21,23.0,Midfield,Attacking Midfield,right,177.0,Tunisia,Burnley Football Club,15000000.0,16000000.0,35,1438,2,4,Meia
+607226,Loum Tchaouna,2003-09-08,22.0,Attack,Right Winger,left,180.0,France,Burnley Football Club,13000000.0,15000000.0,29,1270,2,1,Ponta
+609556,William Osula,2003-08-04,22.0,Attack,Centre-Forward,right,191.0,Denmark,Newcastle United Football Club,28000000.0,28000000.0,59,1719,8,0,Centroavante
+610849,Liam Delap,2003-02-08,23.0,Attack,Centre-Forward,right,186.0,England,Chelsea Football Club,28000000.0,40000000.0,66,3756,13,3,Centroavante
+612517,Bashir Humphreys,2003-03-15,23.0,Defender,Centre-Back,left,186.0,England,Burnley Football Club,12000000.0,15000000.0,20,1578,0,2,Zagueiro
+614258,Levi Colwill,2003-02-26,23.0,Defender,Centre-Back,left,187.0,England,Chelsea Football Club,50000000.0,55000000.0,78,6393,3,4,Zagueiro
+620322,Malo Gusto,2003-05-19,23.0,Defender,Right-Back,right,178.0,France,Chelsea Football Club,35000000.0,35000000.0,93,5882,2,10,Lateral
+624258,Conor Bradley,2003-07-09,23.0,Defender,Right-Back,right,181.0,Northern Ireland,Liverpool Football Club,25000000.0,30000000.0,45,2441,1,7,Lateral
+627248,Lewis Dobbin,2003-01-03,23.0,Attack,Left Winger,right,175.0,England,Aston Villa Football Club,7000000.0,7000000.0,12,227,1,0,Ponta
+627442,Benjamin Sesko,2003-05-31,23.0,Attack,Centre-Forward,right,195.0,Slovenia,Manchester United Football Club,75000000.0,75000000.0,30,1637,11,1,Centroavante
+627626,Wilfried Gnonto,2003-11-05,22.0,Attack,Right Winger,right,170.0,Italy,Leeds United Association Football Club,16000000.0,22000000.0,47,1875,2,7,Ponta
+628451,Roméo Lavia,2004-01-06,22.0,Midfield,Defensive Midfield,right,181.0,Belgium,Chelsea Football Club,22000000.0,50000000.0,58,3442,1,1,Volante
+645686,Lamare Bogarde,2004-01-05,22.0,Midfield,Defensive Midfield,right,185.0,Netherlands,Aston Villa Football Club,18000000.0,18000000.0,36,1523,0,0,Volante
+646658,Aaron Ramsey,2003-01-21,23.0,Midfield,Attacking Midfield,right,181.0,England,Burnley Football Club,6000000.0,15000000.0,14,526,0,0,Meia
+646750,Cristhian Mosquera,2004-06-27,22.0,Defender,Centre-Back,right,191.0,Spain,Arsenal Football Club,40000000.0,40000000.0,20,989,0,0,Zagueiro
+646991,Robin Roefs,2003-01-17,23.0,Goalkeeper,Goalkeeper,left,193.0,Netherlands,Sunderland Association Football Club,28000000.0,28000000.0,35,3150,0,0,Goleiro
+661207,Oscar Bobb,2003-07-12,22.0,Attack,Right Winger,left,177.0,Norway,Fulham Football Club,28000000.0,30000000.0,40,1346,1,2,Ponta
+667121,Rodrigo Gomes,2003-07-07,23.0,Midfield,Left Midfield,right,175.0,Portugal,Wolverhampton Wanderers Football Club,15000000.0,15000000.0,47,1757,5,0,Meia
+667287,Yasin Ayari,2003-10-06,22.0,Midfield,Central Midfield,right,172.0,Sweden,Brighton and Hove Albion Football Club,35000000.0,35000000.0,66,3958,5,4,Meia
+670858,Lewis Hall,2004-09-08,21.0,Defender,Left-Back,left,179.0,England,Newcastle United Football Club,40000000.0,40000000.0,84,5806,2,6,Lateral
+670882,Jamie Gittens,2004-08-08,21.0,Attack,Left Winger,right,178.0,England,Chelsea Football Club,30000000.0,50000000.0,16,490,0,2,Ponta
+680806,Samuel Edozie,2003-01-28,23.0,Attack,Left Winger,right,181.0,England,Southampton FC,5000000.0,8000000.0,19,623,0,0,Ponta
+689637,Chadi Riad,2003-06-17,23.0,Defender,Centre-Back,left,186.0,Morocco,Crystal Palace Football Club,15000000.0,15000000.0,10,644,0,1,Zagueiro
+696181,Romaine Mundle,2003-04-24,23.0,Attack,Left Winger,right,172.0,England,Sunderland Association Football Club,7000000.0,8000000.0,14,401,0,0,Ponta
+696589,Tim Iroegbunam,2003-06-30,23.0,Midfield,Central Midfield,right,183.0,England,Everton Football Club,18000000.0,18000000.0,59,2299,0,4,Meia
+698164,Freddie Potts,2003-09-12,22.0,Midfield,Defensive Midfield,right,183.0,England,West Ham United Football Club,10000000.0,10000000.0,22,1167,0,1,Volante
+698678,Hugo Bueno,2002-09-18,23.0,Defender,Left-Back,left,180.0,Spain,Wolverhampton Wanderers Football Club,12000000.0,12000000.0,78,4413,1,3,Lateral
+701057,Rico Lewis,2004-11-21,21.0,Defender,Right-Back,right,170.0,England,Manchester City Football Club,28000000.0,40000000.0,69,4005,3,3,Lateral
+708072,Nicolò Savona,2003-03-19,23.0,Defender,Right-Back,right,192.0,Italy,Nottingham Forest Football Club,15000000.0,18000000.0,14,1026,2,0,Lateral
+711999,Lesley Ugochukwu,2004-03-26,22.0,Midfield,Defensive Midfield,right,190.0,France,Burnley Football Club,22000000.0,25000000.0,73,4311,4,3,Volante
+717411,Yegor Yarmolyuk,2004-03-01,22.0,Midfield,Central Midfield,right,180.0,Ukraine,Brentford Football Club,32000000.0,32000000.0,95,4784,1,2,Meia
+725912,Antonín Kinský,2003-03-13,23.0,Goalkeeper,Goalkeeper,right,190.0,Czech Republic,Tottenham Hotspur Football Club,15000000.0,15000000.0,13,1170,0,0,Goleiro
+727089,Noah Sadiki,2004-12-17,21.0,Midfield,Central Midfield,right,165.0,DR Congo,Sunderland Association Football Club,35000000.0,35000000.0,33,2896,0,1,Meia
+730861,Milos Kerkez,2003-11-07,22.0,Defender,Left-Back,left,180.0,Hungary,Liverpool Football Club,35000000.0,45000000.0,100,7579,4,8,Lateral
+741238,Omari Hutchinson,2003-10-30,22.0,Midfield,Attacking Midfield,left,174.0,England,Nottingham Forest Football Club,30000000.0,35000000.0,63,4299,4,9,Meia
+741257,Álex Jiménez,2005-05-08,21.0,Defender,Right-Back,right,177.0,Spain,Association Football Club Bournemouth,22000000.0,22000000.0,31,2327,1,0,Lateral
+743384,Chemsdine Talbi,2005-05-09,21.0,Attack,Right Winger,right,175.0,Morocco,Sunderland Association Football Club,25000000.0,25000000.0,28,1564,4,2,Ponta
+743413,Nico O'Reilly,2005-03-21,21.0,Defender,Left-Back,left,193.0,England,Manchester City Football Club,70000000.0,70000000.0,43,3176,7,3,Lateral
+743498,Wilson Odobert,2004-11-28,21.0,Attack,Left Winger,right,182.0,France,Tottenham Hotspur Football Club,18000000.0,22000000.0,69,3938,4,5,Ponta
+743591,Savinho,2004-04-10,22.0,Attack,Left Winger,left,176.0,Brazil,Manchester City Football Club,35000000.0,55000000.0,53,2593,2,12,Ponta
+743600,Andrey Santos,2004-05-03,22.0,Midfield,Central Midfield,right,180.0,Brazil,Chelsea Football Club,40000000.0,45000000.0,28,1262,1,0,Meia
+744149,Adam Wharton,2004-02-06,22.0,Midfield,Defensive Midfield,left,182.0,England,Crystal Palace Football Club,70000000.0,70000000.0,70,5195,1,10,Volante
+745181,Soungoutou Magassa,2003-10-08,22.0,Midfield,Defensive Midfield,right,190.0,France,West Ham United Football Club,17000000.0,17000000.0,22,979,1,0,Volante
+746739,Andre Brooks,2003-08-20,22.0,Midfield,Central Midfield,left,180.0,England,Sheffield United,2500000.0,2500000.0,20,942,0,0,Meia
+747009,Justin Devenny,2003-10-11,22.0,Midfield,Attacking Midfield,left,184.0,Northern Ireland,Crystal Palace Football Club,12000000.0,12000000.0,44,1285,2,1,Meia
+748319,Carlos Alcaraz,2002-11-30,23.0,Midfield,Central Midfield,right,176.0,Argentina,Everton Football Club,15000000.0,15000000.0,54,2490,6,6,Meia
+763079,Abdukodir Khusanov,2004-02-29,22.0,Defender,Centre-Back,right,186.0,Uzbekistan,Manchester City Football Club,50000000.0,50000000.0,27,1933,0,0,Zagueiro
+790992,Alfie Gilchrist,2003-11-28,22.0,Defender,Centre-Back,right,183.0,England,Chelsea Football Club,5000000.0,5000000.0,11,202,1,0,Zagueiro
+801734,Mathys Tel,2005-04-27,21.0,Attack,Centre-Forward,right,183.0,France,Tottenham Hotspur Football Club,22000000.0,50000000.0,44,2255,6,3,Centroavante
+811779,Alejandro Garnacho,2004-07-01,22.0,Attack,Left Winger,right,180.0,Argentina,Chelsea Football Club,28000000.0,50000000.0,117,6613,17,12,Ponta
+817665,Pablo,2004-01-02,22.0,Attack,Centre-Forward,right,184.0,Brazil,West Ham United Football Club,18000000.0,18000000.0,14,828,0,1,Centroavante
+820374,Kobbie Mainoo,2005-04-19,21.0,Midfield,Central Midfield,right,184.0,England,Manchester United Football Club,70000000.0,70000000.0,78,5260,4,3,Meia
+823486,Michael Kayode,2004-07-10,21.0,Defender,Right-Back,right,179.0,Italy,Brentford Football Club,40000000.0,40000000.0,49,3792,1,2,Lateral
+829299,Max Weiß,2004-06-15,22.0,Goalkeeper,Goalkeeper,right,190.0,Germany,Burnley Football Club,4000000.0,4000000.0,3,270,0,0,Goleiro
+855256,Alex Scott,2003-08-21,22.0,Midfield,Central Midfield,right,178.0,England,Association Football Club Bournemouth,50000000.0,50000000.0,80,4621,4,2,Meia
+863741,Nathan Fraser,2005-02-22,21.0,Attack,Centre-Forward,right,188.0,Ireland,Wolverhampton Wanderers Football Club,600000.0,1000000.0,7,184,0,0,Centroavante
+864121,Abdul Fatawu,2004-03-08,22.0,Attack,Right Winger,left,177.0,Ghana,Leicester City,20000000.0,20000000.0,11,577,0,2,Ponta
+864799,Stefan Bajcetic,2004-10-22,21.0,Midfield,Defensive Midfield,right,185.0,Spain,Liverpool Football Club,4000000.0,13000000.0,12,554,1,0,Volante
+866246,Lucas Bergvall,2006-02-02,20.0,Midfield,Central Midfield,right,187.0,Sweden,Tottenham Hotspur Football Club,35000000.0,40000000.0,50,2172,1,4,Meia
+866655,Tyler Dibling,2006-02-17,20.0,Attack,Right Winger,left,178.0,England,Everton Football Club,17000000.0,35000000.0,47,2224,2,1,Ponta
+867688,Jack Hinshelwood,2005-04-11,21.0,Midfield,Defensive Midfield,right,182.0,England,Brighton and Hove Albion Football Club,28000000.0,28000000.0,66,4471,12,7,Volante
+874066,Oliver Arblaster,2004-01-08,22.0,Midfield,Central Midfield,right,180.0,England,Sheffield United,450000.0,450000.0,12,946,0,0,Meia
+876631,Habib Diarra,2004-01-03,22.0,Midfield,Central Midfield,right,178.0,Senegal,Sunderland Association Football Club,35000000.0,35000000.0,20,1409,2,3,Meia
+880245,Mateus Fernandes,2004-07-10,21.0,Midfield,Central Midfield,right,180.0,Portugal,West Ham United Football Club,50000000.0,50000000.0,72,5948,5,8,Meia
+890721,Myles Lewis-Skelly,2006-09-26,19.0,Midfield,Central Midfield,left,178.0,England,Arsenal Football Club,45000000.0,45000000.0,43,2069,1,0,Meia
+900195,Kevin,2003-01-04,23.0,Attack,Left Winger,right,176.0,Brazil,Fulham Football Club,25000000.0,30000000.0,26,1038,1,2,Ponta
+903611,Nilson Angulo,2003-06-19,23.0,Attack,Left Winger,right,184.0,Ecuador,Sunderland Association Football Club,17000000.0,17000000.0,8,406,0,0,Ponta
+904802,Jorrel Hato,2006-03-07,20.0,Defender,Left-Back,left,182.0,Netherlands,Chelsea Football Club,40000000.0,40000000.0,22,1143,0,0,Lateral
+922563,Oliver Scarles,2005-12-12,20.0,Defender,Left-Back,left,180.0,England,West Ham United Football Club,10000000.0,10000000.0,28,1323,0,1,Lateral
+922693,Archie Gray,2006-03-12,20.0,Midfield,Central Midfield,right,187.0,England,Tottenham Hotspur Football Club,35000000.0,38000000.0,51,3216,2,2,Meia
+922769,Lewis Miley,2006-05-01,20.0,Midfield,Central Midfield,right,189.0,England,Newcastle United Football Club,25000000.0,25000000.0,55,3020,3,7,Meia
+923831,Leny Yoro,2005-11-13,20.0,Defender,Centre-Back,right,190.0,France,Manchester United Football Club,50000000.0,55000000.0,53,2903,0,2,Zagueiro
+926952,Patrick Dorgu,2004-10-26,21.0,Attack,Left Winger,left,185.0,Denmark,Manchester United Football Club,35000000.0,35000000.0,38,2288,4,4,Ponta
+936874,Tyrique George,2006-02-04,20.0,Attack,Left Winger,right,181.0,England,Everton Football Club,20000000.0,22000000.0,23,531,1,1,Ponta
+937941,Thierno Barry,2002-10-21,23.0,Attack,Centre-Forward,right,195.0,France,Everton Football Club,30000000.0,30000000.0,38,1915,8,0,Centroavante
+938158,Marc Guiu,2006-01-04,20.0,Attack,Centre-Forward,right,187.0,Spain,Chelsea Football Club,12000000.0,12000000.0,13,336,0,1,Centroavante
+947411,Chris Rigg,2007-06-18,19.0,Midfield,Attacking Midfield,left,177.0,England,Sunderland Association Football Club,25000000.0,25000000.0,18,766,1,1,Meia
+955357,Junior Kroupi,2006-06-23,20.0,Attack,Centre-Forward,right,179.0,France,Association Football Club Bournemouth,70000000.0,70000000.0,33,1683,13,0,Centroavante
+967346,Eliezer Mayenda,2005-05-08,21.0,Attack,Centre-Forward,left,183.0,Spain,Sunderland Association Football Club,16000000.0,18000000.0,20,756,2,0,Centroavante
+973085,Carlos Baleba,2004-01-03,22.0,Midfield,Defensive Midfield,left,179.0,Cameroon,Brighton and Hove Albion Football Club,55000000.0,60000000.0,92,5655,3,1,Volante
+983989,Facundo Buonanotte,2004-12-23,21.0,Midfield,Attacking Midfield,left,174.0,Argentina,Leeds United Association Football Club,12000000.0,22000000.0,75,3526,9,4,Meia
+984096,Jair Cunha,2005-03-07,21.0,Defender,Centre-Back,both,198.0,Brazil,Nottingham Forest Football Club,15000000.0,15000000.0,9,516,0,0,Zagueiro
+989112,Veljko Milosavljevic,2007-06-28,19.0,Defender,Centre-Back,right,192.0,Serbia,Association Football Club Bournemouth,20000000.0,20000000.0,7,367,0,0,Zagueiro
+996897,Diego Gómez,2003-03-27,23.0,Midfield,Central Midfield,right,183.0,Paraguay,Brighton and Hove Albion Football Club,25000000.0,25000000.0,48,2650,6,2,Meia
+1004708,Josh Acheampong,2006-05-05,20.0,Defender,Right-Back,right,190.0,England,Chelsea Football Club,25000000.0,25000000.0,22,837,1,0,Lateral
+1006411,Jaydee Canvot,2006-07-29,19.0,Defender,Centre-Back,right,188.0,France,Crystal Palace Football Club,28000000.0,28000000.0,20,1334,0,0,Zagueiro
+1011131,Josh King,2007-01-03,19.0,Midfield,Attacking Midfield,right,173.0,England,Fulham Football Club,25000000.0,25000000.0,40,1431,1,2,Meia
+1011738,Harry Amass,2007-03-16,19.0,Defender,Left-Back,left,181.0,England,Manchester United Football Club,5000000.0,5000000.0,5,346,0,0,Lateral
+1012534,Yankuba Minteh,2004-07-22,21.0,Attack,Right Winger,left,180.0,The Gambia,Brighton and Hove Albion Football Club,45000000.0,45000000.0,66,4245,9,8,Ponta
+1012564,Rayan,2006-08-03,19.0,Attack,Right Winger,left,187.0,Brazil,Association Football Club Bournemouth,60000000.0,60000000.0,15,1120,5,2,Ponta
+1056993,Estêvão,2007-04-24,19.0,Attack,Right Winger,left,178.0,Brazil,Chelsea Football Club,80000000.0,80000000.0,22,846,2,2,Ponta
+1060087,Charalampos Kostoulas,2007-05-30,19.0,Attack,Centre-Forward,right,185.0,Greece,Brighton and Hove Albion Football Club,25000000.0,25000000.0,21,353,2,1,Centroavante
+1063329,Andrés García,2003-02-07,23.0,Defender,Right-Back,right,185.0,Spain,Aston Villa Football Club,6000000.0,7000000.0,13,400,0,0,Lateral
+1078163,Ayden Heaven,2006-09-22,19.0,Defender,Centre-Back,left,189.0,England,Manchester United Football Club,30000000.0,30000000.0,21,1094,0,1,Zagueiro
+1107733,Harrison Armstrong,2007-01-19,19.0,Midfield,Central Midfield,right,185.0,England,Everton Football Club,12000000.0,12000000.0,16,575,0,0,Meia
+1108466,Rio Ngumoha,2008-08-29,17.0,Attack,Left Winger,right,170.0,England,Liverpool Football Club,30000000.0,30000000.0,19,551,2,1,Ponta
+1111589,El Hadji Malick Diouf,2004-12-28,21.0,Defender,Left-Back,left,177.0,Senegal,West Ham United Football Club,28000000.0,28000000.0,32,2711,0,5,Lateral
+1193867,Pedro Lima,2006-07-01,20.0,Defender,Right-Back,right,174.0,Brazil,Wolverhampton Wanderers Football Club,4000000.0,5000000.0,12,329,0,0,Lateral
+1230661,Mateus Mané,2007-09-16,18.0,Midfield,Attacking Midfield,right,175.0,Portugal,Wolverhampton Wanderers Football Club,20000000.0,20000000.0,28,1791,3,2,Meia

@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Dados brutos (muito grandes pra Git, e reproduzíveis via extract.py)
+dados/raw/*.csv
+
+# Credenciais (nunca comitar token do Kaggle)
+.kaggle/
+*.json
+
+# PyCharm
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db

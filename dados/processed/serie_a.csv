@@ -1,0 +1,131 @@
+player_id,name,date_of_birth,idade,position,sub_position,foot,height_in_cm,country_of_citizenship,current_club_name,market_value_in_eur,highest_market_value_in_eur,partidas_jogadas,minutos_jogados,gols,assistencias,posicao_projeto
+432298,Zion Suzuki,2002-08-21,23.0,Goalkeeper,Goalkeeper,right,190.0,Japan,Parma Calcio 1913,20000000.0,20000000.0,57,5115,0,0,Goleiro
+470391,Jayden Braaf,2002-08-31,23.0,Attack,Left Winger,right,181.0,Netherlands,Verona Hellas Football Club,800000.0,3000000.0,10,403,1,0,Ponta
+487474,Francisco Conceição,2002-12-14,23.0,Attack,Right Winger,left,166.0,Portugal,Juventus Football Club,30000000.0,36000000.0,57,3436,6,9,Ponta
+503881,Aster Vranckx,2002-10-04,23.0,Midfield,Central Midfield,right,183.0,Belgium,Unione Sportiva Sassuolo Calcio,5000000.0,12000000.0,25,927,0,1,Meia
+503991,Yunus Musah,2002-11-29,23.0,Midfield,Central Midfield,right,178.0,United States,Atalanta Bergamasca Calcio S.p.a.,14000000.0,25000000.0,79,3695,1,4,Meia
+557407,Devyne Rensch,2003-01-18,23.0,Defender,Right-Back,right,181.0,Netherlands,Associazione Sportiva Roma,8500000.0,12000000.0,38,1643,1,6,Lateral
+568333,Adam Obert,2002-08-23,23.0,Defender,Left-Back,left,188.0,Slovakia,Cagliari Calcio,7000000.0,7000000.0,79,5071,1,4,Lateral
+569939,Tommaso Barbieri,2002-08-26,23.0,Defender,Right-Back,right,181.0,Italy,Unione Sportiva Cremonese S.p.A.,3800000.0,4000000.0,32,1813,0,1,Lateral
+571604,Giorgio Scalvini,2003-12-11,22.0,Defender,Centre-Back,right,194.0,Italy,Atalanta Bergamasca Calcio S.p.a.,38000000.0,45000000.0,113,7747,7,5,Zagueiro
+571607,Fabio Miretti,2003-08-03,22.0,Midfield,Central Midfield,right,180.0,Italy,Juventus Football Club,15000000.0,16000000.0,100,4638,5,9,Meia
+580451,Martin Baturina,2003-02-16,23.0,Midfield,Attacking Midfield,right,172.0,Croatia,Calcio Como,30000000.0,30000000.0,29,1569,6,3,Meia
+581672,Samuel Iling-Junior,2003-10-04,22.0,Midfield,Left Midfield,left,182.0,England,Pisa Sporting Club,6500000.0,13000000.0,48,1329,3,3,Meia
+583046,Medon Berisha,2003-10-21,22.0,Midfield,Central Midfield,right,186.0,Albania,Unione Sportiva Lecce,5000000.0,6000000.0,36,1799,2,4,Meia
+586984,Daniel Oyegoke,2003-01-03,23.0,Defender,Right-Back,right,188.0,England,Verona Hellas Football Club,1000000.0,1000000.0,20,692,0,0,Lateral
+608172,Ardon Jashari,2002-07-30,23.0,Midfield,Defensive Midfield,left,181.0,Switzerland,Associazione Calcio Milan,25000000.0,32000000.0,14,700,0,1,Volante
+610442,Rasmus Højlund,2003-02-04,23.0,Attack,Centre-Forward,left,191.0,Denmark,Società Sportiva Calcio Napoli,60000000.0,65000000.0,65,4597,21,10,Centroavante
+613393,Gaetano Oristanio,2002-09-28,23.0,Midfield,Attacking Midfield,left,174.0,Italy,Parma Calcio 1913,5000000.0,6500000.0,82,4292,6,4,Meia
+622380,Cesare Casadei,2003-01-10,23.0,Midfield,Central Midfield,right,192.0,Italy,Torino Calcio,15000000.0,15000000.0,48,3013,7,1,Meia
+624436,Gerard Yepes,2002-08-25,23.0,Midfield,Defensive Midfield,right,170.0,Spain,UC Sampdoria,500000.0,500000.0,5,197,0,0,Volante
+631007,Filippo Terracciano,2003-02-08,23.0,Defender,Centre-Back,right,186.0,Italy,Unione Sportiva Cremonese S.p.A.,4500000.0,4500000.0,90,5733,2,2,Zagueiro
+632831,Nicolò Bertola,2003-03-23,23.0,Defender,Centre-Back,right,192.0,Italy,Udinese Calcio,7000000.0,7000000.0,30,1794,0,1,Zagueiro
+633668,Giovanni Fabbian,2003-01-14,23.0,Midfield,Attacking Midfield,right,190.0,Italy,Associazione Calcio Fiorentina,10000000.0,14000000.0,86,3231,10,3,Meia
+641537,Tommaso Baldanzi,2003-03-23,23.0,Midfield,Attacking Midfield,left,170.0,Italy,Genoa Cricket and Football Club,8500000.0,15000000.0,103,4644,8,3,Meia
+644408,Oliver Provstgaard,2003-06-04,23.0,Defender,Centre-Back,left,194.0,Denmark,Società Sportiva Lazio S.p.A.,16000000.0,16000000.0,28,1560,0,0,Zagueiro
+646747,Rafa Obrador,2004-02-24,22.0,Defender,Left-Back,left,181.0,Spain,Torino Calcio,5000000.0,5000000.0,16,1123,1,3,Lateral
+647280,Kieron Bowie,2002-09-21,23.0,Attack,Centre-Forward,left,190.0,Scotland,Verona Hellas Football Club,7000000.0,7000000.0,14,1204,4,1,Centroavante
+648046,Evan Ferguson,2004-10-19,21.0,Attack,Centre-Forward,right,188.0,Ireland,Associazione Sportiva Roma,20000000.0,65000000.0,16,776,3,2,Centroavante
+650993,Filippo Missori,2004-03-24,22.0,Defender,Right-Back,right,182.0,Italy,Unione Sportiva Sassuolo Calcio,1500000.0,1500000.0,11,443,0,0,Lateral
+651005,Cher Ndour,2004-07-27,21.0,Midfield,Central Midfield,right,190.0,Italy,Associazione Calcio Fiorentina,20000000.0,20000000.0,42,2278,3,0,Meia
+652054,Martin Vitík,2003-01-21,23.0,Defender,Centre-Back,right,193.0,Czech Republic,Bologna Football Club 1909,13000000.0,15000000.0,19,1324,0,0,Zagueiro
+659516,Warren Bondo,2003-09-15,22.0,Midfield,Central Midfield,right,177.0,France,Unione Sportiva Cremonese S.p.A.,6000000.0,10000000.0,80,5082,1,1,Meia
+663237,Jacob Ondrejka,2002-09-02,23.0,Attack,Left Winger,right,179.0,Sweden,Parma Calcio 1913,5500000.0,8000000.0,28,1192,5,0,Ponta
+666974,Mikayil Faye,2004-07-14,21.0,Defender,Centre-Back,left,183.0,Senegal,Unione Sportiva Cremonese S.p.A.,4500000.0,10000000.0,8,250,0,0,Zagueiro
+668207,Petar Sučić,2003-10-25,22.0,Midfield,Central Midfield,right,183.0,Croatia,Football Club Internazionale Milano S.p.A.,40000000.0,40000000.0,34,1764,2,2,Meia
+668547,Máximo Perrone,2003-01-07,23.0,Midfield,Defensive Midfield,left,177.0,Argentina,Calcio Como,35000000.0,35000000.0,62,4610,3,7,Volante
+668951,Matías Soulé,2003-04-15,23.0,Attack,Right Winger,left,182.0,Argentina,Associazione Sportiva Roma,35000000.0,35000000.0,109,7515,23,13,Ponta
+670845,Omari Forson,2004-07-20,21.0,Attack,Right Winger,left,179.0,England,AC Monza,2000000.0,2000000.0,9,217,0,0,Ponta
+672381,Jonathan Rowe,2003-04-30,23.0,Attack,Left Winger,right,173.0,England,Bologna Football Club 1909,28000000.0,28000000.0,25,1416,2,2,Ponta
+678441,Daniele Montevago,2003-03-18,23.0,Attack,Centre-Forward,right,184.0,Italy,UC Sampdoria,800000.0,800000.0,6,229,0,0,Centroavante
+679423,Tarik Muharemović,2003-02-28,23.0,Defender,Centre-Back,left,192.0,Bosnia-Herzegovina,Unione Sportiva Sassuolo Calcio,25000000.0,25000000.0,32,2835,2,2,Zagueiro
+691482,Jacopo Fazzini,2003-03-16,23.0,Midfield,Central Midfield,right,178.0,Italy,Associazione Calcio Fiorentina,8500000.0,10000000.0,92,4009,5,3,Meia
+701819,Daniele Ghilardi,2003-01-06,23.0,Defender,Centre-Back,right,189.0,Italy,Associazione Sportiva Roma,18000000.0,18000000.0,47,3116,0,0,Zagueiro
+703245,Antonio Vergara,2003-01-16,23.0,Midfield,Attacking Midfield,left,182.0,Italy,Società Sportiva Calcio Napoli,15000000.0,15000000.0,12,614,1,3,Meia
+705063,Samuele Angori,2003-10-07,22.0,Midfield,Left Midfield,left,186.0,Italy,Pisa Sporting Club,4500000.0,5500000.0,35,2605,0,3,Meia
+708086,Romano Floriani Mussolini,2003-01-27,23.0,Defender,Right-Back,right,188.0,Italy,Unione Sportiva Cremonese S.p.A.,2500000.0,2500000.0,28,1164,0,3,Lateral
+708635,Lorenzo Bernasconi,2003-11-16,22.0,Midfield,Left Midfield,left,190.0,Italy,Atalanta Bergamasca Calcio S.p.a.,20000000.0,20000000.0,23,1569,0,3,Meia
+709957,Álex Valle,2004-04-25,22.0,Defender,Left-Back,left,178.0,Spain,Calcio Como,12000000.0,12000000.0,43,3059,1,4,Lateral
+711976,Andy Diouf,2003-05-17,23.0,Midfield,Central Midfield,left,187.0,France,Football Club Internazionale Milano S.p.A.,20000000.0,20000000.0,19,479,1,0,Meia
+724106,Luca Lipani,2005-05-18,21.0,Midfield,Defensive Midfield,right,185.0,Italy,Unione Sportiva Sassuolo Calcio,7500000.0,7500000.0,32,1413,0,1,Volante
+725242,Luca D'Andrea,2004-09-06,21.0,Attack,Right Winger,left,173.0,Italy,Unione Sportiva Sassuolo Calcio,2500000.0,2500000.0,5,321,0,1,Ponta
+728485,Danilo Veiga,2002-09-25,23.0,Defender,Right-Back,right,183.0,Portugal,Unione Sportiva Lecce,2500000.0,2500000.0,49,3387,0,1,Lateral
+728733,Brooke Norton-Cuffy,2004-01-12,22.0,Defender,Right-Back,right,181.0,England,Genoa Cricket and Football Club,15000000.0,16000000.0,41,2936,2,1,Lateral
+731491,Franco Carboni,2003-04-04,23.0,Defender,Left-Back,left,190.0,Argentina,Parma Calcio 1913,900000.0,1000000.0,18,398,0,1,Lateral
+741090,Jonas Rouhi,2004-01-07,22.0,Defender,Left-Back,left,183.0,Sweden,Juventus Football Club,2000000.0,2000000.0,5,207,0,0,Lateral
+741292,Iker Bravo,2005-01-13,21.0,Attack,Centre-Forward,right,182.0,Spain,Udinese Calcio,5000000.0,5000000.0,29,662,2,1,Centroavante
+743091,Emirhan İlkhan,2004-06-01,22.0,Midfield,Central Midfield,right,175.0,Türkiye,Torino Calcio,6000000.0,6000000.0,31,1200,1,2,Meia
+746712,Pietro Comuzzo,2005-02-20,21.0,Defender,Centre-Back,right,188.0,Italy,Associazione Calcio Fiorentina,18000000.0,25000000.0,64,3932,2,0,Zagueiro
+746891,Cristian Volpato,2003-11-15,22.0,Midfield,Attacking Midfield,left,187.0,Australia,Unione Sportiva Sassuolo Calcio,10000000.0,10000000.0,53,1920,4,5,Meia
+747720,Jayden Addai,2005-08-26,20.0,Attack,Right Winger,left,177.0,Netherlands,Calcio Como,20000000.0,20000000.0,12,687,3,0,Ponta
+798929,Gvidas Gineitis,2004-04-15,22.0,Midfield,Central Midfield,left,191.0,Lithuania,Torino Calcio,5500000.0,6000000.0,76,3854,3,2,Meia
+813137,Niccolò Pisilli,2004-09-23,21.0,Midfield,Central Midfield,right,180.0,Italy,Associazione Sportiva Roma,30000000.0,30000000.0,55,2513,4,5,Meia
+814446,Luca Marianucci,2004-07-23,21.0,Defender,Centre-Back,right,186.0,Italy,Torino Calcio,7000000.0,7500000.0,30,1756,0,1,Zagueiro
+818448,Alessandro Marcandalli,2002-10-25,23.0,Defender,Centre-Back,right,190.0,Italy,Genoa Cricket and Football Club,14000000.0,14000000.0,42,3002,0,2,Zagueiro
+818880,Tommaso Corazza,2004-06-29,22.0,Defender,Left-Back,right,174.0,Italy,Bologna Football Club 1909,1500000.0,1500000.0,9,187,0,0,Lateral
+827734,Ange-Yoan Bonny,2003-10-25,22.0,Attack,Centre-Forward,right,189.0,Cote d'Ivoire,Football Club Internazionale Milano S.p.A.,35000000.0,35000000.0,70,3676,11,10,Centroavante
+830365,Alisson Santos,2002-09-27,23.0,Attack,Left Winger,right,177.0,Brazil,Società Sportiva Calcio Napoli,28000000.0,28000000.0,14,836,4,0,Ponta
+845654,Kenan Yıldız,2005-05-04,21.0,Attack,Left Winger,both,187.0,Türkiye,Juventus Football Club,75000000.0,75000000.0,98,6198,19,13,Ponta
+846254,Petar Ratkov,2003-08-18,22.0,Attack,Centre-Forward,right,193.0,Serbia,Società Sportiva Lazio S.p.A.,9000000.0,10000000.0,8,228,0,0,Centroavante
+849520,Santiago Castro,2004-09-18,21.0,Attack,Centre-Forward,right,179.0,Argentina,Bologna Football Club 1909,32000000.0,35000000.0,79,4904,16,9,Centroavante
+851385,Tobias Slotsager,2006-01-01,20.0,Defender,Centre-Back,right,190.0,Denmark,Verona Hellas Football Club,3000000.0,3000000.0,8,443,0,0,Zagueiro
+855308,Arthur Atta,2003-01-14,23.0,Midfield,Central Midfield,right,189.0,France,Udinese Calcio,25000000.0,25000000.0,59,3808,5,4,Meia
+867137,Alessandro Circati,2003-10-10,22.0,Defender,Centre-Back,right,191.0,Australia,Parma Calcio 1913,12000000.0,12000000.0,37,3206,1,1,Zagueiro
+875334,Semih Kılıçsoy,2005-08-15,20.0,Attack,Centre-Forward,right,178.0,Türkiye,Cagliari Calcio,11000000.0,15000000.0,22,975,4,0,Centroavante
+876298,Matteo Prati,2003-12-28,22.0,Midfield,Defensive Midfield,right,185.0,Italy,Torino Calcio,5500000.0,10000000.0,71,4435,2,2,Volante
+876400,Simone Pafundi,2006-03-14,20.0,Midfield,Attacking Midfield,left,166.0,Italy,Udinese Calcio,5000000.0,10000000.0,18,191,0,0,Meia
+877124,Rosen Bozhinov,2005-01-23,21.0,Defender,Centre-Back,left,193.0,Bulgaria,Pisa Sporting Club,4000000.0,4000000.0,9,614,0,0,Zagueiro
+883122,Anas Haj Mohamed,2005-03-26,21.0,Attack,Right Winger,right,174.0,Tunisia,Parma Calcio 1913,800000.0,1800000.0,15,443,1,1,Ponta
+883349,Kevin Zeroli,2005-01-11,21.0,Midfield,Central Midfield,right,187.0,Italy,AC Monza,2000000.0,2000000.0,12,431,0,1,Meia
+885226,Riyad Idrissi,2005-06-13,21.0,Defender,Left-Back,left,182.0,Italy,Cagliari Calcio,4000000.0,4000000.0,23,767,2,0,Lateral
+887638,Davide Bartesaghi,2005-12-29,20.0,Defender,Left-Back,left,193.0,Italy,Associazione Calcio Milan,22000000.0,23000000.0,41,2635,2,0,Lateral
+888738,Farès Ghedjemis,2002-09-06,23.0,Attack,Right Winger,left,183.0,France,Frosinone Calcio,600000.0,600000.0,6,180,0,0,Ponta
+890385,Sebastian Otoa,2004-05-13,22.0,Defender,Centre-Back,right,198.0,Denmark,Genoa Cricket and Football Club,2500000.0,2500000.0,16,1010,0,0,Zagueiro
+895937,Marco Palestra,2005-03-03,21.0,Defender,Right-Back,both,186.0,Italy,Cagliari Calcio,35000000.0,35000000.0,46,3302,1,4,Lateral
+914934,Henrik Meister,2003-11-13,22.0,Attack,Centre-Forward,right,192.0,Denmark,Pisa Sporting Club,3800000.0,5000000.0,28,1514,2,0,Centroavante
+916430,Edoardo Motta,2005-01-13,21.0,Goalkeeper,Goalkeeper,right,194.0,Italy,Società Sportiva Lazio S.p.A.,8000000.0,8000000.0,9,810,0,0,Goleiro
+924349,Issa Doumbia,2003-10-16,22.0,Midfield,Central Midfield,right,187.0,Italy,Venezia FC,,,24,935,0,0,Meia
+924857,Lennon Miller,2006-08-25,19.0,Midfield,Central Midfield,right,182.0,Scotland,Udinese Calcio,10000000.0,10000000.0,24,991,0,2,Meia
+925838,Francesco Coppola,2005-04-11,21.0,Defender,Centre-Back,right,195.0,Italy,Pisa Sporting Club,3500000.0,3500000.0,7,456,0,0,Zagueiro
+930781,Pio Esposito,2005-06-28,21.0,Attack,Centre-Forward,right,191.0,Italy,Football Club Internazionale Milano S.p.A.,45000000.0,45000000.0,35,1560,7,4,Centroavante
+931567,Stiven Shpendi,2003-05-19,23.0,Attack,Centre-Forward,right,181.0,Albania,FC Empoli,2700000.0,2700000.0,12,407,0,0,Centroavante
+932187,Sascha Britschgi,2006-08-27,19.0,Defender,Right-Back,right,182.0,Switzerland,Parma Calcio 1913,10000000.0,10000000.0,29,2097,0,2,Lateral
+934527,Alieu Njie,2005-05-14,21.0,Attack,Left Winger,right,185.0,Sweden,Torino Calcio,3000000.0,3000000.0,31,670,2,1,Ponta
+934878,Jeff Ekhator,2006-11-11,19.0,Attack,Centre-Forward,right,188.0,Italy,Genoa Cricket and Football Club,18000000.0,18000000.0,54,1703,4,1,Centroavante
+935760,Rafiu Durosinmi,2003-01-01,23.0,Attack,Centre-Forward,right,192.0,Nigeria,Pisa Sporting Club,7000000.0,7500000.0,12,430,1,1,Centroavante
+944570,Vasilije Adžić,2006-05-12,20.0,Midfield,Attacking Midfield,right,185.0,Montenegro,Juventus Football Club,8000000.0,8000000.0,16,202,1,0,Meia
+948278,Jacobo Ramón,2005-01-06,21.0,Defender,Centre-Back,right,196.0,Spain,Calcio Como,30000000.0,30000000.0,32,2743,2,0,Zagueiro
+948294,Nico Paz,2004-09-08,21.0,Midfield,Attacking Midfield,left,185.0,Argentina,Calcio Como,80000000.0,80000000.0,70,5581,18,16,Meia
+961022,Benja Domínguez,2003-09-19,22.0,Attack,Left Winger,right,172.0,Argentina,Bologna Football Club 1909,9000000.0,15000000.0,39,1829,3,5,Ponta
+964580,Wesley,2003-09-06,22.0,Defender,Right-Back,right,175.0,Brazil,Associazione Sportiva Roma,40000000.0,40000000.0,30,2458,5,1,Lateral
+969192,Ebenezer Akinsanmiro,2004-11-25,21.0,Midfield,Central Midfield,right,184.0,Nigeria,Pisa Sporting Club,7000000.0,7000000.0,25,1460,0,1,Meia
+980575,Oumar Ngom,2004-03-09,22.0,Midfield,Defensive Midfield,right,190.0,Mauritania,Unione Sportiva Lecce,3000000.0,3000000.0,15,840,0,0,Volante
+982267,Ibrahim Sulemana,2003-05-22,23.0,Midfield,Defensive Midfield,right,180.0,Ghana,Cagliari Calcio,6000000.0,7000000.0,65,3165,5,0,Volante
+982855,Reda Belahyane,2004-06-01,22.0,Midfield,Defensive Midfield,right,173.0,Morocco,Società Sportiva Lazio S.p.A.,6800000.0,10000000.0,42,2456,0,3,Volante
+984964,Niccolò Fortini,2006-02-13,20.0,Defender,Left-Back,right,185.0,Italy,Associazione Calcio Fiorentina,10000000.0,10000000.0,16,530,0,0,Lateral
+989621,İsak Vural,2006-05-28,20.0,Midfield,Central Midfield,right,189.0,Türkiye,Pisa Sporting Club,5000000.0,5000000.0,15,752,0,1,Meia
+990637,Zachary Athekame,2004-12-13,21.0,Defender,Right-Back,right,181.0,Switzerland,Associazione Calcio Milan,15000000.0,15000000.0,27,823,2,2,Lateral
+992569,Massimo Pessina,2007-12-25,18.0,Goalkeeper,Goalkeeper,right,188.0,Italy,Bologna Football Club 1909,3500000.0,3500000.0,4,352,0,0,Goleiro
+1004344,Ali Dembélé,2004-01-05,22.0,Defender,Right-Back,right,189.0,France,Torino Calcio,300000.0,300000.0,15,383,1,0,Lateral
+1005165,Giovane,2003-11-24,22.0,Attack,Centre-Forward,left,184.0,Brazil,Società Sportiva Calcio Napoli,12000000.0,12000000.0,33,1872,3,6,Centroavante
+1018259,Gift Orban,2002-07-17,23.0,Attack,Centre-Forward,right,178.0,Nigeria,Verona Hellas Football Club,7000000.0,20000000.0,28,2038,7,3,Centroavante
+1043646,Christian Ordóñez,2004-07-24,21.0,Midfield,Central Midfield,right,177.0,Argentina,Parma Calcio 1913,6500000.0,7000000.0,28,1085,1,0,Meia
+1046867,Jan Ziolkowski,2005-06-05,21.0,Defender,Centre-Back,right,194.0,Poland,Associazione Sportiva Roma,12000000.0,12000000.0,18,507,0,0,Zagueiro
+1058368,Francesco Camarda,2008-03-10,18.0,Attack,Centre-Forward,right,189.0,Italy,Unione Sportiva Lecce,15000000.0,15000000.0,33,890,1,0,Centroavante
+1061282,Assane Diao,2005-09-07,20.0,Attack,Left Winger,right,185.0,Senegal,Calcio Como,30000000.0,30000000.0,32,2343,10,2,Ponta
+1061820,Lorenzo Venturino,2006-06-22,20.0,Attack,Right Winger,right,178.0,Italy,Associazione Sportiva Roma,5000000.0,5000000.0,17,384,2,0,Ponta
+1077175,Honest Ahanor,2008-02-23,18.0,Defender,Centre-Back,left,184.0,Italy,Atalanta Bergamasca Calcio S.p.a.,30000000.0,30000000.0,28,1645,0,1,Zagueiro
+1082774,Amorim,2005-05-18,21.0,Midfield,Central Midfield,right,177.0,Brazil,Genoa Cricket and Football Club,8000000.0,8000000.0,11,554,0,0,Meia
+1112449,Tiago Gabriel,2004-12-26,21.0,Defender,Centre-Back,right,196.0,Portugal,Unione Sportiva Lecce,15000000.0,15000000.0,39,3314,2,0,Zagueiro
+1118347,Juan Arizala,2005-10-10,20.0,Midfield,Left Midfield,left,183.0,Colombia,Udinese Calcio,3500000.0,3500000.0,10,183,0,0,Meia
+1129198,Eivind Helland,2005-04-25,21.0,Defender,Centre-Back,right,196.0,Norway,Bologna Football Club 1909,8000000.0,8000000.0,6,488,0,0,Zagueiro
+1131161,Robinio Vaz,2007-02-17,19.0,Attack,Centre-Forward,right,185.0,France,Associazione Sportiva Roma,18000000.0,18000000.0,12,205,1,0,Centroavante
+1134304,Joseph Liteta,2006-02-22,20.0,Midfield,Central Midfield,right,175.0,Zambia,Cagliari Calcio,3500000.0,3500000.0,4,266,0,0,Meia
+1159022,Mateus Lusuardi,2004-01-08,22.0,Defender,Centre-Back,left,190.0,Brazil,Frosinone Calcio,300000.0,300000.0,4,220,0,0,Zagueiro
+1159864,Mariano Troilo,2003-06-28,23.0,Defender,Centre-Back,both,194.0,Argentina,Parma Calcio 1913,10000000.0,10000000.0,21,1628,1,0,Zagueiro
+1178488,Idrissa Gueye,2006-09-16,19.0,Attack,Centre-Forward,right,185.0,Senegal,Udinese Calcio,8000000.0,8000000.0,19,405,1,0,Centroavante
+1190411,Jesús Rodríguez,2005-11-21,20.0,Attack,Left Winger,right,185.0,Spain,Calcio Como,30000000.0,30000000.0,31,1735,2,9,Ponta
+1191520,Nils Zätterström,2005-03-29,21.0,Defender,Centre-Back,left,192.0,Sweden,Genoa Cricket and Football Club,3500000.0,3500000.0,3,181,0,0,Zagueiro
+1228231,Juan Rodríguez,2005-05-30,21.0,Defender,Centre-Back,left,190.0,Uruguay,Cagliari Calcio,10000000.0,10000000.0,17,1314,1,0,Zagueiro
+1315458,Fallou Cham,2006-02-14,20.0,Defender,Right-Back,right,185.0,The Gambia,Verona Hellas Football Club,1000000.0,1000000.0,6,227,0,0,Lateral
+1371793,Paul Mendy,2007-01-13,19.0,Attack,Centre-Forward,left,,Senegal,Cagliari Calcio,7000000.0,7000000.0,9,330,2,0,Centroavante

@@ -1,0 +1,129 @@
+player_id,name,date_of_birth,idade,position,sub_position,foot,height_in_cm,country_of_citizenship,current_club_name,market_value_in_eur,highest_market_value_in_eur,partidas_jogadas,minutos_jogados,gols,assistencias,posicao_projeto
+490606,Lucas Bergström,2002-09-05,23.0,Goalkeeper,Goalkeeper,right,205.0,Finland,Real Club Deportivo Mallorca S.A.D.,1400000.0,1500000.0,5,450,0,0,Goleiro
+502722,Luka Sucic,2002-09-08,23.0,Midfield,Central Midfield,left,185.0,Croatia,Real Sociedad de Fútbol S.A.D.,10000000.0,20000000.0,51,2813,4,3,Meia
+549027,Martim Neto,2003-01-14,23.0,Midfield,Central Midfield,right,185.0,Portugal,Elche Club de Fútbol S.A.D.,4000000.0,5000000.0,25,1351,2,5,Meia
+555143,Arsen Zakharyan,2003-05-26,23.0,Midfield,Attacking Midfield,right,183.0,Russia,Real Sociedad de Fútbol S.A.D.,9000000.0,18000000.0,49,1749,2,2,Meia
+581678,Jude Bellingham,2003-06-29,23.0,Midfield,Attacking Midfield,right,186.0,England,Real Madrid Club de Fútbol,130000000.0,180000000.0,87,6735,34,19,Meia
+616631,Matteo Ruggeri,2002-07-11,23.0,Defender,Left-Back,left,187.0,Italy,Club Atlético de Madrid S.A.D.,28000000.0,28000000.0,26,1775,0,3,Lateral
+617074,Ilaix Moriba,2003-01-19,23.0,Midfield,Central Midfield,right,185.0,Guinea,Real Club Celta de Vigo S. A. D.,15000000.0,25000000.0,135,7590,4,11,Meia
+622988,Fran Pérez,2002-09-09,23.0,Attack,Right Winger,right,176.0,Spain,Rayo Vallecano de Madrid S. A. D.,2500000.0,8000000.0,94,3988,3,5,Ponta
+623024,Jesús Vázquez,2003-01-02,23.0,Defender,Left-Back,left,182.0,Spain,Valencia Club de Fútbol S. A. D.,4000000.0,5000000.0,84,3504,1,0,Lateral
+624942,Raúl Moro,2002-12-05,23.0,Attack,Left Winger,right,169.0,Spain,Club Atlético Osasuna,3500000.0,7500000.0,47,2969,4,7,Ponta
+632896,Alejandro Francés,2002-08-01,23.0,Defender,Centre-Back,right,182.0,Spain,Girona Fútbol Club S. A. D.,3000000.0,5000000.0,42,2286,0,2,Zagueiro
+636688,Alejandro Balde,2003-10-18,22.0,Defender,Left-Back,left,177.0,Spain,Futbol Club Barcelona,50000000.0,60000000.0,116,8210,1,13,Lateral
+636695,Marc Casadó,2003-09-14,22.0,Midfield,Defensive Midfield,right,172.0,Spain,Futbol Club Barcelona,18000000.0,30000000.0,49,2610,1,4,Volante
+636703,Fermín López,2003-05-11,23.0,Midfield,Attacking Midfield,right,174.0,Spain,Futbol Club Barcelona,100000000.0,100000000.0,89,4487,20,14,Meia
+639733,Peque Fernández,2002-10-04,23.0,Attack,Second Striker,right,172.0,Spain,Sevilla Fútbol Club S.A.D.,3000000.0,5000000.0,52,2112,3,2,Centroavante
+640428,Eduardo Camavinga,2002-11-10,23.0,Midfield,Central Midfield,left,182.0,France,Real Madrid Club de Fútbol,50000000.0,100000000.0,142,7678,4,6,Meia
+646740,Gavi,2004-08-05,21.0,Midfield,Central Midfield,right,173.0,Spain,Futbol Club Barcelona,30000000.0,90000000.0,119,7471,6,13,Meia
+660438,Orri Óskarsson,2004-08-29,21.0,Attack,Centre-Forward,right,186.0,Iceland,Real Sociedad de Fútbol S.A.D.,20000000.0,20000000.0,43,1767,12,0,Centroavante
+661145,Jon Aramburu,2002-07-23,23.0,Defender,Right-Back,right,176.0,Venezuela,Real Sociedad de Fútbol S.A.D.,15000000.0,15000000.0,81,5781,2,1,Lateral
+668179,Carlos Álvarez,2003-08-06,22.0,Midfield,Attacking Midfield,left,168.0,Spain,Levante Unión Deportiva S.A.D.,15000000.0,15000000.0,31,1907,3,1,Meia
+668183,Nico Serrano,2003-03-05,23.0,Attack,Left Winger,left,176.0,Spain,Athletic Club Bilbao,1500000.0,2500000.0,34,774,2,0,Ponta
+668276,Hugo Novoa,2003-01-24,23.0,Defender,Right-Back,right,182.0,Spain,Deportivo Alavés S. A. D.,1000000.0,5000000.0,5,234,0,0,Lateral
+676042,Juanlu Sánchez,2003-08-15,22.0,Defender,Right-Back,right,186.0,Spain,Sevilla Fútbol Club S.A.D.,10000000.0,15000000.0,90,4891,4,9,Lateral
+683840,Pedri,2002-11-25,23.0,Midfield,Central Midfield,right,174.0,Spain,Futbol Club Barcelona,150000000.0,150000000.0,165,11785,22,21,Meia
+692070,Clemens Riedel,2003-07-19,22.0,Defender,Centre-Back,right,186.0,Germany,Reial Club Deportiu Espanyol de Barcelona S.A.D.,4000000.0,5000000.0,20,1397,0,1,Zagueiro
+696764,Abu Kamara,2003-07-21,22.0,Attack,Right Winger,left,183.0,England,Getafe Club de Fútbol S. A. D. Team Dubai,2500000.0,4000000.0,12,248,0,0,Ponta
+706138,Javi Llabrés,2002-09-11,23.0,Attack,Left Winger,both,174.0,Spain,Real Club Deportivo Mallorca S.A.D.,800000.0,800000.0,34,483,1,0,Ponta
+706947,Yago Santiago,2003-04-15,23.0,Attack,Left Winger,right,180.0,Spain,Elche Club de Fútbol S.A.D.,1000000.0,1000000.0,9,278,0,0,Ponta
+707230,Ugo Raghouber,2003-07-13,22.0,Midfield,Defensive Midfield,left,188.0,France,Levante Unión Deportiva S.A.D.,3000000.0,4000000.0,16,705,0,0,Volante
+709187,Nico Williams,2002-07-12,23.0,Attack,Left Winger,right,181.0,Spain,Athletic Club Bilbao,40000000.0,70000000.0,157,10024,22,28,Ponta
+709969,Ilias Akhomach,2004-04-16,22.0,Attack,Right Winger,left,175.0,Morocco,Rayo Vallecano de Madrid S. A. D.,12000000.0,15000000.0,62,2992,3,3,Ponta
+710004,Peter Federico,2002-07-25,23.0,Attack,Right Winger,left,180.0,Dominican Republic,Real Valladolid CF,1500000.0,3000000.0,32,1111,0,1,Ponta
+710677,Iker Muñoz,2002-09-05,23.0,Midfield,Defensive Midfield,right,180.0,Spain,Club Atlético Osasuna,2000000.0,5000000.0,78,3653,4,1,Volante
+710679,Iker Benito,2002-08-10,23.0,Attack,Right Winger,right,176.0,Spain,Club Atlético Osasuna,1400000.0,1500000.0,12,366,1,0,Ponta
+711382,Jon Karrikaburu,2002-09-19,23.0,Attack,Centre-Forward,right,183.0,Spain,Real Sociedad de Fútbol S.A.D.,1800000.0,5000000.0,15,229,0,0,Centroavante
+715628,Damián Rodríguez,2003-03-17,23.0,Midfield,Defensive Midfield,left,180.0,Spain,Real Club Celta de Vigo S. A. D.,500000.0,500000.0,22,1181,0,2,Volante
+719999,Andrés Castrín,2003-05-26,23.0,Defender,Centre-Back,right,188.0,Spain,Sevilla Fútbol Club S.A.D.,6000000.0,6000000.0,19,1276,1,0,Zagueiro
+720038,Pablo Torre,2003-04-03,23.0,Midfield,Attacking Midfield,right,173.0,Spain,Real Club Deportivo Mallorca S.A.D.,5000000.0,7500000.0,79,2738,7,7,Meia
+733576,Alberto Moleiro,2003-09-30,22.0,Attack,Left Winger,right,171.0,Spain,Villarreal Club de Fútbol S.A.D.,50000000.0,50000000.0,100,7028,19,10,Ponta
+741289,Youssef Enríquez,2005-10-07,20.0,Defender,Left-Back,left,170.0,Morocco,Deportivo Alavés S. A. D.,4000000.0,5000000.0,25,1332,0,1,Lateral
+742201,Giuliano Simeone,2002-12-18,23.0,Attack,Right Winger,right,174.0,Argentina,Club Atlético de Madrid S.A.D.,40000000.0,40000000.0,78,4679,7,14,Ponta
+742521,Jhon Solís,2004-10-03,21.0,Midfield,Central Midfield,right,186.0,Colombia,Girona Fútbol Club S. A. D.,2500000.0,4000000.0,37,894,1,0,Meia
+743589,Kaiky,2004-01-12,22.0,Defender,Centre-Back,right,182.0,Brazil,UD Almería,2000000.0,8000000.0,21,1101,1,0,Zagueiro
+764859,Williot Swedberg,2004-02-01,22.0,Attack,Left Winger,right,187.0,Sweden,Real Club Celta de Vigo S. A. D.,20000000.0,20000000.0,80,3101,14,10,Ponta
+765467,Jozhua Vertrouwd,2004-08-21,21.0,Defender,Centre-Back,left,187.0,Netherlands,Rayo Vallecano de Madrid S. A. D.,2000000.0,3000000.0,9,441,0,0,Zagueiro
+766723,Manu Bueno,2004-07-27,21.0,Midfield,Central Midfield,left,178.0,Spain,Sevilla Fútbol Club S.A.D.,1500000.0,1500000.0,23,670,1,0,Meia
+775605,Pablo Barrios,2003-06-15,23.0,Midfield,Central Midfield,right,181.0,Spain,Club Atlético de Madrid S.A.D.,55000000.0,60000000.0,99,6272,2,7,Meia
+780630,Willy Kambwala,2004-08-25,21.0,Defender,Centre-Back,right,192.0,France,Villarreal Club de Fútbol S.A.D.,3000000.0,5000000.0,21,1200,0,0,Zagueiro
+792331,Roony Bardghji,2005-11-15,20.0,Attack,Right Winger,left,173.0,Sweden,Futbol Club Barcelona,15000000.0,15000000.0,21,640,1,1,Ponta
+805714,Renato Veiga,2003-07-29,22.0,Defender,Centre-Back,left,188.0,Portugal,Villarreal Club de Fútbol S.A.D.,25000000.0,25000000.0,32,2478,0,0,Zagueiro
+811778,Álvaro Carreras,2003-03-23,23.0,Defender,Left-Back,left,186.0,Spain,Real Madrid Club de Fútbol,50000000.0,60000000.0,39,2627,2,2,Lateral
+822331,Omar El Hilali,2003-09-12,22.0,Defender,Right-Back,right,183.0,Morocco,Reial Club Deportiu Espanyol de Barcelona S.A.D.,15000000.0,15000000.0,77,6076,0,4,Lateral
+826224,Arnau Martínez,2003-04-25,23.0,Defender,Right-Back,right,182.0,Spain,Girona Fútbol Club S. A. D.,10000000.0,15000000.0,121,9283,7,11,Lateral
+834483,Álex Padilla,2003-09-01,22.0,Goalkeeper,Goalkeeper,right,190.0,Mexico,Athletic Club Bilbao,3000000.0,3000000.0,6,410,0,0,Goleiro
+834487,Hugo Rincón,2003-01-27,23.0,Defender,Right-Back,right,183.0,Spain,Girona Fútbol Club S. A. D.,3500000.0,3500000.0,33,1741,1,2,Lateral
+834491,Alejandro Rego,2003-06-11,23.0,Midfield,Central Midfield,right,192.0,Spain,Athletic Club Bilbao,5000000.0,5000000.0,29,1265,1,1,Meia
+834742,Mateo Joseph,2003-10-19,22.0,Attack,Centre-Forward,right,185.0,Spain,Real Club Deportivo Mallorca S.A.D.,3500000.0,3500000.0,29,1704,2,4,Centroavante
+834744,Antoniu Roca,2002-09-05,23.0,Attack,Right Winger,right,180.0,Spain,Reial Club Deportiu Espanyol de Barcelona S.A.D.,1800000.0,1800000.0,39,1301,0,1,Ponta
+834752,Unai Gómez,2003-05-25,23.0,Midfield,Attacking Midfield,left,183.0,Spain,Athletic Club Bilbao,5000000.0,8000000.0,83,3078,4,4,Meia
+834764,Javi Guerra,2003-05-13,23.0,Midfield,Central Midfield,right,187.0,Spain,Valencia Club de Fútbol S. A. D.,25000000.0,25000000.0,118,7768,12,10,Meia
+844637,Marc Pubill,2003-06-20,23.0,Defender,Centre-Back,right,190.0,Spain,Club Atlético de Madrid S.A.D.,35000000.0,35000000.0,53,3773,2,5,Zagueiro
+857832,David Torres,2003-03-05,23.0,Defender,Centre-Back,left,182.0,Spain,Real Valladolid CF,500000.0,500000.0,25,1766,0,0,Zagueiro
+861410,Arda Güler,2005-02-25,21.0,Midfield,Attacking Midfield,left,175.0,Türkiye,Real Madrid Club de Fútbol,90000000.0,90000000.0,71,3649,13,14,Meia
+861981,Alan Matturro,2004-10-11,21.0,Defender,Centre-Back,left,189.0,Uruguay,Levante Unión Deportiva S.A.D.,4000000.0,8000000.0,19,941,1,1,Zagueiro
+882710,Ramón Martínez,2002-10-22,23.0,Defender,Centre-Back,right,185.0,Spain,Sevilla Fútbol Club S.A.D.,1000000.0,1000000.0,5,258,1,0,Zagueiro
+889435,Obed Vargas,2005-08-05,20.0,Midfield,Central Midfield,right,175.0,Mexico,Club Atlético de Madrid S.A.D.,10000000.0,10000000.0,12,739,0,1,Meia
+890290,Dean Huijsen,2005-04-14,21.0,Defender,Centre-Back,both,197.0,Spain,Real Madrid Club de Fútbol,60000000.0,70000000.0,28,2037,2,2,Zagueiro
+892221,Hugo Sotelo,2003-12-19,22.0,Midfield,Central Midfield,right,180.0,Spain,Real Club Celta de Vigo S. A. D.,5000000.0,12000000.0,63,3333,0,3,Meia
+892929,Hugo Álvarez,2003-07-02,23.0,Attack,Left Winger,right,176.0,Spain,Real Club Celta de Vigo S. A. D.,8000000.0,10000000.0,66,3670,9,6,Ponta
+892932,Miguel Román,2002-12-26,23.0,Midfield,Central Midfield,right,178.0,Spain,Real Club Celta de Vigo S. A. D.,15000000.0,15000000.0,19,1310,1,0,Meia
+895326,Joel Roca,2005-06-07,21.0,Attack,Left Winger,right,176.0,Spain,Girona Fútbol Club S. A. D.,6000000.0,6000000.0,37,1548,3,1,Ponta
+898352,Sebastián Boselli,2003-12-04,22.0,Defender,Centre-Back,right,183.0,Uruguay,Getafe Club de Fútbol S. A. D. Team Dubai,1500000.0,4000000.0,11,374,0,0,Zagueiro
+904712,Justin Smith,2003-02-04,23.0,Midfield,Central Midfield,right,189.0,Canada,Reial Club Deportiu Espanyol de Barcelona S.A.D.,100000.0,300000.0,5,209,0,0,Meia
+907813,Pablo Marín,2003-07-03,23.0,Midfield,Attacking Midfield,right,178.0,Spain,Real Sociedad de Fútbol S.A.D.,7000000.0,8000000.0,67,3086,1,3,Meia
+908621,Nabil Aberdin,2002-08-23,23.0,Defender,Centre-Back,right,192.0,Morocco,Getafe Club de Fútbol S. A. D. Team Dubai,600000.0,800000.0,9,444,0,0,Zagueiro
+912392,Lucas Cepeda,2002-10-31,23.0,Attack,Left Winger,left,177.0,Chile,Elche Club de Fútbol S.A.D.,2500000.0,3500000.0,10,399,1,0,Ponta
+926763,Chuki,2004-04-29,22.0,Midfield,Attacking Midfield,left,176.0,Spain,Real Valladolid CF,4000000.0,4000000.0,18,727,2,0,Meia
+933908,Ángel Ortiz,2004-07-25,21.0,Defender,Right-Back,right,167.0,Spain,Real Betis Balompié S.A.D.,4000000.0,4000000.0,18,935,0,1,Lateral
+935230,Gonzalo García,2004-03-24,22.0,Attack,Centre-Forward,both,182.0,Spain,Real Madrid Club de Fútbol,30000000.0,30000000.0,31,787,4,2,Centroavante
+935231,Víctor Muñoz,2003-07-13,22.0,Attack,Left Winger,right,173.0,Spain,Club Atlético Osasuna,30000000.0,30000000.0,36,2704,6,2,Ponta
+935245,Raúl Asencio,2003-02-13,23.0,Defender,Centre-Back,right,184.0,Spain,Real Madrid Club de Fútbol,20000000.0,40000000.0,46,3381,2,1,Zagueiro
+937955,Héctor Fort,2006-08-02,19.0,Defender,Right-Back,right,185.0,Spain,Elche Club de Fútbol S.A.D.,12000000.0,12000000.0,38,1379,2,4,Lateral
+937958,Lamine Yamal,2007-07-13,18.0,Attack,Right Winger,left,183.0,Spain,Futbol Club Barcelona,200000000.0,200000000.0,101,7337,30,34,Ponta
+938729,Mikel Jauregizar,2003-11-13,22.0,Midfield,Central Midfield,right,177.0,Spain,Athletic Club Bilbao,30000000.0,35000000.0,77,5231,4,2,Meia
+939374,Yoel Lago,2004-03-25,22.0,Defender,Centre-Back,right,185.0,Spain,Real Club Celta de Vigo S. A. D.,4000000.0,4000000.0,21,1613,0,1,Zagueiro
+947431,David López,2003-02-03,23.0,Defender,Centre-Back,right,195.0,Spain,Real Club Deportivo Mallorca S.A.D.,1200000.0,1200000.0,16,1003,0,0,Zagueiro
+948273,Mario Martín,2004-03-05,22.0,Midfield,Defensive Midfield,right,177.0,Spain,Getafe Club de Fútbol S. A. D. Team Dubai,10000000.0,10000000.0,67,3901,2,2,Volante
+948275,Álvaro Rodríguez,2004-07-14,21.0,Attack,Centre-Forward,left,193.0,Uruguay,Elche Club de Fútbol S.A.D.,10000000.0,10000000.0,63,3124,10,6,Centroavante
+960571,Jones El-Abdellaoui,2006-01-12,20.0,Attack,Right Winger,right,184.0,Morocco,Real Club Celta de Vigo S. A. D.,8000000.0,8000000.0,22,668,2,0,Ponta
+961087,Pablo García,2006-06-13,20.0,Attack,Right Winger,left,175.0,Spain,Real Betis Balompié S.A.D.,8000000.0,10000000.0,18,414,0,0,Ponta
+961297,Rodrigo Mendoza,2005-03-15,21.0,Midfield,Central Midfield,right,182.0,Spain,Club Atlético de Madrid S.A.D.,20000000.0,20000000.0,24,1232,1,1,Meia
+962110,Pau Cubarsí,2007-01-22,19.0,Defender,Centre-Back,right,183.0,Spain,Futbol Club Barcelona,80000000.0,80000000.0,85,6889,1,3,Zagueiro
+962125,Buba Sangaré,2007-08-06,18.0,Defender,Right-Back,right,183.0,Spain,Elche Club de Fútbol S.A.D.,4500000.0,4500000.0,12,541,0,0,Lateral
+962145,Arkaitz Mariezkurrena,2005-04-05,21.0,Attack,Left Winger,left,181.0,Spain,Real Sociedad de Fútbol S.A.D.,800000.0,800000.0,9,236,2,0,Ponta
+985383,Valentín Gómez,2003-06-26,23.0,Defender,Centre-Back,left,181.0,Argentina,Real Betis Balompié S.A.D.,12000000.0,12000000.0,28,1875,1,0,Zagueiro
+985806,Alex Freeman,2004-08-09,21.0,Defender,Right-Back,right,188.0,United States,Villarreal Club de Fútbol S.A.D.,3500000.0,3500000.0,9,340,0,0,Lateral
+994536,Claudio Echeverri,2006-01-02,20.0,Midfield,Attacking Midfield,right,170.0,Argentina,Girona Fútbol Club S. A. D.,15000000.0,18000000.0,17,618,1,1,Meia
+1005575,Vitor Reis,2006-01-12,20.0,Defender,Centre-Back,right,186.0,Brazil,Girona Fútbol Club S. A. D.,30000000.0,30000000.0,36,3138,1,1,Zagueiro
+1018920,Marc Bernal,2007-05-26,19.0,Midfield,Defensive Midfield,left,193.0,Spain,Futbol Club Barcelona,30000000.0,30000000.0,25,1031,2,1,Volante
+1018938,Jon Martín,2006-04-23,20.0,Defender,Centre-Back,right,187.0,Spain,Real Sociedad de Fútbol S.A.D.,25000000.0,25000000.0,39,3173,2,1,Zagueiro
+1032280,Oso,2003-07-09,23.0,Defender,Left-Back,left,183.0,Spain,Sevilla Fútbol Club S.A.D.,10000000.0,10000000.0,21,1409,2,3,Lateral
+1034853,Nobel Mendy,2004-09-03,21.0,Defender,Centre-Back,left,187.0,Senegal,Rayo Vallecano de Madrid S. A. D.,7500000.0,7500000.0,26,1911,2,0,Zagueiro
+1038512,Asier Osambela,2004-10-30,21.0,Midfield,Central Midfield,right,186.0,Spain,Club Atlético Osasuna,1000000.0,1000000.0,18,341,1,0,Meia
+1038950,Karl Etta Eyong,2003-10-14,22.0,Attack,Centre-Forward,right,181.0,Cameroon,Levante Unión Deportiva S.A.D.,15000000.0,20000000.0,38,1721,8,4,Centroavante
+1056966,Peio Canales,2005-01-17,21.0,Midfield,Attacking Midfield,right,175.0,Spain,Athletic Club Bilbao,,,8,255,0,0,Meia
+1057316,Franco Mastantuono,2007-08-14,18.0,Attack,Right Winger,left,178.0,Argentina,Real Madrid Club de Fútbol,45000000.0,50000000.0,23,1037,1,0,Ponta
+1061122,Adrián Liso,2005-04-02,21.0,Attack,Left Winger,left,182.0,Spain,Getafe Club de Fútbol S. A. D. Team Dubai,3000000.0,8000000.0,28,1712,3,1,Ponta
+1061336,Pau Navarro,2005-04-25,21.0,Defender,Centre-Back,right,185.0,Spain,Villarreal Club de Fútbol S.A.D.,15000000.0,15000000.0,40,2841,0,0,Zagueiro
+1063338,Carlos Espí,2005-07-24,20.0,Attack,Centre-Forward,right,194.0,Spain,Levante Unión Deportiva S.A.D.,20000000.0,20000000.0,25,1339,11,0,Centroavante
+1063340,Kareem Tunde,2005-08-19,20.0,Attack,Right Winger,left,177.0,Spain,Levante Unión Deportiva S.A.D.,2000000.0,2000000.0,21,1143,0,1,Ponta
+1063553,Pau Cabanes,2005-02-17,21.0,Attack,Centre-Forward,right,179.0,Spain,Villarreal Club de Fútbol S.A.D.,800000.0,800000.0,17,356,1,1,Centroavante
+1064471,Fer López,2004-05-24,22.0,Midfield,Attacking Midfield,left,188.0,Spain,Real Club Celta de Vigo S. A. D.,16000000.0,18000000.0,33,1800,3,1,Meia
+1065442,Iñigo Arguibide,2005-04-19,21.0,Defender,Right-Back,right,178.0,Spain,Club Atlético Osasuna,800000.0,800000.0,7,202,0,0,Lateral
+1076815,Javi Rodríguez,2003-06-27,23.0,Defender,Centre-Back,right,183.0,Spain,Real Club Celta de Vigo S. A. D.,18000000.0,18000000.0,69,5074,3,3,Zagueiro
+1127730,Thiago Fernández,2004-04-03,22.0,Attack,Left Winger,right,175.0,Argentina,Real Oviedo S.A.D.,4500000.0,7000000.0,16,822,0,4,Ponta
+1144700,Matías Moreno,2003-09-24,22.0,Defender,Centre-Back,right,193.0,Argentina,Levante Unión Deportiva S.A.D.,6000000.0,6000000.0,28,2256,0,0,Zagueiro
+1146029,Juanma Herzog,2004-05-13,22.0,Defender,Centre-Back,right,186.0,Spain,UD Las Palmas,1000000.0,1000000.0,23,1605,2,0,Zagueiro
+1164331,Ismael Bekhoucha,2004-11-20,21.0,Defender,Right-Back,right,176.0,Morocco,Getafe Club de Fútbol S. A. D. Team Dubai,300000.0,300000.0,9,185,0,1,Lateral
+1169436,Vladyslav Krapyvtsov,2005-06-25,21.0,Goalkeeper,Goalkeeper,right,188.0,Ukraine,Girona Fútbol Club S. A. D.,300000.0,400000.0,4,317,0,0,Goleiro
+1178721,Rafel Bauzà,2005-01-30,21.0,Midfield,Central Midfield,right,183.0,Spain,Reial Club Deportiu Espanyol de Barcelona S.A.D.,,,5,182,0,0,Meia
+1232057,Paco Cortés,2007-08-11,18.0,Attack,Left Winger,right,178.0,Spain,Levante Unión Deportiva S.A.D.,1500000.0,1500000.0,12,471,0,0,Ponta
+1255616,Alberto Risco,2005-08-30,20.0,Midfield,Attacking Midfield,,,Spain,Getafe Club de Fútbol S. A. D. Team Dubai,200000.0,200000.0,9,199,0,0,Meia
+1268764,Davinchi,2007-10-16,18.0,Defender,Left-Back,left,182.0,Spain,Getafe Club de Fútbol S. A. D. Team Dubai,1000000.0,1000000.0,14,698,0,0,Lateral
+1296876,Marc Domènech,2006-12-01,19.0,Attack,Centre-Forward,left,182.0,Spain,Real Club Deportivo Mallorca S.A.D.,1000000.0,1000000.0,10,298,0,0,Centroavante
+1301775,Jan Virgili,2006-07-26,19.0,Attack,Left Winger,right,177.0,Spain,Real Club Deportivo Mallorca S.A.D.,15000000.0,15000000.0,31,1796,2,6,Ponta
+1305792,Álvaro García Pascual,2002-07-21,23.0,Attack,Centre-Forward,right,190.0,Spain,Sevilla Fútbol Club S.A.D.,1000000.0,1000000.0,8,409,1,0,Centroavante
+1312698,Selton Sánchez,2007-02-20,19.0,Midfield,Central Midfield,right,185.0,Spain,Athletic Club Bilbao,2800000.0,3000000.0,7,193,0,1,Meia
+1375227,Thiago Pitarch,2007-08-03,18.0,Midfield,Central Midfield,right,179.0,Spain,Real Madrid Club de Fútbol,20000000.0,20000000.0,10,597,0,2,Meia
