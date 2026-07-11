@@ -30,10 +30,25 @@ TODAS_METRICAS = [
 def calcular_taxas_por_90(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
 
+    # Garante tipo numérico (Brasileirão tem partidas_jogadas/minutos_jogados como NA)
+    df["minutos_jogados"] = pd.to_numeric(df["minutos_jogados"], errors="coerce")
+    df["partidas_jogadas"] = pd.to_numeric(df["partidas_jogadas"], errors="coerce").fillna(0)
+
     # Taxas baseadas em minutos do Transfermarkt (gols/assistências acumulados)
     minutos = df["minutos_jogados"].replace(0, np.nan)
-    df["gols_90"] = (df["gols"] / minutos * 90).fillna(0)
-    df["assistencias_90"] = (df["assistencias"] / minutos * 90).fillna(0)
+    df["gols_90"] = df["gols"] / minutos * 90
+    df["assistencias_90"] = df["assistencias"] / minutos * 90
+
+    # Onde não temos minutos reais (Brasileirão, dados_completos=False), não dá pra
+    # calcular taxa por 90 - usamos o total bruto de gols como proxy direto. Isso NÃO
+    # é comparável 1:1 com a taxa por 90 das outras ligas (por isso normalizamos essas
+    # linhas separadamente em calcular_score, não junto com o resto).
+    incompletos = ~df["dados_completos"]
+    df.loc[incompletos, "gols_90"] = df.loc[incompletos, "gols"]
+    df.loc[incompletos, "assistencias_90"] = df.loc[incompletos, "assistencias"]
+
+    df["gols_90"] = df["gols_90"].fillna(0)
+    df["assistencias_90"] = df["assistencias_90"].fillna(0)
 
     # Taxas baseadas em minutos do FBRef (só temporada atual) - quando disponível
     if "Playing Time_90s" in df.columns:
@@ -53,16 +68,30 @@ def calcular_taxas_por_90(df: pd.DataFrame) -> pd.DataFrame:
 def calcular_score(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
 
-    # Normaliza cada métrica pra escala 0-1, usando TODOS os jogadores (todas as ligas)
-    # como referência - assim o score é comparável entre ligas diferentes
-    scaler = MinMaxScaler()
-    df[TODAS_METRICAS] = scaler.fit_transform(df[TODAS_METRICAS])
+    # Normaliza cada métrica pra escala 0-1 em colunas SEPARADAS (sufixo _norm),
+    # mantendo as taxas reais (gols_90, assistencias_90, etc.) intactas pra exibição.
+    #
+    # Jogadores com dados_completos=True (5 ligas com taxa por 90 real) são
+    # normalizados juntos, entre si. Jogadores com dados_completos=False
+    # (Brasileirão, só total bruto de gols) são normalizados SEPARADAMENTE,
+    # só entre eles - misturar as duas escalas distorceria o score (totais
+    # acumulados de 4 temporadas vs. taxas por 90 de 1 temporada não são a
+    # mesma unidade). Documentado como limitação conhecida do projeto.
+    colunas_norm = [f"{m}_norm" for m in TODAS_METRICAS]
+    df[colunas_norm] = 0.0
+
+    for completos in [True, False]:
+        mascara_grupo = df["dados_completos"] == completos
+        if mascara_grupo.sum() == 0:
+            continue
+        scaler = MinMaxScaler()
+        df.loc[mascara_grupo, colunas_norm] = scaler.fit_transform(df.loc[mascara_grupo, TODAS_METRICAS])
 
     df["score"] = 0.0
     for posicao, pesos in PESOS_POR_POSICAO.items():
         mascara = df["posicao_projeto"] == posicao
         for metrica, peso in pesos.items():
-            df.loc[mascara, "score"] += df.loc[mascara, metrica] * peso
+            df.loc[mascara, "score"] += df.loc[mascara, f"{metrica}_norm"] * peso
 
     return df
 
@@ -74,6 +103,8 @@ def main():
         caminho = DADOS_PROCESSED / f"{liga}.csv"
         df = pd.read_csv(caminho)
         df["liga"] = liga
+        if "dados_completos" not in df.columns:
+            df["dados_completos"] = True
         dfs.append(df)
 
     todos = pd.concat(dfs, ignore_index=True)
@@ -88,9 +119,12 @@ def main():
     # Salva o ranking geral (todas as ligas juntas, útil pro "melhor XI mundial" depois)
     colunas_saida = [
         "liga", "name", "posicao_projeto", "idade", "current_club_name",
-        "partidas_jogadas", "minutos_jogados", "gols", "assistencias",
+        "country_of_citizenship", "dados_completos", "partidas_jogadas", "minutos_jogados",
+        "gols", "assistencias",
         "gols_90", "assistencias_90", "finalizacoes_alvo_90",
         "cruzamentos_90", "desarmes_90", "interceptacoes_90",
+        "gols_90_norm", "assistencias_90_norm", "finalizacoes_alvo_90_norm",
+        "cruzamentos_90_norm", "desarmes_90_norm", "interceptacoes_90_norm",
         "market_value_in_eur", "score",
     ]
     ranking_geral = todos[colunas_saida].sort_values("score", ascending=False)

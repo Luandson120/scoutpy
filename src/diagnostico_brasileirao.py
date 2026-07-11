@@ -25,3 +25,12 @@ print(f"\nTotal de appearances encontradas para jogadores do Brasileirão (qualq
 print("\nCompetition_id mais frequentes nessas appearances:")
 for comp_id, count in sorted(competition_ids_encontrados.items(), key=lambda x: -x[1])[:15]:
     print(f"  {comp_id}: {count}")
+
+print(f"\nAppearances especificamente com competition_id == 'BRA1': {competition_ids_encontrados.get('BRA1', 0)}")
+
+# Bônus: confere se o competition_id 'BRA1' existe em QUALQUER linha do appearances.csv,
+# não só pra esses jogadores específicos - pra saber se o Brasileirão está no dataset ou não
+total_bra1_geral = 0
+for chunk in pd.read_csv(DADOS_RAW / "appearances.csv", chunksize=200_000, usecols=["competition_id"]):
+    total_bra1_geral += (chunk["competition_id"] == "BRA1").sum()
+print(f"Appearances com competition_id == 'BRA1' em TODO o appearances.csv: {total_bra1_geral}")

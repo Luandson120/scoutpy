@@ -1,1 +1,492 @@
-player_id,name,date_of_birth,idade,position,sub_position,foot,height_in_cm,country_of_citizenship,current_club_name,market_value_in_eur,highest_market_value_in_eur,partidas_jogadas,minutos_jogados,gols,assistencias,posicao_projeto
+player_id,name,date_of_birth,idade,position,sub_position,posicao_projeto,foot,height_in_cm,country_of_citizenship,current_club_name,market_value_in_eur,highest_market_value_in_eur,partidas_jogadas,minutos_jogados,gols,assistencias,cartoes,dados_completos
+432157,Japa,2004-01-02,22.0,Midfield,Central Midfield,Meia,left,177.0,Brazil,Cruzeiro Esporte Clube,1000000.0,1000000.0,,,0,0,0,False
+564919,João Neto,2003-05-21,23.0,Midfield,Central Midfield,Meia,right,186.0,Brazil,Red Bull Bragantino,125000.0,300000.0,,,1,0,0,False
+611426,Matías Arezo,2002-11-21,23.0,Attack,Centre-Forward,Centroavante,right,177.0,Uruguay,Grêmio Foot-Ball Porto Alegrense,7000000.0,7500000.0,,,0,0,0,False
+661270,Fabrizio Peralta,2002-08-02,23.0,Midfield,Central Midfield,Meia,right,176.0,Paraguay,Cruzeiro Esporte Clube,,,,,0,0,0,False
+662326,Patryck,2003-01-18,23.0,Defender,Left-Back,Lateral,left,184.0,Brazil,São Paulo Futebol Clube,,,,,0,0,2,False
+662327,Diego Rosa,2002-10-12,23.0,Midfield,Defensive Midfield,Volante,right,182.0,Brazil,Sport Club Internacional,2000000.0,2000000.0,,,0,0,0,False
+662334,Marcelo Pitaluga,2002-12-20,23.0,Goalkeeper,Goalkeeper,Goleiro,right,193.0,Brazil,Fluminense Football Club,200000.0,400000.0,,,0,0,0,False
+668228,Matheus Martins,2003-07-16,22.0,Attack,Left Winger,Ponta,right,183.0,Brazil,S. A. F. Botafogo,6000000.0,7000000.0,,,0,0,0,False
+668234,Bruninho,2003-03-14,23.0,Midfield,Attacking Midfield,Meia,right,174.0,Brazil,Red Bull Bragantino,1000000.0,3000000.0,,,0,0,0,False
+668265,Kayky,2003-06-11,23.0,Attack,Right Winger,Ponta,left,172.0,Brazil,Sport Club Internacional,5000000.0,14000000.0,,,2,0,3,False
+668268,Marquinhos,2003-04-07,23.0,Attack,Right Winger,Ponta,left,175.0,Brazil,Cruzeiro Esporte Clube,2500000.0,12000000.0,,,0,0,3,False
+668953,José Herrera,2003-04-16,23.0,Attack,Right Winger,Ponta,left,172.0,Argentina,Red Bull Bragantino,2500000.0,2500000.0,,,0,0,0,False
+689211,Juan Nardoni,2002-07-14,23.0,Midfield,Central Midfield,Meia,right,180.0,Argentina,Grêmio Foot-Ball Porto Alegrense,9000000.0,11000000.0,,,0,0,0,False
+738411,Adriano,2003-03-07,23.0,Goalkeeper,Goalkeeper,Goleiro,right,,Brazil,Sport Club do Recife,,,,,0,0,0,False
+740491,Kelvi Gomes,2002-10-17,23.0,Midfield,Defensive Midfield,Volante,right,182.0,Brazil,Esporte Clube Juventude,,,,,0,0,0,False
+743586,Mycael,2004-03-12,22.0,Goalkeeper,Goalkeeper,Goleiro,left,191.0,Brazil,Clube Atlético Paranaense,2000000.0,4000000.0,,,0,0,0,False
+743588,Rômulo,2004-01-31,22.0,Defender,Centre-Back,Zagueiro,right,183.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+743593,Rodriguinho,2004-03-16,22.0,Midfield,Attacking Midfield,Meia,right,186.0,Brazil,Red Bull Bragantino,6000000.0,6000000.0,,,0,0,0,False
+743597,Matheus França,2004-04-01,22.0,Midfield,Attacking Midfield,Meia,right,184.0,Brazil,Club de Regatas Vasco da Gama,6000000.0,15000000.0,,,0,0,0,False
+743831,Renato Santos,2004-10-11,21.0,Defender,Centre-Back,Zagueiro,right,188.0,Brazil,Sport Club Corinthians Paulista,,,,,0,0,4,False
+749559,Victor Hugo,2004-05-11,22.0,Midfield,Central Midfield,Meia,left,184.0,Brazil,Clube Atlético Mineiro,7000000.0,7000000.0,,,0,0,0,False
+766258,Kaio César,2004-02-15,22.0,Attack,Right Winger,Ponta,left,168.0,Brazil,Sport Club Corinthians Paulista,4000000.0,5000000.0,,,0,0,4,False
+796796,Ian Luccas,2003-02-11,23.0,Midfield,Defensive Midfield,Volante,right,188.0,Brazil,Cruzeiro Esporte Clube,,,,,0,0,2,False
+816129,Vanderlan,2002-09-07,23.0,Defender,Left-Back,Lateral,left,183.0,Brazil,Red Bull Bragantino,3000000.0,4000000.0,,,1,0,6,False
+816149,Andrey Quintino,2002-08-05,23.0,Attack,Right Winger,Ponta,right,176.0,Brazil,Santos Futebol Clube,,,,,0,0,0,False
+828045,Miguel Monsalve,2004-02-27,22.0,Midfield,Attacking Midfield,Meia,right,178.0,Colombia,Grêmio Foot-Ball Porto Alegrense,3500000.0,6000000.0,,,0,0,0,False
+834443,Tiago Cóser,2004-01-16,22.0,Defender,Centre-Back,Zagueiro,right,191.0,Brazil,Coritiba Foot Ball Club,1500000.0,1500000.0,,,0,0,0,False
+834444,Victor Gabriel,2004-04-28,22.0,Defender,Centre-Back,Zagueiro,left,187.0,Brazil,Sport Club Internacional,5000000.0,5000000.0,,,0,0,0,False
+834445,Serafim,2004-05-16,22.0,Defender,Centre-Back,Zagueiro,right,185.0,Brazil,S. A. F. Botafogo,,,,,2,0,7,False
+834467,Kauê,2004-10-22,21.0,Midfield,Central Midfield,Meia,right,174.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+834898,Vitinho,2004-11-11,21.0,Midfield,Defensive Midfield,Volante,,178.0,Brazil,Clube Atlético Mineiro,200000.0,200000.0,,,0,0,0,False
+838386,Leandro Mathias,2004-11-14,21.0,Goalkeeper,Goalkeeper,Goleiro,left,188.0,Brazil,São Paulo Futebol Clube,,,,,0,0,0,False
+838387,Léo Mana,2004-04-06,22.0,Defender,Right-Back,Lateral,right,179.0,Brazil,Sport Club Corinthians Paulista,,,,,0,0,0,False
+839031,Leonel Pérez,2004-08-09,21.0,Midfield,Defensive Midfield,Volante,right,186.0,Argentina,Grêmio Foot-Ball Porto Alegrense,6000000.0,6000000.0,,,0,0,0,False
+840431,Gustavo,2002-09-11,23.0,Midfield,Attacking Midfield,Meia,right,178.0,Brazil,Coritiba Foot Ball Club,500000.0,2000000.0,,,0,0,0,False
+842370,João Victor,2004-04-27,22.0,Attack,Left Winger,Ponta,both,167.0,Brazil,Ceará Sporting Club,,,,,0,0,0,False
+849582,Agustín Giay,2004-01-16,22.0,Defender,Right-Back,Lateral,right,180.0,Argentina,Sociedade Esportiva Palmeiras,10000000.0,11000000.0,,,0,0,0,False
+851542,Luan Brito,2002-09-10,23.0,Attack,Centre-Forward,Centroavante,left,186.0,Brazil,Fluminense Football Club,,,,,0,0,0,False
+851595,Jefté,2003-12-21,22.0,Defender,Left-Back,Lateral,left,183.0,Brazil,Sociedade Esportiva Palmeiras,4000000.0,4000000.0,,,0,0,0,False
+856047,Mateo Ponte,2003-05-24,23.0,Defender,Right-Back,Lateral,right,183.0,Uruguay,S. A. F. Botafogo,2000000.0,2000000.0,,,0,0,0,False
+869007,Renan Viana,2003-01-31,23.0,Attack,Centre-Forward,Centroavante,right,189.0,Brazil,Clube Atlético Paranaense,225000.0,300000.0,,,0,0,0,False
+874223,Gustavo Martins,2002-08-11,23.0,Defender,Centre-Back,Zagueiro,right,191.0,Brazil,Grêmio Foot-Ball Porto Alegrense,4000000.0,4000000.0,,,1,0,5,False
+875339,João Neto,2003-07-10,23.0,Attack,Centre-Forward,Centroavante,left,181.0,Brazil,Fluminense Football Club,,,,,1,0,0,False
+879217,Kaiki,2003-03-08,23.0,Defender,Left-Back,Lateral,left,172.0,Brazil,Cruzeiro Esporte Clube,14000000.0,14000000.0,,,0,0,1,False
+881645,Ignacio Sosa,2003-08-31,22.0,Midfield,Central Midfield,Meia,right,175.0,Uruguay,Red Bull Bragantino,5000000.0,5000000.0,,,0,0,0,False
+884069,Gustavo Ramalho,2002-09-16,23.0,Goalkeeper,Goalkeeper,Goleiro,left,203.0,Brazil,Fluminense Football Club,,,,,0,0,0,False
+887801,Nathan Mendes,2002-08-19,23.0,Defender,Right-Back,Lateral,right,182.0,Brazil,Esporte Clube Vitória,1500000.0,1500000.0,,,1,0,7,False
+891353,Cuiabano,2003-02-16,23.0,Defender,Left-Back,Lateral,left,179.0,Brazil,Club de Regatas Vasco da Gama,10000000.0,10000000.0,,,0,0,0,False
+895926,Joaquín Lavega,2005-02-03,21.0,Attack,Left Winger,Ponta,left,172.0,Uruguay,Coritiba Foot Ball Club,4000000.0,4000000.0,,,0,0,0,False
+897051,Alan Minda,2003-05-14,23.0,Attack,Right Winger,Ponta,right,174.0,Ecuador,Clube Atlético Mineiro,3000000.0,6000000.0,,,0,0,0,False
+898350,Facundo Bernal,2003-08-21,22.0,Midfield,Defensive Midfield,Volante,right,187.0,Uruguay,Fluminense Football Club,6000000.0,6000000.0,,,0,0,0,False
+899026,Lacerda,2005-02-13,21.0,Goalkeeper,Goalkeeper,Goleiro,right,192.0,Brazil,Mirasol Futebol Clube,,,,,0,0,0,False
+910216,Marcelo Ajul,2002-08-26,23.0,Defender,Centre-Back,Zagueiro,right,187.0,Brazil,Sport Club do Recife,,,,,0,0,0,False
+918663,Lucas André,2003-01-29,23.0,Midfield,Central Midfield,Meia,right,178.0,Brazil,Sport Club do Recife,,,,,0,0,0,False
+921863,Douglas Mendes,2004-06-13,22.0,Defender,Centre-Back,Zagueiro,right,189.0,Brazil,Red Bull Bragantino,,,,,0,0,0,False
+929866,João Moreira,2004-05-21,22.0,Defender,Right-Back,Lateral,right,175.0,Brazil,São Paulo Futebol Clube,1000000.0,2500000.0,,,0,0,1,False
+931007,Evertton Araújo,2003-02-28,23.0,Midfield,Defensive Midfield,Volante,right,184.0,Brazil,Clube de Regatas do Flamengo,10000000.0,10000000.0,,,0,0,0,False
+943837,Vitor Roque,2005-02-28,21.0,Attack,Centre-Forward,Centroavante,right,174.0,Brazil,Sociedade Esportiva Palmeiras,38000000.0,40000000.0,,,17,0,12,False
+950393,Viery,2005-01-02,21.0,Defender,Centre-Back,Zagueiro,left,187.0,Brazil,Grêmio Foot-Ball Porto Alegrense,6000000.0,6000000.0,,,0,0,0,False
+957461,Andrés Gómez,2002-09-12,23.0,Attack,Left Winger,Ponta,right,170.0,Colombia,Club de Regatas Vasco da Gama,11000000.0,11000000.0,,,0,0,0,False
+958598,Robert Renan,2003-10-11,22.0,Defender,Centre-Back,Zagueiro,left,186.0,Brazil,Club de Regatas Vasco da Gama,10000000.0,10000000.0,,,0,0,2,False
+959088,Thiago Beltrame,2003-07-02,23.0,Goalkeeper,Goalkeeper,Goleiro,right,201.0,Brazil,Grêmio Foot-Ball Porto Alegrense,,,,,0,0,0,False
+959092,Ronald,2003-02-11,23.0,Midfield,Defensive Midfield,Volante,right,186.0,Brazil,Grêmio Foot-Ball Porto Alegrense,,,,,0,0,0,False
+959171,André Dhominique,2003-10-07,22.0,Defender,Right-Back,Lateral,right,178.0,Brazil,Esporte Clube Bahia,600000.0,800000.0,,,0,0,1,False
+974488,Pedro Morisco,2004-01-10,22.0,Goalkeeper,Goalkeeper,Goleiro,right,191.0,Brazil,Coritiba Foot Ball Club,5000000.0,5000000.0,,,0,0,0,False
+974652,Johan Rojas,2002-09-20,23.0,Midfield,Attacking Midfield,Meia,right,175.0,Colombia,Club de Regatas Vasco da Gama,3800000.0,4000000.0,,,0,0,0,False
+976951,Jardiel,2005-03-21,21.0,Attack,Centre-Forward,Centroavante,right,186.0,Brazil,Grêmio Foot-Ball Porto Alegrense,,,,,0,0,0,False
+977463,Rodriguinho,2003-06-05,23.0,Attack,Left Winger,Ponta,left,170.0,Brazil,Cruzeiro Esporte Clube,,,,,0,0,0,False
+978039,Marcos Paulo,2003-01-18,23.0,Defender,Centre-Back,Zagueiro,left,183.0,Brazil,Esporte Clube Juventude,,,,,0,0,0,False
+978057,Petterson,2004-01-04,22.0,Attack,Centre-Forward,Centroavante,right,181.0,Brazil,Esporte Clube Juventude,700000.0,750000.0,,,0,0,0,False
+979931,Gabriel Souza,2002-12-25,23.0,Defender,Right-Back,Lateral,right,182.0,Brazil,Esporte Clube Juventude,,,,,0,0,0,False
+980806,Lucas Mila,2003-01-28,23.0,Midfield,Defensive Midfield,Volante,right,176.0,Brazil,Grêmio Foot-Ball Porto Alegrense,,,,,0,0,0,False
+980823,Kayque,2004-04-20,22.0,Defender,Right-Back,Lateral,right,178.0,Brazil,Clube Atlético Mineiro,,,,,1,0,5,False
+980825,Matheus Belém,2003-03-13,23.0,Defender,Centre-Back,Zagueiro,left,186.0,Brazil,São Paulo Futebol Clube,800000.0,800000.0,,,0,0,1,False
+980837,Felipe Negrucci,2004-05-14,22.0,Midfield,Defensive Midfield,Volante,right,180.0,Brazil,São Paulo Futebol Clube,1000000.0,1000000.0,,,0,0,0,False
+980854,Ythallo,2004-07-22,21.0,Defender,Centre-Back,Zagueiro,right,193.0,Brazil,S. A. F. Botafogo,300000.0,300000.0,,,0,0,0,False
+982549,Lucca,2003-04-02,23.0,Attack,Centre-Forward,Centroavante,right,180.0,Brazil,Sport Club Internacional,,,,,0,0,0,False
+984480,Mateo Sanabria,2004-03-31,22.0,Attack,Left Winger,Ponta,right,178.0,Argentina,Esporte Clube Bahia,2000000.0,2000000.0,,,0,0,0,False
+985351,Renato Marques,2003-12-09,22.0,Attack,Centre-Forward,Centroavante,right,180.0,Brazil,Coritiba Foot Ball Club,1000000.0,1000000.0,,,3,0,2,False
+989925,Brahian Palacios,2002-11-24,23.0,Attack,Right Winger,Ponta,left,182.0,Colombia,Clube Atlético Mineiro,,,,,0,0,0,False
+994029,Bernardo,2005-03-11,21.0,Defender,Centre-Back,Zagueiro,right,187.0,Brazil,Esporte Clube Juventude,,,,,0,0,0,False
+994229,Gabriel Souza,2004-08-03,21.0,Goalkeeper,Goalkeeper,Goleiro,right,194.0,Brazil,Esporte Clube Bahia,200000.0,200000.0,,,0,0,0,False
+994622,Cipriano,2002-11-09,23.0,Defender,Centre-Back,Zagueiro,left,197.0,Brazil,Esporte Clube Juventude,,,,,0,0,1,False
+995883,Gabriel,2003-10-18,22.0,Defender,Centre-Back,Zagueiro,right,185.0,Brazil,Mirasol Futebol Clube,,,,,0,0,0,False
+996691,Kawan,2003-04-10,23.0,Defender,Centre-Back,Zagueiro,right,188.0,Brazil,S. A. F. Botafogo,,,,,0,0,1,False
+997465,Rubens,2003-03-28,23.0,Attack,Right Winger,Ponta,left,178.0,Brazil,Associação Chapecoense de Futebol,250000.0,250000.0,,,2,0,8,False
+997714,Alexsander,2003-10-08,22.0,Midfield,Defensive Midfield,Volante,left,178.0,Brazil,Clube Atlético Mineiro,5500000.0,8000000.0,,,0,0,3,False
+997947,Otávio Costa,2005-12-27,20.0,Goalkeeper,Goalkeeper,Goleiro,right,192.0,Brazil,Cruzeiro Esporte Clube,500000.0,500000.0,,,0,0,0,False
+1004722,César Rodrigues,2006-01-07,20.0,Goalkeeper,Goalkeeper,Goleiro,right,192.0,Brazil,Sociedade Esportiva Palmeiras,,,,,0,0,0,False
+1004724,Bernardo Valim,2006-01-30,20.0,Midfield,Attacking Midfield,Meia,right,186.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1004726,Lucas Camilo,2006-05-25,20.0,Midfield,Defensive Midfield,Volante,right,183.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1004728,Dudu,2006-01-01,20.0,Midfield,Attacking Midfield,Meia,left,177.0,Brazil,Clube Atlético Paranaense,5000000.0,5000000.0,,,0,0,0,False
+1004736,Figueiredo,2006-03-03,20.0,Midfield,Central Midfield,Meia,right,177.0,Brazil,Sociedade Esportiva Palmeiras,,,,,0,0,0,False
+1004737,Esquerdinha,2006-02-28,20.0,Defender,Left-Back,Lateral,left,183.0,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1004738,João Cruz,2006-05-12,20.0,Midfield,Central Midfield,Meia,right,172.0,Brazil,Clube Atlético Paranaense,2000000.0,2000000.0,,,1,0,0,False
+1004739,Bahia,2006-01-02,20.0,Midfield,Central Midfield,Meia,right,178.0,Brazil,Sport Club Corinthians Paulista,,,,,2,0,11,False
+1005006,Vitor Gabriel,2006-03-11,20.0,Defender,Right-Back,Lateral,right,176.0,Brazil,Clube Atlético Mineiro,,,,,2,0,7,False
+1005007,Da Mata,2006-03-13,20.0,Defender,Centre-Back,Zagueiro,right,185.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1005582,Phillipe Gabriel,2006-02-23,20.0,Goalkeeper,Goalkeeper,Goleiro,right,196.0,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1005640,Arthur Sousa,2003-03-12,23.0,Attack,Centre-Forward,Centroavante,right,184.0,Brazil,Red Bull Bragantino,,,,,0,0,0,False
+1005642,Ryan,2003-07-15,22.0,Midfield,Defensive Midfield,Volante,left,170.0,Brazil,Sport Club Corinthians Paulista,,,,,0,0,4,False
+1005650,Tchoca,2003-12-31,22.0,Defender,Centre-Back,Zagueiro,right,192.0,Brazil,Sport Club Corinthians Paulista,4000000.0,4000000.0,,,0,0,0,False
+1005653,Kauê,2004-02-08,22.0,Goalkeeper,Goalkeeper,Goleiro,right,192.0,Brazil,Sport Club Corinthians Paulista,300000.0,300000.0,,,0,0,0,False
+1005656,Felipe Longo,2005-03-05,21.0,Goalkeeper,Goalkeeper,Goleiro,right,189.0,Brazil,Sport Club Corinthians Paulista,500000.0,500000.0,,,0,0,0,False
+1015973,Caio Garcia,2004-04-03,22.0,Midfield,Defensive Midfield,Volante,right,175.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1017824,Luiz Henrique,2004-12-23,21.0,Midfield,Attacking Midfield,Meia,right,181.0,Brazil,Esporte Clube Juventude,,,,,0,0,0,False
+1022594,Léo Jacó,2005-04-06,21.0,Attack,Centre-Forward,Centroavante,left,,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1025717,Weliton,2005-04-13,21.0,Attack,Centre-Forward,Centroavante,right,187.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1027023,Pedro Andrade,2005-04-20,21.0,Defender,Centre-Back,Zagueiro,left,184.0,Brazil,São Paulo Futebol Clube,,,,,0,0,0,False
+1027026,Maik,2005-01-03,21.0,Defender,Right-Back,Lateral,right,175.0,Brazil,São Paulo Futebol Clube,1500000.0,2000000.0,,,0,0,0,False
+1027027,Ryan Couto,2005-03-03,21.0,Defender,Centre-Back,Zagueiro,right,187.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1027788,Enzo Vagner,2006-07-28,19.0,Attack,Centre-Forward,Centroavante,right,188.0,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1029227,Breno Bidon,2005-02-20,21.0,Midfield,Central Midfield,Meia,left,178.0,Brazil,Sport Club Corinthians Paulista,22000000.0,22000000.0,,,0,0,0,False
+1031409,Zé Henrique,2004-10-23,21.0,Goalkeeper,Goalkeeper,Goleiro,right,199.0,Brazil,Esporte Clube Juventude,,,,,0,0,0,False
+1032891,Kevyson,2004-03-29,22.0,Defender,Left-Back,Lateral,left,174.0,Brazil,Santos Futebol Clube,,,,,1,0,1,False
+1039533,Rubén Lezcano,2004-02-09,22.0,Midfield,Attacking Midfield,Meia,left,178.0,Paraguay,Fluminense Football Club,,,,,0,0,0,False
+1044131,Roger Gabriel,2007-02-12,19.0,Midfield,Attacking Midfield,Meia,both,173.0,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1051322,Robert Santos,2003-07-20,22.0,Midfield,Attacking Midfield,Meia,left,180.0,Brazil,Associação Chapecoense de Futebol,1000000.0,1000000.0,,,0,0,0,False
+1052819,Léo Derik,2005-07-24,20.0,Defender,Left-Back,Lateral,left,166.0,Brazil,Clube Atlético Paranaense,2500000.0,2500000.0,,,0,0,0,False
+1053934,Rafinha,2002-11-18,23.0,Midfield,Attacking Midfield,Meia,right,173.0,Brazil,Esporte Clube Juventude,,,,,0,0,0,False
+1063811,Miguelito,2004-04-25,22.0,Midfield,Attacking Midfield,Meia,left,177.0,Bolivia,Santos Futebol Clube,5000000.0,5000000.0,,,0,0,0,False
+1064930,Freitas,2003-03-04,23.0,Midfield,Defensive Midfield,Volante,right,178.0,Brazil,Clube do Remo,50000.0,50000.0,,,0,0,0,False
+1065802,Wesley Santos,2004-06-06,22.0,Defender,Right-Back,Lateral,right,170.0,Brazil,Mirasol Futebol Clube,,,,,0,0,0,False
+1069871,Zé Welinton,2004-01-08,22.0,Defender,Left-Back,Lateral,left,169.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1072157,Thalys,2005-02-22,21.0,Attack,Centre-Forward,Centroavante,left,184.0,Brazil,Sociedade Esportiva Palmeiras,,,,,0,0,0,False
+1072630,Vitinho,2004-02-18,22.0,Midfield,Central Midfield,Meia,left,173.0,Brazil,Cruzeiro Esporte Clube,,,,,0,0,0,False
+1074501,Cristhian Loor,2006-03-09,20.0,Goalkeeper,Goalkeeper,Goleiro,right,187.0,Ecuador,S. A. F. Botafogo,350000.0,500000.0,,,0,0,0,False
+1074584,Keny Arroyo,2006-02-14,20.0,Attack,Right Winger,Ponta,left,176.0,Ecuador,Cruzeiro Esporte Clube,10000000.0,10000000.0,,,0,0,0,False
+1082521,Athyrson,2004-01-06,22.0,Attack,Left Winger,Ponta,right,182.0,Brazil,Red Bull Bragantino,,,,,0,0,0,False
+1082523,Lucca Prior,2004-02-12,22.0,Midfield,Attacking Midfield,Meia,left,173.0,Brazil,Fortaleza Esporte Clube,,,,,0,0,0,False
+1082543,Dyogo Alves,2004-01-09,22.0,Goalkeeper,Goalkeeper,Goleiro,right,188.0,Brazil,Clube de Regatas do Flamengo,400000.0,400000.0,,,0,0,0,False
+1082593,Vinicinho,2004-02-20,22.0,Attack,Left Winger,Ponta,right,174.0,Brazil,Red Bull Bragantino,3500000.0,3500000.0,,,0,0,0,False
+1082602,Wallace Yan,2005-02-08,21.0,Attack,Centre-Forward,Centroavante,right,182.0,Brazil,Clube de Regatas do Flamengo,5000000.0,6000000.0,,,0,0,0,False
+1082603,André Cardoso,2003-05-17,23.0,Midfield,Defensive Midfield,Volante,right,188.0,Brazil,Red Bull Bragantino,,,,,0,0,0,False
+1082609,Daniel Sales,2006-06-23,20.0,Defender,Right-Back,Lateral,right,177.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1082625,Patrick,2004-03-19,22.0,Midfield,Defensive Midfield,Volante,left,187.0,Brazil,Clube Atlético Mineiro,1500000.0,1500000.0,,,0,0,0,False
+1082631,Allan,2004-04-19,22.0,Attack,Right Winger,Ponta,left,174.0,Brazil,Sociedade Esportiva Palmeiras,20000000.0,20000000.0,,,0,0,0,False
+1082637,Jota,2004-02-06,22.0,Midfield,Central Midfield,Meia,right,180.0,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1082700,Kayke,2004-04-28,22.0,Attack,Left Winger,Ponta,right,176.0,Brazil,Sport Club Corinthians Paulista,1500000.0,1500000.0,,,0,0,0,False
+1082701,Gustavo Henrique,2005-10-18,20.0,Defender,Centre-Back,Zagueiro,left,198.0,Brazil,Red Bull Bragantino,,,,,0,0,0,False
+1082707,Kauan Faria,2003-04-07,23.0,Defender,Centre-Back,Zagueiro,right,191.0,Brazil,Associação Chapecoense de Futebol,,,,,0,0,0,False
+1082818,Lucca Drummond,2004-01-12,22.0,Attack,Centre-Forward,Centroavante,right,189.0,Brazil,Sport Club Internacional,,,,,0,0,0,False
+1082820,Italo Vargas,2002-10-13,23.0,Attack,Left Winger,Ponta,right,18.0,Brazil,Associação Chapecoense de Futebol,1000000.0,1000000.0,,,0,0,0,False
+1082827,Eric Santos,2004-03-28,22.0,Goalkeeper,Goalkeeper,Goleiro,,195.0,Brazil,Esporte Clube Bahia,,,,,7,0,9,False
+1082831,Rafael Soares,2004-12-27,21.0,Defender,Left-Back,Lateral,left,178.0,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1082840,Kauã Davi,2004-01-17,22.0,Defender,Right-Back,Lateral,right,185.0,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1082850,Deivid Washington,2005-06-05,21.0,Attack,Centre-Forward,Centroavante,right,187.0,Brazil,Santos Futebol Clube,9000000.0,9000000.0,,,2,0,2,False
+1082852,Hyan,2004-03-24,22.0,Midfield,Central Midfield,Meia,right,184.0,Brazil,Santos Futebol Clube,,,,,0,0,0,False
+1082969,Wesley Costa,2004-02-04,22.0,Defender,Left-Back,Lateral,left,181.0,Brazil,Grêmio Foot-Ball Porto Alegrense,,,,,0,0,0,False
+1083073,Cadu,2004-05-24,22.0,Attack,Centre-Forward,Centroavante,right,188.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1083089,Gabriel Átila,2003-01-22,23.0,Goalkeeper,Goalkeeper,Goleiro,right,193.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1083099,Lawan,2005-05-25,21.0,Attack,Centre-Forward,Centroavante,right,180.0,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1083109,Vitinho,2004-04-28,22.0,Attack,Right Winger,Ponta,right,178.0,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1083207,Jonathan Jesus,2004-05-27,22.0,Defender,Centre-Back,Zagueiro,right,187.0,Brazil,Cruzeiro Esporte Clube,8000000.0,8000000.0,,,0,0,0,False
+1083218,Gabriel Silva,2004-04-18,22.0,Midfield,Attacking Midfield,Meia,right,,Brazil,Ceará Sporting Club,,,,,0,0,0,False
+1083245,Murilo Rhikman,2006-03-13,20.0,Midfield,Defensive Midfield,Volante,right,184.0,Brazil,Cruzeiro Esporte Clube,500000.0,500000.0,,,0,0,0,False
+1083247,Bruno Alves,2005-08-04,20.0,Defender,Centre-Back,Zagueiro,both,186.0,Brazil,Cruzeiro Esporte Clube,250000.0,250000.0,,,0,0,13,False
+1083600,Nathan Fernandes,2005-02-16,21.0,Attack,Right Winger,Ponta,right,176.0,Brazil,S. A. F. Botafogo,4000000.0,8000000.0,,,1,0,1,False
+1083635,Davi Schuindt,2004-04-26,22.0,Defender,Centre-Back,Zagueiro,right,186.0,Brazil,Fluminense Football Club,250000.0,250000.0,,,0,0,0,False
+1083668,Caio Amaral,2003-09-22,22.0,Defender,Centre-Back,Zagueiro,right,,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1083669,Rafael Monteiro,2004-02-14,22.0,Defender,Left-Back,Lateral,left,173.0,Brazil,Fluminense Football Club,,,,,0,0,2,False
+1083886,Allan Vitor,2004-08-01,21.0,Goalkeeper,Goalkeeper,Goleiro,right,188.0,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1083887,Pablo,2003-02-11,23.0,Goalkeeper,Goalkeeper,Goleiro,right,188.0,Brazil,Club de Regatas Vasco da Gama,50000.0,50000.0,,,0,0,0,False
+1083888,Paulinho,2005-05-23,21.0,Defender,Right-Back,Lateral,right,175.0,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1083889,Lyncon,2005-05-07,21.0,Defender,Centre-Back,Zagueiro,right,186.0,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1083960,Cauã Paixão,2004-05-27,22.0,Attack,Centre-Forward,Centroavante,right,181.0,Brazil,Club de Regatas Vasco da Gama,600000.0,600000.0,,,0,0,0,False
+1083962,GB,2005-01-05,21.0,Attack,Centre-Forward,Centroavante,right,196.0,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1083966,Cauan Barros,2004-05-06,22.0,Midfield,Defensive Midfield,Volante,right,183.0,Brazil,Club de Regatas Vasco da Gama,5000000.0,5000000.0,,,1,0,2,False
+1083969,Guilherme Estrella,2005-01-06,21.0,Midfield,Attacking Midfield,Meia,right,176.0,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1083970,JP,2005-04-19,21.0,Midfield,Central Midfield,Meia,both,182.0,Brazil,Club de Regatas Vasco da Gama,2000000.0,2000000.0,,,0,0,0,False
+1083971,Lucas Eduardo,2004-01-13,22.0,Midfield,Defensive Midfield,Volante,right,173.0,Brazil,Club de Regatas Vasco da Gama,50000.0,50000.0,,,0,0,0,False
+1084069,Gustavo Reis,2005-06-10,21.0,Goalkeeper,Goalkeeper,Goleiro,right,190.0,Brazil,Red Bull Bragantino,,,,,0,0,0,False
+1084070,Chumbinho,2003-09-22,22.0,Midfield,Defensive Midfield,Volante,right,189.0,Brazil,Red Bull Bragantino,,,,,0,0,0,False
+1084073,Marcelinho Braz,2004-08-16,21.0,Midfield,Attacking Midfield,Meia,left,178.0,Brazil,Red Bull Bragantino,400000.0,400000.0,,,0,0,0,False
+1084076,Fernando Costa,2004-02-01,22.0,Goalkeeper,Goalkeeper,Goleiro,right,191.0,Brazil,Red Bull Bragantino,,,,,0,0,0,False
+1084081,Gustavo Neves,2004-04-23,22.0,Midfield,Central Midfield,Meia,right,176.0,Brazil,Red Bull Bragantino,3500000.0,3500000.0,,,1,0,2,False
+1084603,Vinícius Lago,2005-10-22,20.0,Defender,Right-Back,Lateral,right,,Brazil,Red Bull Bragantino,,,,,0,0,0,False
+1084626,Felipe Cardoso,2003-03-04,23.0,Attack,Left Winger,Ponta,right,182.0,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1084629,David Antunes,2005-08-17,20.0,Midfield,Central Midfield,Meia,right,178.0,Brazil,Associação Chapecoense de Futebol,200000.0,200000.0,,,0,0,0,False
+1084667,Isaac,2004-04-24,22.0,Attack,Left Winger,Ponta,right,170.0,Brazil,Clube Atlético Paranaense,1200000.0,1500000.0,,,0,0,0,False
+1084816,Zé Guilherme,2005-03-16,21.0,Defender,Left-Back,Lateral,left,181.0,Brazil,Esporte Clube Bahia,400000.0,400000.0,,,0,0,0,False
+1086260,Thiago Henrique,2004-04-27,22.0,Midfield,Defensive Midfield,Volante,right,179.0,Brazil,Fluminense Football Club,,,,,4,0,28,False
+1086534,Dudu Cruz,2005-04-12,21.0,Defender,Centre-Back,Zagueiro,right,187.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1086632,Abner,2004-04-19,22.0,Defender,Centre-Back,Zagueiro,right,189.0,Brazil,Esporte Clube Juventude,,,,,4,0,13,False
+1087334,Jordan Barrera,2006-04-11,20.0,Midfield,Attacking Midfield,Meia,right,180.0,Colombia,S. A. F. Botafogo,2500000.0,2500000.0,,,0,0,0,False
+1087842,Rayan Lucas,2005-01-03,21.0,Midfield,Defensive Midfield,Volante,right,185.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1087843,Lucas Furtado,2005-03-09,21.0,Goalkeeper,Goalkeeper,Goleiro,right,197.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1087844,Felipe Vieira,2005-02-09,21.0,Defender,Centre-Back,Zagueiro,left,189.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1087854,Daniel Rogério,2005-03-12,21.0,Midfield,Defensive Midfield,Volante,right,173.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1088801,Cadu,2005-01-11,21.0,Goalkeeper,Goalkeeper,Goleiro,right,193.0,Brazil,Sport Club Corinthians Paulista,,,,,0,0,0,False
+1088802,Caipira,2005-02-15,21.0,Defender,Right-Back,Lateral,both,173.0,Brazil,Sport Club Corinthians Paulista,,,,,0,0,0,False
+1088816,Enzo Boer,2005-01-06,21.0,Attack,Right Winger,Ponta,left,170.0,Brazil,Santos Futebol Clube,,,,,0,0,0,False
+1089609,Kayky Almeida,2005-05-01,21.0,Defender,Centre-Back,Zagueiro,left,185.0,Brazil,Clube do Remo,800000.0,800000.0,,,0,0,0,False
+1089610,Dohmann,2005-03-15,21.0,Midfield,Defensive Midfield,Volante,right,,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1089955,JP Chermont,2006-01-18,20.0,Defender,Right-Back,Lateral,right,181.0,Brazil,Coritiba Foot Ball Club,4000000.0,4000000.0,,,0,0,0,False
+1089956,Rodrigo Falcão,2005-03-23,21.0,Goalkeeper,Goalkeeper,Goleiro,right,191.0,Brazil,Santos Futebol Clube,,,,,0,0,0,False
+1089958,Gabriel Bontempo,2005-01-16,21.0,Midfield,Central Midfield,Meia,right,181.0,Brazil,Santos Futebol Clube,9000000.0,9000000.0,,,0,0,0,False
+1090768,Riquelmy,2005-05-02,21.0,Attack,Centre-Forward,Centroavante,right,,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1090818,Sidnei,2003-03-28,23.0,Goalkeeper,Goalkeeper,Goleiro,right,191.0,Brazil,Mirasol Futebol Clube,,,,,0,0,1,False
+1090819,Lucas Ronier,2004-11-26,21.0,Attack,Right Winger,Ponta,left,165.0,Brazil,Coritiba Foot Ball Club,6000000.0,6000000.0,,,0,0,1,False
+1090856,Vitinho Mota,2003-07-27,22.0,Attack,Right Winger,Ponta,left,174.0,Brazil,Red Bull Bragantino,,,,,0,0,0,False
+1091605,Marcelo,2006-02-12,20.0,Goalkeeper,Goalkeeper,Goleiro,right,191.0,Brazil,Cruzeiro Esporte Clube,,,,,0,0,0,False
+1091607,Rhuan Gabriel,2006-02-06,20.0,Midfield,Attacking Midfield,Meia,right,176.0,Brazil,Cruzeiro Esporte Clube,,,,,0,0,0,False
+1091609,Ruan Índio,2006-08-10,19.0,Attack,Centre-Forward,Centroavante,right,191.0,Brazil,Cruzeiro Esporte Clube,,,,,0,0,0,False
+1091893,Zé Breno,2004-06-06,22.0,Midfield,Defensive Midfield,Volante,right,176.0,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1092429,João Almeida,2006-01-16,20.0,Defender,Left-Back,Lateral,left,178.0,Brazil,Coritiba Foot Ball Club,400000.0,400000.0,,,0,0,0,False
+1092590,Vitor Neves,2005-01-08,21.0,Midfield,Defensive Midfield,Volante,right,,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1092623,Anthony,2005-07-12,20.0,Defender,Centre-Back,Zagueiro,left,192.0,Brazil,S. A. F. Botafogo,300000.0,300000.0,,,0,0,1,False
+1092705,Roger Ruan,2005-01-12,21.0,Defender,Right-Back,Lateral,right,,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1093267,Yan,2005-11-04,20.0,Defender,Right-Back,Lateral,right,178.0,Brazil,Sport Club Internacional,,,,,0,0,0,False
+1093749,Gustavo Talles,2003-07-14,22.0,Defender,Right-Back,Lateral,right,177.0,Brazil,Associação Chapecoense de Futebol,50000.0,50000.0,,,0,0,0,False
+1093845,Rhuan Lucas,2004-09-14,21.0,Midfield,Defensive Midfield,Volante,right,174.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1093863,Aranha,2005-02-07,21.0,Goalkeeper,Goalkeeper,Goleiro,right,190.0,Brazil,Sociedade Esportiva Palmeiras,,,,,0,0,0,False
+1093864,Gilberto Junior,2005-03-27,21.0,Defender,Right-Back,Lateral,right,165.0,Brazil,Clube Atlético Paranaense,2000000.0,2000000.0,,,0,0,0,False
+1093865,David Kauã,2005-03-12,21.0,Midfield,Central Midfield,Meia,left,182.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1093906,Kauê Canela,2004-02-20,22.0,Attack,Centre-Forward,Centroavante,right,180.0,Brazil,Fortaleza Esporte Clube,,,,,0,0,0,False
+1093922,Luisão,2003-09-09,22.0,Defender,Centre-Back,Zagueiro,right,192.0,Brazil,Santos Futebol Clube,,,,,0,0,0,False
+1093951,Renê,2003-10-07,22.0,Attack,Left Winger,Ponta,right,183.0,Brazil,Esporte Clube Vitória,1000000.0,1000000.0,,,0,0,0,False
+1094387,Chiqueti,2005-09-02,20.0,Midfield,Attacking Midfield,Meia,both,176.0,Brazil,Clube Atlético Paranaense,3000000.0,3000000.0,,,0,0,0,False
+1094501,Hugo Leonardo,2004-01-19,22.0,Midfield,Defensive Midfield,Volante,left,175.0,Brazil,São Paulo Futebol Clube,,,,,0,0,0,False
+1094530,Kauan,2003-04-27,23.0,Goalkeeper,Goalkeeper,Goleiro,right,192.0,Brazil,Sport Club Internacional,,,,,0,0,1,False
+1094537,Isac,2005-05-10,21.0,Midfield,Attacking Midfield,Meia,left,,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1094863,Deivid Andrade,2005-06-01,21.0,Goalkeeper,Goalkeeper,Goleiro,right,196.0,Brazil,Ceará Sporting Club,,,,,0,0,0,False
+1094958,Fábio Soares,2004-12-03,21.0,Attack,Left Winger,Ponta,right,178.0,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1094959,Samuel,2005-01-27,21.0,Attack,Centre-Forward,Centroavante,right,186.0,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1094961,Paulo Roberto,2005-11-13,20.0,Defender,Right-Back,Lateral,right,,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1094962,Ainoã,2005-02-01,21.0,Defender,Left-Back,Lateral,left,186.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1095547,Benassi,2003-12-17,22.0,Goalkeeper,Goalkeeper,Goleiro,right,195.0,Brazil,Coritiba Foot Ball Club,50000.0,50000.0,,,0,0,0,False
+1095552,Gustavo Prado,2005-06-06,21.0,Attack,Right Winger,Ponta,right,179.0,Brazil,Sport Club Internacional,,,,,0,0,0,False
+1095628,Edson Kauã,2004-01-09,22.0,Defender,Left-Back,Lateral,left,175.0,Brazil,Clube do Remo,,,,,0,0,0,False
+1096080,Gabriel Rocha,2006-01-23,20.0,Defender,Centre-Back,Zagueiro,left,,Brazil,Ceará Sporting Club,,,,,0,0,0,False
+1096223,Pedro Ataíde,2005-06-28,21.0,Attack,Centre-Forward,Centroavante,left,180.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1096272,Clébio,2004-03-01,22.0,Defender,Centre-Back,Zagueiro,right,186.0,Brazil,Esporte Clube Juventude,,,,,0,0,0,False
+1096275,Davi Góes,2005-06-22,21.0,Midfield,Defensive Midfield,Volante,left,185.0,Brazil,Esporte Clube Juventude,,,,,0,0,0,False
+1096506,Isac,2006-04-02,20.0,Defender,Centre-Back,Zagueiro,right,186.0,Brazil,São Paulo Futebol Clube,,,,,0,0,0,False
+1096605,Kauan Toledo,2006-04-15,20.0,Attack,Right Winger,Ponta,right,177.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1096840,Luiz Eduardo,2007-06-26,19.0,Midfield,Attacking Midfield,Meia,left,,Brazil,Sport Club Corinthians Paulista,,,,,0,0,0,False
+1097081,Maxsuell Alegria,2004-01-09,22.0,Attack,Left Winger,Ponta,right,169.0,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1097101,João Bom,2005-05-21,21.0,Attack,Centre-Forward,Centroavante,right,183.0,Brazil,Associação Chapecoense de Futebol,,,,,0,0,0,False
+1097174,Maceió,2003-07-14,22.0,Attack,Right Winger,Ponta,right,177.0,Brazil,Mirasol Futebol Clube,,,,,0,0,0,False
+1097187,Bruninho,2005-06-11,21.0,Midfield,Central Midfield,Meia,right,177.0,Brazil,Fortaleza Esporte Clube,,,,,0,0,0,False
+1097224,Janderson,2005-08-31,20.0,Defender,Centre-Back,Zagueiro,right,190.0,Brazil,Cruzeiro Esporte Clube,,,,,0,0,0,False
+1097844,Wesley Juan,2005-01-02,21.0,Defender,Centre-Back,Zagueiro,left,188.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1098726,Zé Phelipe,2005-06-14,21.0,Midfield,Defensive Midfield,Volante,both,180.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1100071,Pablo,2003-08-03,22.0,Midfield,Attacking Midfield,Meia,right,165.0,Brazil,Esporte Clube Vitória,200000.0,200000.0,,,0,0,0,False
+1100475,Gabriel Pfeifer,2005-04-12,21.0,Midfield,Central Midfield,Meia,right,175.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1101123,Netinho,2005-03-06,21.0,Defender,Right-Back,Lateral,right,,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1101124,Gustavinho,2005-04-07,21.0,Midfield,Defensive Midfield,Volante,right,,Brazil,Santos Futebol Clube,500000.0,500000.0,,,0,0,0,False
+1101134,Fabricio Dias,2004-08-26,21.0,Midfield,Defensive Midfield,Volante,right,176.0,Brazil,Fortaleza Esporte Clube,,,,,0,0,0,False
+1101447,Iván Román,2006-07-12,19.0,Defender,Centre-Back,Zagueiro,right,183.0,Chile,Clube Atlético Mineiro,1500000.0,1500000.0,,,0,0,0,False
+1105524,Daniel Aguilar,2003-12-12,22.0,Attack,Left Winger,Ponta,left,,Colombia,Clube Atlético Paranaense,10000.0,10000.0,,,0,0,0,False
+1109027,Victor,2006-05-03,20.0,Goalkeeper,Goalkeeper,Goleiro,right,197.0,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1109028,Juninho,2005-12-17,20.0,Attack,Left Winger,Ponta,right,,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1109029,Sidney Duarte,2006-03-12,20.0,Midfield,Defensive Midfield,Volante,right,168.0,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1112486,Jhoan Hernández,2006-02-20,20.0,Defender,Left-Back,Lateral,left,178.0,Colombia,S. A. F. Botafogo,150000.0,550000.0,,,0,0,0,False
+1114595,João Andrade,2006-06-15,20.0,Attack,Centre-Forward,Centroavante,left,181.0,Brazil,Esporte Clube Bahia,,,,,1,0,4,False
+1115717,Gerald Anjos,2007-11-01,18.0,Defender,Centre-Back,Zagueiro,left,,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1115722,Arthur Gabriel,2005-09-04,20.0,Defender,Left-Back,Lateral,left,177.0,Brazil,Sociedade Esportiva Palmeiras,3000000.0,3000000.0,,,0,0,0,False
+1116366,Paulo Vitor,2004-08-26,21.0,Midfield,Defensive Midfield,Volante,right,184.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1116367,Zé Neto,2005-10-30,20.0,Attack,Right Winger,Ponta,both,,Brazil,Ceará Sporting Club,,,,,0,0,0,False
+1116543,Marlinho,2005-06-19,21.0,Attack,Right Winger,Ponta,left,177.0,Brazil,Sport Club Internacional,,,,,0,0,0,False
+1116605,Larson,2005-07-10,21.0,Midfield,Central Midfield,Meia,right,183.0,Brazil,Sociedade Esportiva Palmeiras,400000.0,400000.0,,,0,0,0,False
+1116612,Diego Esser,2005-04-13,21.0,Goalkeeper,Goalkeeper,Goleiro,left,194.0,Brazil,Sport Club Internacional,,,,,0,0,0,False
+1116614,Gustavo,2006-08-28,19.0,Midfield,Central Midfield,Meia,right,176.0,Brazil,Sport Club Internacional,,,,,0,0,0,False
+1116620,Rhyan,2006-01-03,20.0,Goalkeeper,Goalkeeper,Goleiro,right,188.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1116636,João Loiola,2005-04-14,21.0,Defender,Centre-Back,Zagueiro,right,,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1116637,Fabinho,2006-01-24,20.0,Midfield,Defensive Midfield,Volante,,,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1116834,Samuel,2006-02-09,20.0,Defender,Centre-Back,Zagueiro,left,187.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1117807,João Alencar,2007-06-25,19.0,Defender,Centre-Back,Zagueiro,right,187.0,Brazil,Santos Futebol Clube,,,,,0,0,0,False
+1119008,Julio Fidelis,2006-11-06,19.0,Defender,Right-Back,Lateral,right,179.0,Brazil,Fluminense Football Club,300000.0,300000.0,,,0,0,0,False
+1122597,Matheus Soares,2005-01-10,21.0,Goalkeeper,Goalkeeper,Goleiro,left,190.0,Brazil,Clube Atlético Paranaense,,,,,0,0,0,False
+1124214,Kauê Leonardo,2005-04-11,21.0,Defender,Right-Back,Lateral,right,170.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1124296,Matheus Reis,2007-04-02,19.0,Attack,Left Winger,Ponta,right,180.0,Mexico,Fluminense Football Club,,,,,0,0,0,False
+1124298,Riquelme Fillipi,2006-09-15,19.0,Attack,Left Winger,Ponta,right,176.0,Brazil,Sociedade Esportiva Palmeiras,1000000.0,1000000.0,,,0,0,0,False
+1124552,Kauan Guilherme,2005-01-05,21.0,Midfield,Defensive Midfield,Volante,left,,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1124553,Robert,2005-02-03,21.0,Goalkeeper,Goalkeeper,Goleiro,right,191.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1124886,Gustavo Cintra,2005-10-16,20.0,Defender,Centre-Back,Zagueiro,both,188.0,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1124887,Marlon,2005-03-17,21.0,Attack,Right Winger,Ponta,left,,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1127043,Gabriel Justino,2006-04-16,20.0,Defender,Centre-Back,Zagueiro,right,184.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1127846,Julio César,2004-04-23,22.0,Defender,Left-Back,Lateral,left,184.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1130054,Patrick,2005-02-27,21.0,Defender,Centre-Back,Zagueiro,both,187.0,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1130056,Luiz Henrique,2005-02-08,21.0,Midfield,Central Midfield,Meia,right,175.0,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1130185,Yuri Leles,2007-04-17,19.0,Attack,Centre-Forward,Centroavante,right,,Brazil,Red Bull Bragantino,,,,,0,0,0,False
+1139255,Enzo,2002-07-18,23.0,Defender,Left-Back,Lateral,left,180.0,Brazil,Grêmio Foot-Ball Porto Alegrense,,,,,0,0,0,False
+1141141,Vinicius Eduardo,2005-02-18,21.0,Defender,Centre-Back,Zagueiro,right,,Brazil,Associação Chapecoense de Futebol,,,,,0,0,0,False
+1152154,Tomás Pérez,2005-08-26,20.0,Midfield,Defensive Midfield,Volante,right,182.0,Argentina,Clube Atlético Mineiro,3000000.0,3000000.0,,,0,0,0,False
+1156563,Igor Serrote,2005-03-01,21.0,Defender,Right-Back,Lateral,right,180.0,Brazil,Grêmio Foot-Ball Porto Alegrense,,,,,0,0,0,False
+1158001,Luighi,2006-04-30,20.0,Attack,Centre-Forward,Centroavante,right,182.0,Brazil,Sociedade Esportiva Palmeiras,4000000.0,5000000.0,,,0,0,0,False
+1159259,Euder,2005-03-18,21.0,Midfield,Defensive Midfield,Volante,left,,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1174214,Sergio Palacios,2005-02-14,21.0,Defender,Centre-Back,Zagueiro,right,195.0,Colombia,Red Bull Bragantino,,,,,0,0,0,False
+1180021,Erick Belé,2007-01-21,19.0,Midfield,Attacking Midfield,Meia,left,184.0,Brazil,Sociedade Esportiva Palmeiras,1000000.0,1000000.0,,,0,0,0,False
+1182665,Néiser Villarreal,2005-04-24,21.0,Attack,Centre-Forward,Centroavante,right,186.0,Colombia,Cruzeiro Esporte Clube,4000000.0,4000000.0,,,0,0,0,False
+1193865,Pedro Cobra,2006-05-15,20.0,Goalkeeper,Goalkeeper,Goleiro,right,193.0,Brazil,Clube Atlético Mineiro,600000.0,600000.0,,,0,0,0,False
+1193868,João Souza,2007-01-01,19.0,Defender,Centre-Back,Zagueiro,right,187.0,Brazil,Clube de Regatas do Flamengo,800000.0,800000.0,,,0,0,0,False
+1202380,João Pedro,2006-04-10,20.0,Goalkeeper,Goalkeeper,Goleiro,right,191.0,Brazil,São Paulo Futebol Clube,,,,,0,0,0,False
+1202381,Felipe Preis,2005-11-19,20.0,Goalkeeper,Goalkeeper,Goleiro,right,187.0,Brazil,São Paulo Futebol Clube,,,,,0,0,0,False
+1202387,Ryan Francisco,2006-11-21,19.0,Attack,Centre-Forward,Centroavante,left,175.0,Brazil,São Paulo Futebol Clube,4500000.0,6000000.0,,,0,0,0,False
+1215842,Wendell Sacramento,2005-08-31,20.0,Attack,Left Winger,Ponta,left,176.0,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1218994,Stanley Boateng,2005-03-22,21.0,Defender,Centre-Back,Zagueiro,right,,Ghana,Red Bull Bragantino,,,,,0,0,0,False
+1219008,Vini Uchella,2006-01-22,20.0,Defender,Centre-Back,Zagueiro,right,,Brazil,Ceará Sporting Club,,,,,0,0,0,False
+1219240,Cristiano Junior,2005-04-02,21.0,Goalkeeper,Goalkeeper,Goleiro,right,193.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1219248,Kayke,2006-06-19,20.0,Attack,Centre-Forward,Centroavante,right,178.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1219653,Nathan Borges,2006-06-07,20.0,Defender,Centre-Back,Zagueiro,right,,Brazil,Grêmio Foot-Ball Porto Alegrense,,,,,0,0,0,False
+1219749,Riquelme,2007-03-13,19.0,Attack,Right Winger,Ponta,left,175.0,Brazil,Fluminense Football Club,6000000.0,6000000.0,,,0,0,0,False
+1219750,Kelwin,2006-03-24,20.0,Attack,Centre-Forward,Centroavante,right,183.0,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1219751,Léo Jance,2005-03-23,21.0,Defender,Left-Back,Lateral,left,175.0,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1219753,Davi Melo,2005-11-20,20.0,Midfield,Defensive Midfield,Volante,right,,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1219848,Igor Felisberto,2007-03-07,19.0,Defender,Right-Back,Lateral,right,175.0,Brazil,São Paulo Futebol Clube,,,,,0,0,0,False
+1219851,Paulinho,2005-05-17,21.0,Attack,Centre-Forward,Centroavante,right,177.0,Brazil,São Paulo Futebol Clube,,,,,0,0,0,False
+1219852,Guilherme Reis,2006-02-10,20.0,Defender,Left-Back,Lateral,left,174.0,Brazil,São Paulo Futebol Clube,,,,,0,0,0,False
+1220008,Allex,2006-05-04,20.0,Midfield,Attacking Midfield,Meia,left,164.0,Brazil,Sport Club Internacional,1000000.0,1000000.0,,,0,0,0,False
+1220010,Yago Noal,2007-02-05,19.0,Midfield,Attacking Midfield,Meia,right,171.0,Brazil,Sport Club Internacional,500000.0,500000.0,,,0,0,0,False
+1220141,Mateus Xavier,2007-06-29,19.0,Attack,Left Winger,Ponta,left,,Brazil,Santos Futebol Clube,400000.0,400000.0,,,0,0,0,False
+1220179,João Rafael,2005-04-08,21.0,Attack,Left Winger,Ponta,right,180.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1220180,Mateus Iseppe,2006-05-02,20.0,Midfield,Attacking Midfield,Meia,right,178.0,Brazil,Clube Atlético Mineiro,400000.0,400000.0,,,0,0,0,False
+1220181,Maykon Jesus,2005-12-07,20.0,Defender,Left-Back,Lateral,left,181.0,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1220182,Lucas Louback,2006-04-13,20.0,Attack,Centre-Forward,Centroavante,right,,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1220277,Lucyan,2006-06-15,20.0,Defender,Right-Back,Lateral,right,178.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1220392,Daniel Costa,2005-06-06,21.0,Defender,Centre-Back,Zagueiro,right,,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1220446,Felipe Teresa,2006-01-02,20.0,Attack,Right Winger,Ponta,left,182.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1220464,Lukas Zuccarello,2006-12-02,19.0,Midfield,Attacking Midfield,Meia,right,175.0,Brazil,Club de Regatas Vasco da Gama,400000.0,400000.0,,,0,0,0,False
+1220465,Igor Toledo,2006-02-03,20.0,Midfield,Defensive Midfield,Volante,right,183.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1220467,Breno Vereza,2007-09-03,18.0,Defender,Right-Back,Lateral,both,,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1220468,Luiz Gustavo,2006-04-12,20.0,Defender,Centre-Back,Zagueiro,left,188.0,Brazil,Esporte Clube Bahia,600000.0,600000.0,,,0,0,0,False
+1220612,Wendel Passos,2006-02-28,20.0,Midfield,Defensive Midfield,Volante,both,174.0,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1220613,Pedrinho,2006-01-19,20.0,Midfield,Attacking Midfield,Meia,right,,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1220614,Ruan Pablo,2008-07-23,17.0,Attack,Left Winger,Ponta,both,183.0,Brazil,Esporte Clube Bahia,8000000.0,8000000.0,,,0,0,0,False
+1220615,Waliffer,2006-01-08,20.0,Attack,Left Winger,Ponta,right,,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1220787,Douglas Telles,2007-06-01,19.0,Attack,Right Winger,Ponta,left,177.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1221317,Riquelme,2006-08-13,19.0,Midfield,Attacking Midfield,Meia,right,181.0,Brazil,Grêmio Foot-Ball Porto Alegrense,2000000.0,2000000.0,,,0,0,0,False
+1221390,Rafael Coutinho,2006-03-24,20.0,Midfield,Central Midfield,Meia,right,178.0,Brazil,Sociedade Esportiva Palmeiras,,,,,0,0,0,False
+1221660,Walace Falcão,2005-03-07,21.0,Defender,Centre-Back,Zagueiro,left,188.0,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1221818,André,2006-06-20,20.0,Midfield,Central Midfield,Meia,right,183.0,Brazil,Sport Club Corinthians Paulista,16000000.0,16000000.0,,,0,0,0,False
+1222227,Luiz Sá,2007-03-01,19.0,Goalkeeper,Goalkeeper,Goleiro,right,185.0,Brazil,Sociedade Esportiva Palmeiras,,,,,0,0,0,False
+1222308,Davi Gomes,2005-06-06,21.0,Attack,Left Winger,Ponta,right,174.0,Brazil,Red Bull Bragantino,400000.0,400000.0,,,9,0,8,False
+1222572,Lucas Daniel,2005-07-26,20.0,Attack,Centre-Forward,Centroavante,right,185.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1222581,Kauã Branco,2006-05-04,20.0,Defender,Centre-Back,Zagueiro,right,189.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1222625,Kauan Lindes,2003-11-28,22.0,Midfield,Attacking Midfield,Meia,right,180.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1222630,Michael Quarcoo,2004-10-26,21.0,Attack,Left Winger,Ponta,right,178.0,Ghana,Fortaleza Esporte Clube,,,,,0,0,0,False
+1222735,Fabiano,2005-06-11,21.0,Midfield,Defensive Midfield,Volante,right,183.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,13,False
+1222762,Lucas Lohan,2006-07-10,20.0,Midfield,Defensive Midfield,Volante,left,177.0,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1223221,Igão,2007-08-19,18.0,Defender,Centre-Back,Zagueiro,right,187.0,Brazil,São Paulo Futebol Clube,,,,,0,0,0,False
+1223634,Davi,2005-03-23,21.0,Goalkeeper,Goalkeeper,Goleiro,right,192.0,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1223636,Kayan,2005-05-03,21.0,Attack,Right Winger,Ponta,right,173.0,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1223679,Cláudio,2005-04-24,21.0,Midfield,Attacking Midfield,Meia,right,164.0,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1223685,João Alves,2005-03-29,21.0,Midfield,Central Midfield,Meia,right,177.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1223728,Cauê Nascimento,2006-12-13,19.0,Defender,Left-Back,Lateral,left,,Brazil,Red Bull Bragantino,500000.0,500000.0,,,0,0,0,False
+1223828,Luis Miguel,2005-02-04,21.0,Attack,Left Winger,Ponta,right,171.0,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1223829,Edenilson,2005-06-17,21.0,Defender,Centre-Back,Zagueiro,right,182.0,Brazil,Esporte Clube Vitória,,,,,24,0,16,False
+1223830,Pedro Henrique,2005-07-23,20.0,Defender,Left-Back,Lateral,left,,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1223831,Andrei,2005-04-30,21.0,Defender,Centre-Back,Zagueiro,left,201.0,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1223832,Davi Barbosa,2006-03-02,20.0,Goalkeeper,Goalkeeper,Goleiro,right,,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1223833,Pablo,2006-07-01,20.0,Defender,Left-Back,Lateral,left,179.0,Brazil,Sport Club Internacional,,,,,0,0,0,False
+1224014,Marlon Santos,2005-01-11,21.0,Attack,Centre-Forward,Centroavante,right,175.0,Brazil,Esporte Clube Juventude,,,,,0,0,5,False
+1224500,Dodô,2006-07-01,20.0,Defender,Centre-Back,Zagueiro,left,,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1225115,Felype,2005-12-01,20.0,Defender,Centre-Back,Zagueiro,left,,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1225121,Pedro Cruz,2004-03-05,22.0,Goalkeeper,Goalkeeper,Goleiro,right,188.0,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1225472,Dieguinho,2004-07-09,22.0,Attack,Centre-Forward,Centroavante,,,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1225755,Diego Tarzia,2003-04-26,23.0,Attack,Left Winger,Ponta,left,174.0,Argentina,Esporte Clube Vitória,2000000.0,2500000.0,,,0,0,0,False
+1226334,Rafael Pinna,2007-09-04,18.0,Attack,Centre-Forward,Centroavante,,183.0,Brazil,Esporte Clube Juventude,,,,,0,0,0,False
+1226703,Guilherme Gomes,2006-02-02,20.0,Midfield,Attacking Midfield,Meia,right,180.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1228194,Álvaro Montoro,2007-04-17,19.0,Attack,Left Winger,Ponta,right,170.0,Argentina,S. A. F. Botafogo,10000000.0,10000000.0,,,0,0,0,False
+1228661,Gabriel Mec,2008-04-11,18.0,Midfield,Attacking Midfield,Meia,both,173.0,Brazil,Grêmio Foot-Ball Porto Alegrense,16000000.0,16000000.0,,,0,0,0,False
+1229317,Kauan Lima,2007-02-14,19.0,Goalkeeper,Goalkeeper,Goleiro,right,192.0,Brazil,Sociedade Esportiva Palmeiras,,,,,0,0,0,False
+1232718,Bruno,2007-04-05,19.0,Midfield,Central Midfield,Meia,right,179.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1233473,Arthur Dias,2007-04-10,19.0,Defender,Centre-Back,Zagueiro,left,188.0,Brazil,Clube Atlético Paranaense,3000000.0,3000000.0,,,0,0,0,False
+1241022,Román Gómez,2004-07-14,21.0,Defender,Right-Back,Lateral,right,181.0,Argentina,Esporte Clube Bahia,1500000.0,1500000.0,,,0,0,0,False
+1241278,Yarlen,2006-02-20,20.0,Attack,Right Winger,Ponta,both,178.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1253807,Luis Benedetti,2006-06-07,20.0,Defender,Centre-Back,Zagueiro,left,197.0,Brazil,Sociedade Esportiva Palmeiras,4000000.0,4000000.0,,,0,0,0,False
+1253812,Nicolas Pontes,2006-01-14,20.0,Defender,Right-Back,Lateral,right,,Brazil,Cruzeiro Esporte Clube,,,,,0,0,0,False
+1253814,Kaique Kenji,2006-01-29,20.0,Attack,Left Winger,Ponta,right,178.0,Brazil,Cruzeiro Esporte Clube,3000000.0,3000000.0,,,0,0,0,False
+1253844,Vinicius Lira,2007-10-12,18.0,Defender,Left-Back,Lateral,left,187.0,Brazil,Santos Futebol Clube,4000000.0,4000000.0,,,0,0,0,False
+1253924,Pedro Kauã,2006-03-29,20.0,Defender,Centre-Back,Zagueiro,right,193.0,Brazil,Sport Club Internacional,,,,,0,0,0,False
+1253926,Bernardo Zortea,2007-03-21,19.0,Midfield,Defensive Midfield,Volante,right,184.0,Brazil,Grêmio Foot-Ball Porto Alegrense,,,,,0,0,0,False
+1253927,Pedro Gabriel,2007-06-06,19.0,Defender,Left-Back,Lateral,left,,Brazil,Grêmio Foot-Ball Porto Alegrense,2000000.0,2000000.0,,,4,0,8,False
+1253931,Lucyo,2006-03-15,20.0,Defender,Left-Back,Lateral,left,182.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1253988,Fernando Vera,2005-03-05,21.0,Defender,Centre-Back,Zagueiro,right,192.0,Paraguay,Sport Club Corinthians Paulista,,,,,0,0,0,False
+1254082,Fredi Gomes,2006-05-23,20.0,Defender,Centre-Back,Zagueiro,left,178.0,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1255012,David Martins,2007-09-15,18.0,Midfield,Attacking Midfield,Meia,left,,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1255323,Cristovam,2006-02-08,20.0,Defender,Centre-Back,Zagueiro,right,188.0,Brazil,Fortaleza Esporte Clube,,,,,0,0,0,False
+1256755,João Ananias,2007-02-12,19.0,Defender,Centre-Back,Zagueiro,left,188.0,Brazil,Santos Futebol Clube,500000.0,500000.0,,,0,0,0,False
+1257132,Dieguinho,2007-09-16,18.0,Attack,Right Winger,Ponta,left,170.0,Brazil,Sport Club Corinthians Paulista,4000000.0,4000000.0,,,0,0,0,False
+1257133,Gui Negão,2007-02-06,19.0,Attack,Centre-Forward,Centroavante,right,185.0,Brazil,Sport Club Corinthians Paulista,7000000.0,8000000.0,,,0,0,0,False
+1259705,Bernardo Jacob,2006-02-28,20.0,Midfield,Defensive Midfield,Volante,right,175.0,Brazil,Sport Club Internacional,,,,,0,0,0,False
+1260202,Roger,2008-04-29,18.0,Attack,Right Winger,Ponta,left,,Brazil,Grêmio Foot-Ball Porto Alegrense,400000.0,400000.0,,,0,0,0,False
+1260203,Guilherme Sousa,2006-02-23,20.0,Attack,Centre-Forward,Centroavante,left,186.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1261179,Wanderson,2005-07-27,20.0,Midfield,Defensive Midfield,Volante,right,172.0,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1261183,Luis Eduardo,2005-09-22,20.0,Goalkeeper,Goalkeeper,Goleiro,right,189.0,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1261644,Ryan Felipe,2006-07-28,19.0,Attack,Right Winger,Ponta,right,178.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1263464,Kaique Pereira,2007-03-02,19.0,Defender,Left-Back,Lateral,left,,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1265346,Gustavo Ulguim,2006-06-22,20.0,Attack,Left Winger,Ponta,right,,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1268048,Luis Pacheco,2008-02-02,18.0,Midfield,Defensive Midfield,Volante,right,180.0,Brazil,Sociedade Esportiva Palmeiras,500000.0,500000.0,,,0,0,0,False
+1269378,Lucca,2007-06-14,19.0,Attack,Left Winger,Ponta,right,172.0,Brazil,São Paulo Futebol Clube,3000000.0,3000000.0,,,0,0,0,False
+1275068,Kauã Prates,2008-08-12,17.0,Defender,Left-Back,Lateral,left,184.0,Brazil,Cruzeiro Esporte Clube,10000000.0,10000000.0,,,0,0,0,False
+1275117,Kaio,2007-02-19,19.0,Defender,Right-Back,Lateral,right,,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1275143,Rafael Vargas,2005-10-10,20.0,Midfield,Attacking Midfield,Meia,right,175.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1275582,Pedro Oliveira,2006-04-20,20.0,Defender,Left-Back,Lateral,left,,Brazil,Clube Atlético Mineiro,,,,,0,0,1,False
+1277007,Gusttavo Sousa,2006-01-10,20.0,Defender,Right-Back,Lateral,right,175.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1279322,Lucas Emanoel,2006-07-14,19.0,Midfield,Attacking Midfield,Meia,left,,Brazil,Fortaleza Esporte Clube,,,,,0,0,0,False
+1279908,Wallace Davi,2007-05-10,19.0,Midfield,Defensive Midfield,Volante,right,185.0,Brazil,S. A. F. Botafogo,1000000.0,1000000.0,,,0,0,0,False
+1279930,Bruno Lopes,2007-07-25,18.0,Attack,Centre-Forward,Centroavante,right,182.0,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1284051,Cauã Zappelini,2007-03-26,19.0,Midfield,Attacking Midfield,Meia,both,,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1284052,Marquinhos,2007-02-15,19.0,Midfield,Defensive Midfield,Volante,right,185.0,Brazil,S. A. F. Botafogo,,,,,0,0,3,False
+1285798,Tiaguinho,2008-02-02,18.0,Midfield,Central Midfield,Meia,both,176.0,Brazil,Grêmio Foot-Ball Porto Alegrense,500000.0,500000.0,,,0,0,0,False
+1297910,Rayan Lelis,2007-01-19,19.0,Attack,Right Winger,Ponta,right,,Brazil,Cruzeiro Esporte Clube,,,,,0,0,0,False
+1311456,Ryan Augusto,2007-09-04,18.0,Defender,Right-Back,Lateral,right,179.0,Brazil,Red Bull Bragantino,1000000.0,1000000.0,,,0,0,0,False
+1311458,Eduardo,2006-01-07,20.0,Goalkeeper,Goalkeeper,Goleiro,right,,Brazil,Fortaleza Esporte Clube,,,,,0,0,0,False
+1312046,Benjamin,2006-05-29,20.0,Midfield,Defensive Midfield,Volante,right,168.0,Ghana,Sport Club Internacional,,,,,2,0,14,False
+1321884,Joshua,2007-05-26,19.0,Midfield,Attacking Midfield,Meia,right,180.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1328021,Dell,2008-06-09,18.0,Attack,Centre-Forward,Centroavante,right,174.0,Brazil,Esporte Clube Bahia,4000000.0,4000000.0,,,0,0,0,False
+1332141,Pablo,2007-04-12,19.0,Midfield,Defensive Midfield,Volante,left,188.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1339551,Índio,2008-04-03,18.0,Midfield,Central Midfield,Meia,both,180.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1339559,Wesley Natã,2008-04-18,18.0,Attack,Left Winger,Ponta,right,173.0,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1344099,João Marcelo,2005-04-15,21.0,Attack,Centre-Forward,Centroavante,right,182.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1355257,Bruno André,2007-01-02,19.0,Defender,Centre-Back,Zagueiro,right,,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1355258,Riquelme Avellar,2006-03-08,20.0,Defender,Left-Back,Lateral,left,,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1355268,Luis Eduardo,2008-01-16,18.0,Defender,Centre-Back,Zagueiro,right,188.0,Brazil,Grêmio Foot-Ball Porto Alegrense,,,,,0,0,0,False
+1355275,Pedro Bezerra,2007-01-15,19.0,Midfield,Defensive Midfield,Volante,right,175.0,Brazil,São Paulo Futebol Clube,,,,,0,0,0,False
+1355277,Tetê,2007-04-14,19.0,Attack,Left Winger,Ponta,both,172.0,Brazil,São Paulo Futebol Clube,1000000.0,1000000.0,,,0,0,0,False
+1355333,Dedezinho,2006-03-09,20.0,Midfield,Central Midfield,Meia,right,178.0,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1355364,Vagno,2007-09-26,18.0,Defender,Left-Back,Lateral,left,,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1355365,Keven Samuel,2007-01-26,19.0,Attack,Centre-Forward,Centroavante,right,179.0,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1355385,Robinho Junior,2007-12-17,18.0,Attack,Right Winger,Ponta,both,170.0,Brazil,Santos Futebol Clube,5000000.0,5000000.0,,,0,0,0,False
+1355429,Raykkonen,2008-07-13,17.0,Attack,Centre-Forward,Centroavante,right,187.0,Brazil,Sport Club Internacional,1000000.0,1000000.0,,,0,0,0,False
+1355484,Kauã Pascini,2008-03-05,18.0,Defender,Left-Back,Lateral,left,172.0,Brazil,Clube Atlético Mineiro,500000.0,500000.0,,,0,0,0,False
+1355486,Vitão,2008-03-04,18.0,Defender,Centre-Back,Zagueiro,right,194.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1355776,Saymon,2007-03-07,19.0,Midfield,Defensive Midfield,Volante,left,,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1355787,Guilherme Soares,2007-03-04,19.0,Midfield,Central Midfield,Meia,both,,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1355789,Daniel Lima,2007-08-15,18.0,Defender,Left-Back,Lateral,left,,Brazil,Esporte Clube Bahia,,,,,0,0,0,False
+1355835,Pedro Fachinetti,2007-12-07,18.0,Defender,Centre-Back,Zagueiro,right,192.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1355836,Lucas Vieira,2007-03-08,19.0,Midfield,Defensive Midfield,Volante,right,178.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,1,False
+1355838,João Camargo,2007-04-12,19.0,Attack,Centre-Forward,Centroavante,both,186.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1355839,Wanderson Jr,2007-10-17,18.0,Defender,Right-Back,Lateral,right,,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1360805,Ramires,2006-03-21,20.0,Defender,Left-Back,Lateral,left,,Brazil,Mirasol Futebol Clube,,,,,0,0,0,False
+1360833,Caio Valle,2007-10-11,18.0,Midfield,Attacking Midfield,Meia,left,,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1362167,Kauan,2007-03-15,19.0,Defender,Centre-Back,Zagueiro,right,189.0,Brazil,Esporte Clube Vitória,,,,,0,0,1,False
+1362170,Gean,2007-06-11,19.0,Defender,Right-Back,Lateral,right,176.0,Brazil,Esporte Clube Vitória,,,,,1,0,0,False
+1362701,Pedro Ferreira,2007-04-24,19.0,Midfield,Attacking Midfield,Meia,right,175.0,Brazil,São Paulo Futebol Clube,,,,,0,0,0,False
+1362881,Pedro Esli,2007-05-03,19.0,Midfield,Attacking Midfield,Meia,right,180.0,Brazil,Ceará Sporting Club,,,,,0,0,0,False
+1363174,Cauã Berrío,2007-03-31,19.0,Defender,Right-Back,Lateral,right,,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1363404,Johnny Góes,2007-03-27,19.0,Defender,Centre-Back,Zagueiro,left,187.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1363516,Gabriel Abdias,2006-06-19,20.0,Defender,Left-Back,Lateral,left,177.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1364573,Huguinho,2007-06-04,19.0,Midfield,Defensive Midfield,Volante,right,170.0,Brazil,S. A. F. Botafogo,300000.0,300000.0,,,0,0,0,False
+1364574,Alison,2007-01-26,19.0,Defender,Left-Back,Lateral,left,177.0,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,9,False
+1364575,Léo Araújo,2007-01-31,19.0,Defender,Right-Back,Lateral,right,,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1364576,Diego Ahmed,2007-05-30,19.0,Midfield,Defensive Midfield,Volante,right,,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1364577,Andrey Fernandes,2008-02-05,18.0,Attack,Centre-Forward,Centroavante,both,176.0,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1364722,Guilherme Santos,2007-01-19,19.0,Defender,Right-Back,Lateral,right,174.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1364790,Marcos Cabrobó,2007-01-29,19.0,Attack,Left Winger,Ponta,right,177.0,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1364984,Rodrigo Gomes,2006-02-07,20.0,Defender,Centre-Back,Zagueiro,right,,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1364987,Breno,2007-03-24,19.0,Defender,Centre-Back,Zagueiro,both,,Brazil,Fluminense Football Club,,,,,0,0,0,False
+1365061,Cauã Soares,2008-06-30,18.0,Attack,Second Striker,Centroavante,right,183.0,Brazil,Clube Atlético Mineiro,500000.0,500000.0,,,0,0,0,False
+1365180,Emerson Buiu,2006-02-08,20.0,Defender,Right-Back,Lateral,right,,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1365425,Caio Wesley,2007-05-12,19.0,Attack,Centre-Forward,Centroavante,right,181.0,Brazil,Fortaleza Esporte Clube,,,,,0,0,0,False
+1365895,Jefinho,2006-08-15,19.0,Midfield,Attacking Midfield,Meia,left,,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1365896,Adriel,2006-07-12,19.0,Midfield,Defensive Midfield,Volante,right,,Brazil,Sport Club do Recife,,,,,0,0,1,False
+1365897,Zé Lucas,2008-03-23,18.0,Midfield,Defensive Midfield,Volante,right,174.0,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1365898,Rafinha,2006-04-17,20.0,Defender,Centre-Back,Zagueiro,left,180.0,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1365900,Felipinho,2006-11-06,19.0,Attack,Right Winger,Ponta,both,182.0,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1365901,Luizinho,2006-06-01,20.0,Midfield,Defensive Midfield,Volante,right,,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1365902,Gabriel Henrique,2006-03-25,20.0,Defender,Left-Back,Lateral,left,,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1365903,Kauã,2007-05-30,19.0,Goalkeeper,Goalkeeper,Goleiro,,,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1365904,Marco Polo,2008-12-08,17.0,Midfield,Attacking Midfield,Meia,right,,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1366040,Riquelme,2007-01-03,19.0,Defender,Centre-Back,Zagueiro,both,190.0,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1367322,Eric Soares,2006-01-08,20.0,Midfield,Central Midfield,Meia,right,,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1368351,Guilherme Gama,2008-06-01,18.0,Defender,Centre-Back,Zagueiro,left,,Brazil,Sport Club Corinthians Paulista,,,,,0,0,0,False
+1370310,João Vitor,2007-01-03,19.0,Defender,Right-Back,Lateral,right,178.0,Brazil,Sport Club Corinthians Paulista,,,,,0,0,0,False
+1370606,Léo Nannetti,2007-08-21,18.0,Goalkeeper,Goalkeeper,Goleiro,left,196.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1371501,Luís Gustavo,2006-03-24,20.0,Defender,Right-Back,Lateral,right,174.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1376049,Luiz Felipe,2008-02-08,18.0,Midfield,Defensive Midfield,Volante,right,183.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1380266,Heittor,2007-09-18,18.0,Attack,Centre-Forward,Centroavante,right,170.0,Brazil,Sociedade Esportiva Palmeiras,,,,,0,0,0,False
+1383406,Gabriel Veneno,2009-07-16,16.0,Attack,Right Winger,Ponta,left,169.0,Brazil,Clube Atlético Mineiro,,,,,0,0,0,False
+1383716,Djhordney,2007-06-17,19.0,Midfield,Central Midfield,Meia,right,174.0,Brazil,São Paulo Futebol Clube,500000.0,500000.0,,,0,0,0,False
+1387007,Nicolas,2007-04-08,19.0,Defender,Left-Back,Lateral,left,176.0,Brazil,São Paulo Futebol Clube,,,,,0,0,0,False
+1388409,Kauã Moraes,2006-09-29,19.0,Defender,Right-Back,Lateral,right,174.0,Brazil,Cruzeiro Esporte Clube,2000000.0,2000000.0,,,0,0,0,False
+1393375,Yago Melo,2007-02-06,19.0,Defender,Centre-Back,Zagueiro,right,,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1408362,Gustavo Santana,2008-03-02,18.0,Defender,Left-Back,Lateral,both,,Brazil,Esporte Clube Bahia,,,,,2,0,13,False
+1410674,Mamady Cissé,2007-07-01,19.0,Midfield,Central Midfield,Meia,right,184.0,Guinea,Clube Atlético Mineiro,1000000.0,1000000.0,,,0,0,0,False
+1412424,Vitor Lamounier,2007-10-18,18.0,Goalkeeper,Goalkeeper,Goleiro,right,192.0,Brazil,Cruzeiro Esporte Clube,,,,,0,0,0,False
+1416506,Cléber Lucas,2007-02-22,19.0,Goalkeeper,Goalkeeper,Goleiro,right,192.0,Brazil,S. A. F. Botafogo,,,,,0,0,0,False
+1423021,Kauê Furquim,2009-02-27,17.0,Attack,Right Winger,Ponta,left,173.0,Brazil,Sport Club Corinthians Paulista,,,,,0,0,0,False
+1423022,Diego Minete,2009-01-27,17.0,Attack,Centre-Forward,Centroavante,left,183.0,Brazil,Club de Regatas Vasco da Gama,,,,,0,0,0,False
+1427404,Kauan Vitor,2006-06-15,20.0,Defender,Left-Back,Lateral,left,171.0,Brazil,Esporte Clube Vitória,,,,,0,0,0,False
+1446971,Gabriel Menegon,2008-10-14,17.0,Goalkeeper,Goalkeeper,Goleiro,right,196.0,Brazil,Grêmio Foot-Ball Porto Alegrense,,,,,0,0,0,False
+1459871,Victor Hugo,2008-12-12,17.0,Defender,Left-Back,Lateral,left,,Brazil,Sport Club do Recife,,,,,0,0,0,False
+1464878,Kadir Barría,2007-07-18,18.0,Attack,Centre-Forward,Centroavante,right,183.0,Panama,S. A. F. Botafogo,2000000.0,2000000.0,,,0,0,0,False
+1471677,Alisson,2008-07-31,17.0,Defender,Left-Back,Lateral,left,173.0,Brazil,Sport Club Internacional,,,,,0,0,0,False
+1488557,Gabriel Werneck,2009-02-14,17.0,Goalkeeper,Goalkeeper,Goleiro,right,185.0,Brazil,Clube de Regatas do Flamengo,,,,,0,0,0,False
+1488788,Gui Amorim,2008-01-15,18.0,Midfield,Attacking Midfield,Meia,right,178.0,Brazil,Sport Club Corinthians Paulista,,,,,0,0,0,False
+1500420,Bruninho,2008-08-16,17.0,Attack,Right Winger,Ponta,left,175.0,Brazil,Clube Atlético Paranaense,7000000.0,7000000.0,,,0,0,0,False
+1519143,Anderson Pato,2002-09-28,23.0,Attack,Left Winger,Ponta,right,178.0,Brazil,Esporte Clube Vitória,250000.0,250000.0,,,0,0,0,False

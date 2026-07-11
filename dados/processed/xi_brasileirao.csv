@@ -1,0 +1,12 @@
+liga,name,posicao_projeto,idade,current_club_name,country_of_citizenship,dados_completos,partidas_jogadas,minutos_jogados,gols,assistencias,gols_90,assistencias_90,finalizacoes_alvo_90,cruzamentos_90,desarmes_90,interceptacoes_90,gols_90_norm,assistencias_90_norm,finalizacoes_alvo_90_norm,cruzamentos_90_norm,desarmes_90_norm,interceptacoes_90_norm,market_value_in_eur,score
+brasileirao,Léo Nannetti,Goleiro,18.0,Clube de Regatas do Flamengo,Brazil,False,0.0,,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+brasileirao,Yago Melo,Zagueiro,19.0,Clube de Regatas do Flamengo,Brazil,False,0.0,,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+brasileirao,Tiago Cóser,Zagueiro,22.0,Coritiba Foot Ball Club,Brazil,False,0.0,,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1500000.0,0.0
+brasileirao,João Vitor,Lateral,19.0,Sport Club Corinthians Paulista,Brazil,False,0.0,,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+brasileirao,Luís Gustavo,Lateral,20.0,Clube Atlético Mineiro,Brazil,False,0.0,,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+brasileirao,Thiago Henrique,Volante,22.0,Fluminense Football Club,Brazil,False,0.0,,4,0,4.0,0.0,0.0,0.0,0.0,0.0,0.1666666666666666,0.0,0.0,0.0,0.0,0.0,,0.0833333333333333
+brasileirao,Bahia,Meia,20.0,Sport Club Corinthians Paulista,Brazil,False,0.0,,2,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0833333333333333,0.0,0.0,0.0,0.0,0.0,,0.1666666666666666
+brasileirao,João Neto,Meia,23.0,Red Bull Bragantino,Brazil,False,0.0,,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0416666666666666,0.0,0.0,0.0,0.0,0.0,125000.0,0.0833333333333333
+brasileirao,Davi Gomes,Ponta,21.0,Red Bull Bragantino,Brazil,False,0.0,,9,0,9.0,0.0,0.0,0.0,0.0,0.0,0.375,0.0,0.0,0.0,0.0,0.0,400000.0,1.125
+brasileirao,Kayky,Ponta,23.0,Sport Club Internacional,Brazil,False,0.0,,2,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0833333333333333,0.0,0.0,0.0,0.0,0.0,5000000.0,0.25
+brasileirao,Vitor Roque,Centroavante,21.0,Sociedade Esportiva Palmeiras,Brazil,False,0.0,,17,0,17.0,0.0,0.0,0.0,0.0,0.0,0.7083333333333333,0.0,0.0,0.0,0.0,0.0,38000000.0,2.833333333333333
