@@ -24,50 +24,55 @@ function App() {
 
   if (carregando) {
     return (
-      <div className="flex min-h-screen items-center justify-center text-neutral-500">
-        Carregando dados...
+      <div className="flex min-h-screen items-center justify-center bg-bg font-mono text-sm text-ink-muted">
+        carregando dossie...
       </div>
     );
   }
 
   if (erro) {
     return (
-      <div className="flex min-h-screen items-center justify-center text-red-600">
-        Erro ao carregar dados: {erro}
+      <div className="flex min-h-screen items-center justify-center bg-bg font-mono text-sm text-red-400">
+        erro ao carregar dados: {erro}
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen bg-white px-6 py-8">
-      <div className="mx-auto max-w-5xl">
-        <header className="mb-6">
-          <h1 className="text-2xl font-bold text-neutral-900">
-            ScoutPy - Jovens Talentos Sub-23
-          </h1>
-          <p className="mt-1 text-sm text-neutral-500">
-            Premier League, La Liga, Bundesliga, Serie A, Ligue 1 e Brasileirao
+    <div className="min-h-screen bg-bg">
+      <header className="border-b border-line px-4 py-6 sm:px-8">
+        <div className="mx-auto max-w-6xl">
+          <p className="font-mono text-xs uppercase tracking-[0.3em] text-amber">
+            Dossie de Scouting
           </p>
-        </header>
+          <h1 className="font-display text-4xl tracking-wide text-ink sm:text-5xl">
+            SCOUTPY
+          </h1>
+          <p className="mt-1 text-sm text-ink-muted">
+            Descoberta de talentos Sub-23 em 6 ligas do futebol mundial
+          </p>
+        </div>
+      </header>
 
+      <main className="mx-auto max-w-6xl px-4 py-6 sm:px-8">
         <AbasLiga ligaAtiva={ligaAtiva} aoTrocar={setLigaAtiva} />
 
         {ligaTemDadosIncompletos && (
-          <p className="mt-3 rounded-md bg-amber-50 px-3 py-2 text-sm text-amber-700">
-            Aviso: essa liga usa uma fonte de dados alternativa e criterio mais fraco
-            (sem partidas/minutos reais).
+          <p className="mt-4 rounded-md border border-amber-soft bg-amber-soft px-3 py-2 text-xs text-amber">
+            Aviso: essa liga usa uma fonte de dados alternativa e criterio mais
+            fraco (sem partidas/minutos reais).
           </p>
         )}
 
-        <div className="my-4 flex items-center justify-between">
-          <span className="text-sm text-neutral-500">
-            {jogadoresFiltrados.length} jogador(es) sub-23 elegivel(is)
-          </span>
+        <div className="my-5 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
           <FiltroPosicao posicaoAtiva={posicaoAtiva} aoTrocar={setPosicaoAtiva} />
+          <span className="font-mono text-xs text-ink-muted">
+            {jogadoresFiltrados.length} jogador(es)
+          </span>
         </div>
 
         <TabelaJogadores jogadores={jogadoresFiltrados} />
-      </div>
+      </main>
     </div>
   );
 }

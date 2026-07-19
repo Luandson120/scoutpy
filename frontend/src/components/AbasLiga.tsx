@@ -1,4 +1,4 @@
-﻿import { LIGAS, NOME_LIGA, type Liga } from "../types/jogador";
+﻿import { LIGAS, NOME_LIGA, CODIGO_LIGA, type Liga } from "../types/jogador";
 
 interface Props {
   ligaAtiva: Liga;
@@ -7,20 +7,26 @@ interface Props {
 
 export function AbasLiga({ ligaAtiva, aoTrocar }: Props) {
   return (
-    <div className="flex flex-wrap gap-2 border-b border-neutral-200 pb-3">
+    <div className="scroll-sem-barra flex gap-1 overflow-x-auto border-b border-line">
       {LIGAS.map((liga) => {
         const ativa = liga === ligaAtiva;
         return (
           <button
             key={liga}
             onClick={() => aoTrocar(liga)}
-            className={`rounded-full px-4 py-1.5 text-sm font-medium transition-colors ${
-              ativa
-                ? "bg-neutral-900 text-white"
-                : "bg-neutral-100 text-neutral-600 hover:bg-neutral-200"
-            }`}
+            className={
+              "flex shrink-0 flex-col items-start gap-0.5 border-b-2 px-4 py-2 text-left transition-colors " +
+              (ativa
+                ? "border-amber text-ink"
+                : "border-transparent text-ink-muted hover:text-ink")
+            }
           >
-            {NOME_LIGA[liga]}
+            <span className="font-mono text-[10px] tracking-widest text-ink-muted">
+              {CODIGO_LIGA[liga]}
+            </span>
+            <span className="font-display text-lg leading-none tracking-wide">
+              {NOME_LIGA[liga]}
+            </span>
           </button>
         );
       })}

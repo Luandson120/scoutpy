@@ -15,7 +15,7 @@ export function useJogadores(): EstadoJogadores {
   useEffect(() => {
     fetch("/data/ranking.json")
       .then((res) => {
-        if (!res.ok) throw new Error(`Erro ao carregar dados: ${res.status}`);
+        if (!res.ok) throw new Error("Erro ao carregar dados: " + res.status);
         return res.json();
       })
       .then((data: Jogador[]) => {

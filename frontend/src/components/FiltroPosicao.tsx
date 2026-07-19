@@ -1,4 +1,4 @@
-﻿import { POSICOES, type Posicao } from "../types/jogador";
+﻿import { POSICOES, COR_POSICAO, type Posicao } from "../types/jogador";
 
 interface Props {
   posicaoAtiva: Posicao | "Todas";
@@ -6,19 +6,41 @@ interface Props {
 }
 
 export function FiltroPosicao({ posicaoAtiva, aoTrocar }: Props) {
-  const opcoes: (Posicao | "Todas")[] = ["Todas", ...POSICOES];
-
   return (
-    <select
-      value={posicaoAtiva}
-      onChange={(e) => aoTrocar(e.target.value as Posicao | "Todas")}
-      className="rounded-lg border border-neutral-300 px-3 py-2 text-sm text-neutral-800 focus:outline-none focus:ring-2 focus:ring-neutral-900"
-    >
-      {opcoes.map((posicao) => (
-        <option key={posicao} value={posicao}>
-          {posicao}
-        </option>
-      ))}
-    </select>
+    <div className="scroll-sem-barra flex gap-2 overflow-x-auto">
+      <button
+        onClick={() => aoTrocar("Todas")}
+        className={
+          "shrink-0 rounded-full border px-3 py-1.5 text-xs font-medium transition-colors " +
+          (posicaoAtiva === "Todas"
+            ? "border-ink bg-ink text-bg"
+            : "border-line text-ink-muted hover:border-ink-muted hover:text-ink")
+        }
+      >
+        Todas
+      </button>
+      {POSICOES.map((posicao) => {
+        const ativa = posicaoAtiva === posicao;
+        return (
+          <button
+            key={posicao}
+            onClick={() => aoTrocar(posicao)}
+            className={
+              "flex shrink-0 items-center gap-1.5 rounded-full border px-3 py-1.5 text-xs font-medium transition-colors " +
+              (ativa
+                ? "border-transparent text-bg"
+                : "border-line text-ink-muted hover:border-ink-muted hover:text-ink")
+            }
+            style={ativa ? { backgroundColor: COR_POSICAO[posicao] } : undefined}
+          >
+            <span
+              className="h-2 w-2 rounded-full"
+              style={{ backgroundColor: COR_POSICAO[posicao] }}
+            />
+            {posicao}
+          </button>
+        );
+      })}
+    </div>
   );
 }

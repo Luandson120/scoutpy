@@ -1,1 +1,47 @@
-@import "tailwindcss";
+﻿@import "tailwindcss";
+
+@theme {
+  --color-bg: #0D1512;
+  --color-surface: #16211C;
+  --color-surface-hover: #1E2C25;
+  --color-line: #2A3830;
+  --color-ink: #EDEAE0;
+  --color-ink-muted: #8A9C90;
+  --color-amber: #F2A93B;
+  --color-amber-soft: #3A2E14;
+
+  --color-pos-goleiro: #9B8AC4;
+  --color-pos-zagueiro: #5A7FA6;
+  --color-pos-lateral: #4FA6A0;
+  --color-pos-volante: #7C8A4C;
+  --color-pos-meia: #D6A73B;
+  --color-pos-ponta: #E0613F;
+  --color-pos-centroavante: #C23B3B;
+
+  --font-display: "Bebas Neue", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+}
+
+::-webkit-scrollbar {
+  height: 6px;
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--color-line);
+  border-radius: 999px;
+}
+
+.scroll-sem-barra {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.scroll-sem-barra::-webkit-scrollbar {
+  display: none;
+}

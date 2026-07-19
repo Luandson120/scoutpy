@@ -1,4 +1,5 @@
-﻿export interface Jogador {
+@'
+export interface Jogador {
   name: string;
   liga: string;
   posicao: Posicao;
@@ -77,3 +78,6 @@ export const CODIGO_LIGA: Record<Liga, string> = {
   portugal: "POR",
   argentina: "ARG",
 };
+'@ | Set-Content -Path "src\types\jogador.ts" -Encoding utf8
+
+Write-Host "Argentina adicionada ao types/jogador.ts com sucesso."
